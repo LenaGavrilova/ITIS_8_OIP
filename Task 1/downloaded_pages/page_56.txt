@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Арабский Мау порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, ARM, Арабский Мау,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Арабский Мау
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Арабский Мау порода кошек фото" src="https://s3.webestudio.ru/topcat/breed_article_images/b/3/f/b3fa8b47ca438f2117a362c3e7e9d83b.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Арабский Мау
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>ARM</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<p>
+<strong>Место возникновения:</strong> Объединенные Арабские Эмираты</p><p>
+<strong>Рекомендуется:</strong> для семей, живущих в просторных частных домах.</p><h3>
+<strong></strong>История породы<strong></strong></h3><p>
+	Аборигенная порода кошек, широко распространенная на Ближнем Востоке – в ОАЭ, Бахрейне, Катаре, Кувейте, Саудовской Аравии и других странах Персидского залива. Возникла более 1000 лет назад естественным путем, без участия человека. Много столетий эти животные вели полудикий образ жизни, находясь рядом с человеком, но оставаясь самостоятельными. Они жили как в пустынной местности, так и в населенных районах. Поскольку пустыни в арабских странах постепенно перемещались в города, то и кошачьи популяции в поисках еды и убежища все больше приближались к поселениям человека. Большинство кошек поселялись вдоль улиц и в подворотнях, а некоторым даже посчастливилось обрести приют в доме человека. Отсюда, кстати, появилось название «уличная кошка». Многие жители этого региона привезли кошек с собой, либо приобретали кошек признанных, популярных пород. Таким образом, кошек местного происхождения долгое время игнорировали. И лишь фелинолог Петра Мюллер, проживающая в ОАЭ, составила селекционную программу и серьезно занялась разведением местных кошек. Только тогда на арабских мау обратила внимание фелинологическая общественность, и в 2008 году порода была зарегистрирована WCF как условно признанная. Право на участие в выставках международного класса представители породы получили в 2009 году. За пределами региона происхождения порода не слишком распространена.</p><h3>
+<strong></strong>Внешний вид <strong></strong></h3><p>
+	Кошка крупного телосложения, сильная, с длинными ногами и довольно мускулистым телом. Не слишком худощавая, относительно стройная. Имеет вид дикой кошки.</p><p>
+<strong>Голова: </strong>На вид кажется круглой, однако это впечатление обманчиво, на самом деле голова скорее длинная, чем широкая. У этих кошек есть очень интересная особенность – своеобразно изогнутый профиль, четко выделяются вибриссы и подбородок.</p><p>
+<strong>Глаза:</strong> Овальной формы, выразительные, цвет должен соответствовать окрасу шерсти.</p><p>
+<strong>Уши:</strong> Большие, широкие у основания, расположены высоко и несколько по бокам округлой головы, довольно широко расставленные, со слегка закругленными кончиками.</p><p>
+<strong>Шея:</strong> Плотная.</p><p>
+<strong>Тело:</strong> Атлетического сложения, достаточно длинное, мускулатура отлично развита.</p><p>
+<strong>Ноги:</strong> Высокие и длинные, довольно тонкие, но при этом сильные.</p><p>
+<strong>Лапы:</strong> Овальной формы, небольшие.</p><p>
+<strong>Хвост:</strong> Средней длины, довольно гибкий, сужается к кончику.</p><p>
+<strong>Шерсть:</strong> Плотно прилегающая к телу, без подшерстка, у взрослых особей не шелковистая, шелковистая шерсть бывает лишь у молодых кошек. На вид шерстный покров мягкий, однако на самом деле он довольно жесткий.</p><p><strong>Окрасы: </strong>Белый (без отметин и желтизны), черный (без ржавого отлива), шоколадный, красный (табби: макрель или пятнистый). Любое количество белого. Характерный для азиатских пород рисунок табби, покрывающий все тело.</p><p>
+<strong>Недостатки:</strong> Наличие подшерстка; шелковистая фактура шерсти у взрослых животных.</p><p>
+<strong>Дисквалификация на выставках: </strong>Слишком тяжелый и короткий корпус и конечности, деффекты хвоста.</p><p>
+<strong>Дисквалификация всех пород: </strong>Ампутированные когти, крипторхизм, глухота.</p><h3>
+<strong></strong>Особенности и характер <strong></strong></h3><p>
+	У Арабского мау довольно свободолюбивый, но при этом дружелюбный нрав. Эта кошка неконфликтна, в равной степени приветлива с хозяевами, их детьми, а также другими живущими в доме животными. Редко подает голос, абсолютно ненавязчива. Уравновешенна. В силу того, что порода формировалась в экстремально жарком климате пустыни, Арабские мау отличаются особой выносливостью.</p><h3>
+<strong></strong>Содержание и уход<strong></strong></h3><p>
+	Уход за породой легкий. Арабские мау очень чистоплотны, их не нужно часто мыть, но вот уши и зубы следует осматривать регулярно. Необходимо поставить когтеточку и проводить профилактику от клещей и блох. Благодаря своему аборигенному происхождению порода не предрасположена к генетическим заболеваниям. Любит отдыхать на возвышенных местах в доме, поэтому, приобретая Арабского мау, стоит подумать о специальном местечке для сна и отдыха такого животного. Прогулки и игры на свежем воздухе необходимы этой породе, замкнутая и малоподвижная жизнь может отразиться на иммунитете кошки, ведь ее предки жили на улицах и много двигались, постоянно защищаясь от врагов и разыскивая пищу.</p><h3>
+<strong></strong>Кормление <strong></strong></h3><p>
+	Арабские мау любят вкусно покушать, могут даже переедать, но при этом в силу своей подвижности не склонны к ожирению, поэтому режим питания не доставляет особых хлопот. В еде данная порода абсолютно неприхотлива. Однако необходимо следить, чтобы рацион кошки был сбалансированным, для этого идеальным вариантом будет кормление высококачественными профессиональными кормами, в которых уже содержатся все необходимые кошке вещества. Возможно также натуральное питание, в том числе морепродукты.</p><h3>
+<strong></strong>Селекция<strong></strong></h3><p>
+<strong>Допустимые скрещивания: </strong>Рекомендовано скрещивать Арабских мау с местными кошками Ближнего Востока в каждом 4-5 поколении, чтобы под действием селекции порода не теряла свой оригинальный облик.</p><p>
+<strong>Породы, созданные при участии Арабских мау:</strong> В настоящее время не выявлены.<strong></strong></p><h3>
+<strong></strong>Другие и устаревшие названия породы<strong></strong></h3><p>
+	Аравийский мау.</p><h3>
+<strong></strong>Неофициальные (сленговые) названия<strong></strong></h3><p>
+	Аравиец.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

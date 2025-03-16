@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Меконгский (Тайский) бобтейл порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, MBT, Меконгский (Тайский) бобтейл,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Меконгский (Тайский) бобтейл
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Меконгский (Тайский) бобтейл порода кошек фото" src="/styles/public/images/default_avatars/cat.png">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Меконгский (Тайский) бобтейл
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>MBT</dd>
+<dt>Группа:</dt>
+<dd>Сиамо-ориентальная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Россия
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для любых семей</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы </h3><p><img alt="" src="http://s3.webestudio.ru/topcat/editor_images/64/53/e2/38/42/b0/a2/46/22/e0/72/d0/04/86/c6/25/089190c9650cbc3ffdad12d6bac8f7bd.jpeg" style="float: right; width: 402px; margin: 0px 0px 10px 10px;"/></p><p>Первые представители породы были вывезены из стран Юго-Восточной Азии:  Мьянмы (Бирмы), Лаоса, Камбоджи, Вьетнама, Китая  в 70-е годы прошлого  столетия. Эти животные и их потомки стали основным племенным материалом  для данной породной группы, получивший название Тайский  бобтейл. Первый предварительный стандарт Тайских бобтейлов был разработан  О.С. Мироновой  и утвержден на семинаре экспертов-фелинологов WCF от  России и СНГ по аборигенным породам кошек России в декабре 1994 г.  Стандарт запрещал скрещивание Тайского бобтейла с Тайской кошкой, так  как строение головы, постав глаз, размер и постав ушей, формат корпуса у  этих пород были различными. В 2003 году состоялась презентация  породы, а  в 2004 году на  Генеральной Ассамблее WCF был утвержден стандарт на породу с названием   Меконгский  бобтейл. Название породы связано с первыми  вывезенными животными из стран Юго-Восточной Азии, по территории которых  протекает река Меконг. Особо следует отметить неоценимый вклад Людмилы Есиной в развитие, становление и утверждении  стандарта породы.<br/> </p><h3>Внешний
+вид</h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/8f/bb/31/21/f6/a9/7f/84/a1/72/7a/87/f7/2e/59/39/1089d4b2cb1e9b97c953c7af69e389bd.jpeg" style="float: right; width: 402px; margin: 0px 0px 10px 10px;"/></p><h3></h3><p>Меконгский бобтейл – это аборигенная порода кошек с коротким хвостом. Кошки среднего размера, мускулистые, сухого (крепкого) телосложения. Коты обычно крупнее кошек (коты 3,2-4,0 кг, кошки 2,8-3,2 кг). Когти на задних конечностях не убираются. </p><p><strong>Голова:</strong> Средней длины с овальными контурами. Cкулы достаточно высокие .Верхняя часть головы почти плоская. Профиль с переходом ниже уровня глаз. Римский нос в форме плавной дуги от перехода до кончика носа. Нос средней длины, одинаковой ширины. Мордочка овальная с переходом в области вибрисс (без стопа). Сильный подбородок находится на одной вертикальной линии с мочкой носа. Скулы у котов могут выглядеть более широкими за счет "избыточной" кожи.</p><p><strong>Глаза:</strong> Большие, овальные, поставлены почти прямо. Цвет глаз голубой, чем ярче, тем лучше. </p><p><strong>Уши:</strong> Большие, широкие в основании, слегка наклонены вперед, со слегка округлыми кончиками, достаточно высокого постава, внешний край уха слегка отведен назад. Расстояние между ушами не должно превышать ширины уха в основании.</p><p><strong>Тело:</strong> Прямоугольного формата, среднего размера и мускулистое, но
+достаточно стройное и изящное. Спина почти прямая с минимальным повышением к
+крупу</p><p><strong>Ноги: </strong>Стройные, средние по высоте.</p><p><strong>Лапы: </strong>Четко овальные, изящные.</p><p><strong>Хвост:</strong> Состоит из крючков, узлов и заломов в любой комбинации, с обязательной некорректностью у основания, подвижный. Должен иметь не менее 3 позвонков и видимая длина хвоста не должна превышать ¼ части туловища. Предпочтителен «мешочек» на кончике хвоста.</p><p><strong>Шерсть:</strong> Короткая, блестящая, глянцевая, прилегающая, рассыпчатой структуры, с минимальным подшерстком. Кожа очень эластичная и плотно не прилегает к мышцам по всему телу, включая конечности, создавая эффект «дополнительной кожи» на спине, шее и щеках (особенно у взрослых котов).</p><p><strong>Окрасы:</strong> Сиамский (поинтовый) окрас без белого. Поинты должны быть четкие. Маска на голове ромбовидной формы должна покрывать всю морду, включая подушечки вибрисс и не должна переходить на затылок. Живот должен быть светлым, без пятен. У взрослых животных допускается равномерно затемнение по корпусу..</p><p><strong>Недостатки:</strong> Высокие или короткие конечности; округлые лапки; слабый подбородок и зауженная нижняя челюсть; близко или глубоко посаженные глаза; недостаточно большие или маленькие уши; отсутствие вискер-брейка; избыточный подшерсток; мягкая или излишне жесткая текстура шерсти.</p><p><strong>Без присуждения титула САС:</strong> округлый лоб; прямая спинка носа; короткая, округлая или клиновидная форма головы.</p><p><strong>Дисквалификация
+на выставках:</strong> Отсутствие хвоста или хвост, имеющий менее 3-х позвонков; любые изменения в типе, указывающие на скрещивание с другими породами; отсутствие на хвосте крючков и заломов; неподвижный хвост; длина хвоста, превышающая ¼ часть туловища; отсутствие некорректности на первом позвонке; укороченный формат тела; дугообразная спина; длинная шерсть; косоглазие.</p><p><strong>Дисквалификация
+всех пород: </strong>Ампутированные когти, крипторхизм, глухота.</p><h3>Особенности
+и характер</h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/f1/e4/bb/40/eb/13/6c/b1/ec/24/d1/b1/bd/2c/7d/a4/762339c696c05604317fa8fb9849d5a0.jpeg" style="float: right; width: 402px; margin: 0px 0px 10px 10px;"/></p><h3></h3><h3></h3><p>Меконгский бобтейл – ласковая и уравновешенная кошка, по-собачьи  привязана к человеку, может гулять на поводке, но самое любимое место  для гуляния – это плечо хозяина. Кошка в меру разговорчива, но любит  общение.  Способна очень долго  смотреть  в глаза человека, не отводя  взгляда. Хорошо ладят с детьми,  особенно коты.  При ходьбе цокает  когтями, подобно  собаке, так как  они  у меконга на задних лапках не  убираются. Не царапается,  в момент  обороны или нападения использует  зубы.  Хорошо переносит переезды,  соблюдая «скоростной режим» (для  каждого животного свой индивидуальный).  При превышении скорости,  которая «не удобна» для него, начинает громко  мяукать, дисциплинируя  водителя. В этой породной группе – матриархат. Главенствует в паре  кошка. О  потомстве заботится папа: приучает к туалету, к новой пище,  занимается  их туалетом, а кошка-мама следит за соблюдением обязанностей   котом-папой. Меконгские бобтейлы, вывезенные с их родины и их  потомки  по кошачьим меркам живут долго. Если не происходит несчастных  случаев,  то для них 20-25 лет - это норма. При этом животные остаются   подвижными и активными в половом отношении практически до смерти.</p><h3>Содержание
+и уход</h3><p>У меконгского бобтейла короткая, прилегающая шерсть с минимальным  подшерстком, которая не требует «дополнительного» ухода: кошка сама содержит в  чистоте свою шкурку.</p><h3>Кормление</h3><p>Сбалансированный рацион хищника. Желательно исключить рыбу из рациона.</p><h3>Селекция</h3><p><strong>Допустимые скрещивания:</strong> недопустимы скрещивания с другими породами</p><h3>Другие
+и устаревшие названия породы </h3><h3></h3><p>Тайский бобтейл;</p><p>Меконг-бобтейл.</p><h3><strong>Неофициальное (сленговое)
+название породы на русском языке</strong></h3><p>меконг, меконг-бобтейл, мекоша.</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/97">Jukos' pride</a>, Москва
+                                                </li>
+<li>
+<a href="/catteries/452">Edelweiss</a>, Санкт-Петербург
+                                                </li>
+<li>
+<a href="/catteries/703">Халва</a>, Ижевск
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=76">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

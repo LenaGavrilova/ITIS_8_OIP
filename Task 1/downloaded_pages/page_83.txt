@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Нибелунг порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, NEB, Нибелунг,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Нибелунг
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Нибелунг порода кошек фото" src="/styles/public/images/default_avatars/cat.png">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Нибелунг
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>NEB</dd>
+<dt>Группа:</dt>
+<dd>Полудлинношерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                США
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>семьям, в которых кто-то из членов семьи часто находится дома</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы
+</h3>
+<p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/db/57/27/f5/17/f0/94/95/b2/83/a4/4e/3a/5c/e8/fb/c509cda1ee521836c97d7cc3dd3bff71.jpeg" style="width: 457px; float: right; margin: 0px 0px 10px 10px;"/>
+</p>
+<h3></h3>
+<p>Несмотря на свое второе название – русская длинношерстная, порода нибелунг возникла в
+США. При этом она все же ведет свое происхождение от русских голубых кошек,
+являясь, по сути, их длинношерстной вариацией. Длинношерстные русские голубые
+кошки известны уже более ста лет, но работы по разведению породы не проводились
+довольно долго. Американские селекционеры обратили внимание на этих кошек лишь
+в начале 1980-х годов. После проведения ряда скрещиваний удалось вывести породу
+животных, шерсть которых напоминала по структуре шерсть балийских кошек, однако
+была еще более нежной и мягкой.
+	<strong> </strong>В настоящее время известны две
+линии разведения породы: американская и европейская. И если европейские
+нибелунги выводились исключительно на основе природного материала, то
+американские были получены путем скрещивания черной кошки Брунгильды, имеющей
+ангорские корни, и кота породы русская голубая по имени Зигфрид. Именно с этим звучным
+именем и связано название породы: оно было дано коту в честь принца Зигфрида
+(Сигурда) – героя древнегерманского эпоса «Песнь о Нибелунгах». Действительно,
+«нибелунги» в переводе с языка оригинала означает «дети тумана», что как нельзя
+лучше соответствует необыкновенному облику этих кошек. Хозяйка
+Брунгильды и Зигфрида, миссис Кора Кобб, по праву считается пионером в
+разведении новой породы. Первый помет был получен ею в 1987 году. Тогда же миссис
+Кобб обратилась к генетикам, которые пришли к выводу, что полученные ею котята
+являются длинношерстным вариантом русской голубой. В результате был описан
+стандарт, отличавшийся от стандарта русской голубой кошки только длиной шерсти. Официальное признание нибелунгов произошло все
+в том же 1987 году, первой системой, признавшей породу, оказалась TICA. Позже, в 1995 году, к ней присоединились также WCFи CFF. В 2008 году нибелунгов
+признали французские фелинологии. Несмотря на признание несколькими системами,
+порода до сих пор считается достаточно редкой, в том числе, и в России.
+</p>
+<h3>Внешний
+вид
+</h3>
+<p>Кошка средних размеров, «по-королевски»
+элегантная и вместе с тем крепкая, с хорошо развитой мускулатурой. У нее
+довольно характерная «граненая» форма головы и не совсем обычный профиль, но
+главным отличительным признаком данной породы является шерсть – тонкая, мягкая,
+струящаяся, двойная, с хорошо развитым подшерстком, неприлегающая, шелковистая
+на ощупь. Еще одним характерным признаком породы является
+ярко-зеленый цвет глаз.
+</p>
+<p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/3c/d6/9b/ce/04/45/80/39/00/e4/96/68/0b/cc/6e/47/ad4ddfbc2b3c44b6e223adacaee5fcaa.jpeg" style="width: 408px; float: left; margin: 0px 10px 10px 0px;"/>
+</p>
+<p><strong>Голова: </strong>Небольшого размера, в форме клина средней
+длины, «граненая». Скулы высокие, череп плоский. В профиль на переходе ото лба
+к носу ярко выражен угол. Нос прямой. Мордочка в форме клина, очень четко очерченная, с мягкими обводами. Подбородок
+сильный. Подушечки вибрисс угловатые.
+</p>
+<p><strong>Глаза: </strong>Большие, овальной формы, косо поставленные.
+Расставлены широко. Цвет – ярко-зеленый, однако такой оттенок радужная оболочка
+приобретает только у взрослых кошек, у котят она желтая.
+</p>
+<p><strong>Уши: </strong>Довольно большие, с широким основанием, кончики
+слегка закруглены, поставлены вертикально. Опушение развито слабо.
+</p>
+<p><strong>Шея: </strong>Длинная, тонкая, вытянутая. Имеется
+меховой «воротник», из-за которого может показаться более короткой, чем на
+самом деле.
+</p>
+<p><strong>Тело: </strong>По размеру среднее, слегка вытянутое,
+стройное и изящное.
+</p>
+<p><strong>Ноги: </strong>Средней длины, крепкие, но стройные.
+</p>
+<p><strong>Лапы: </strong>Компактные, овальные, довольно
+изящные, создают впечатление «кошки на цыпочках».
+</p>
+<p><strong>Хвост: </strong>Длинный, пушистый, в основании
+широкий, постепенно суживающийся к закругленному кончику, в виде плюмажа.
+</p>
+<p><strong>Шерсть:</strong>
+	Тонкая,
+мягкая, струящаяся, двойная, с хорошо развитым подшерстком, неприлегающая,
+шелковистая на ощупь. Ее текстура необыкновенно нежна.
+</p>
+<p><strong>Окрасы:</strong> Характерно, что остевой
+волос имеет неприкрашенные, серебристые на вид кончики, как бы отражающие свет
+– серебристый типпинг. Из-за него, при необычайной густоте шерсти кажется, что
+фигурку нибелунга окружает таинственный, призрачный ореол или облачко тумана.
+Цвет окраса – исключительно голубой, предпочтительно среднего по интенсивности
+тона, равномерный по оттенку.
+</p>
+<p><strong>Недостатки:</strong> Слабый
+подбородок; глаза без зеленого.
+</p>
+<p><strong>Дисквалификация
+на выставках: 
+	</strong>Наличие на шерсти животного пятен и медальонов белого цвета.
+</p>
+<p><strong>Дисквалификация
+всех пород: 
+	</strong>Ампутированные когти, крипторхизм, глухота.
+</p>
+<h3>Особенности
+и характер  
+</h3>
+<p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/44/8d/24/f5/69/b5/09/a6/fd/96/46/8b/56/64/fb/38/2398c7b3c88c88dffdab8588f8b85e90.jpeg" style="width: 453px; float: right; margin: 0px 0px 10px 10px;"/>
+</p>
+<h3></h3>
+<p>Нибелунг - дружелюбная, спокойная кошка. Отличается высоким
+интеллектом, прекрасными способностями к обучению. По характеру весьма независима,
+не слишком общительна, но при этом очень любит, когда к ней внимательны, и если
+не получает знаков внимания, то довольно активно их требует. Обычно
+привязывается только к одному человеку. К посторонним относится настороженно.
+Нормально уживается с собаками и кошками других пород. Любит охотиться, однако
+прекрасно чувствует себя в любых условиях, в том числе, в городской квартире.
+Обладает очень тихим голосом.
+</p>
+<h3>Содержание
+и уход
+</h3>
+<p>Удивительная шерсть нибелунгов требует повышенного
+внимания к ней, однако уход не столь сложен и трудоемок, как это кажется на
+первый взгляд. Кошку-нибулунга необходимо регулярно расчесывать металлической
+расческой, причем, ее зубья должны быть редкими, с закругленными кончиками.
+Направление расчесывания – исключительно по шерсти. Кошке не следует позволять
+долго находиться на солнце, поскольку от этого их шерсть «выгорает», приобретая
+некрасивые посторонние – рыжеватые или даже бурые - оттенки.
+</p>
+<h3>Кормление</h3>
+<p>Витамины и пищевые добавки не должны содержать йод и морские
+водоросли
+</p>
+<h3>Селекция</h3>
+<p><strong>Допустимые скрещивания: </strong>Русская голубая
+</p>
+<p><strong>Породы, созданные при участии Нибелунгов</strong>
+</p>
+<h3>Другие
+и устаревшие названия породы 
+</h3>
+<p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/55/c9/58/ee/c6/c2/c6/26/d0/62/b4/4e/05/4b/88/16/5a574193247fbf8a15985c9fbc5e1b9c.jpeg" style="width: 373px; float: right; margin: 0px 0px 10px 10px;"/>
+</p>
+<h3></h3>
+<h3></h3>
+<h3></h3>
+<p>Русская длинношерстная.
+</p>
+<h3>Неофициальное
+(сленговое) название породы на русском языке
+</h3>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/1858">Muzgray</a>, Muggia
+                                                </li>
+<li>
+<a href="/catteries/6381">Северная Звезда</a>, Санкт-Петербург
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=15">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Китайская Ли Ва порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, CLH, Китайская Ли Ва,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Китайская Ли Ва
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Китайская Ли Ва порода кошек фото" src="https://s3.webestudio.ru/topcat/breed_article_images/1/e/a/1eaed7dbf213181a83a6b79aea882598.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Китайская Ли Ва
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>CLH</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Развивающаяся</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<p>Статья по выбранной породе скоро появится.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

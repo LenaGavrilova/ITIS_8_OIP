@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Карельский бобтейл длинношерстный порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, KAB, Карельский бобтейл длинношерстный,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Карельский бобтейл длинношерстный
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Карельский бобтейл длинношерстный порода кошек фото" src="https://s3.webestudio.ru/topcat/cat_images/d/b/9/db96501b61bdd1458b41ef96bf8a1041.jpg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Карельский бобтейл длинношерстный
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>KAB</dd>
+<dt>Группа:</dt>
+<dd>Полудлинношерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Россия
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей с детьми.</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы</h3><p>Карельский бобтейл – аборигенная
+порода российского происхождения, естественно сформировавшаяся на территории
+современной Карелии и островах Ладожского озера. За ее формирование «отвечает»
+доминантная мутация, как предполагается, отличающаяся от мутации курильского
+бобтейла. Вполне вероятно, что Карельский Бобтейл и Норвежская Лесная имеют общих предков из уличных домаших кошек Скандинавии. Несмотря на то, что карельские бобтейлы считаются официально
+признанными лишь с начала 90-х годов прошлого века, местные жители с
+незапамятных времен знают и любят короткохвостых кошек, считающихся, кстати,
+отличными мышеловами. Существует даже легенда о том, что именно кошки с куцыми
+хвостиками приносят людям счастье. Возможно, как раз благодаря этому преданию
+порода до сих пор не исчезла.</p><p><img alt="" height="268" src="https://s3.webestudio.ru/topcat/editor_images/72/77/68/39/35/c5/0e/ce/8c/db/e9/3d/1f/e4/50/24/159c8c26e776b7f441ceb5ac4b05b3b4.jpg" style="float: right; width: 399px; height: 268px; margin: 0px 0px 10px 10px;" width="399"/></p><p>Первые представители данной
+породы были найдены и описаны фелинологами Ленинграда (Санкт-Петербурга). Официальная регистрация и первый стандарт в России принят в 1992. В 1994 году признана в WCF. <span></span>Порода достаточно малочисленна и почти не
+распространена в мире. Признана только WCF.</p><h3>Внешний
+вид</h3><p>Карельский бобтейл – кошка среднего размера, однако
+кажется крупной из-за некоторой угловатости фигуры. Это сильная, но при этом
+элегантная и стройная кошка несколько квадратного формата с приподнятым крупом.
+Основной породообразующий признак – забавный коротенький хвостик в виде
+помпона. У здоровых кошек шерсть блестящая, хорошо
+прилегающая к телу, несколько жестковата на ощупь.</p><p><strong>Голова: </strong>Небольшая, в форме граненого клина,
+в форме равнобедренного треугольника. Лоб плоский, переход едва заметный, без
+«стопа». Скулы высокие, щеки плоские. Мордочка узкая, с заметными подушечками
+под усы. Нос длинный, почти прямой. Подбородок
+узкий, сильный.</p><p><strong>Глаза: </strong>Средней величины, овальные, косо
+поставленные. Цвет должен быть однородным и гармонировать с окрасом шерсти, как
+правило, распространены оттенки желтого и зеленого.</p><p><strong>Уши: </strong>Большие или средней величины, высоко и
+прямо поставленные, открытые вперед. Внешняя линия уха проходит мимо щёк прямой
+линией.<img alt="" height="289" src="https://s3.webestudio.ru/topcat/editor_images/15/20/57/22/15/ec/ea/a2/12/c8/2b/22/ed/ce/f1/3c/068d98295e5bf69080c4bc68fa082406.jpg" style="line-height: 1.6em; float: right; width: 399px; height: 289px; margin: 0px 0px 10px 10px;" width="399"/></p><p><strong>Тело: </strong>Средней величины, крепкое,
+мускулистое, не грубое. Kруп короткий, прямой, приподнятый.</p><p><strong>Конечности: </strong>Крепкие, пропорциональные, задние
+заметно длиннее передних.</p><p><strong>Лапы: </strong>Округлые.</p><p><strong></strong><strong>Шерсть:</strong> Полудлинная, подшесток почти сравнивается по длине с остевым волосом,
+сама шерсть очень плотная, покровный волос крепкий и блестящий. Желательно
+наличие «воротника», «штанишек» и кисточек на ушах.</p><p><strong>Хвост:</strong> Короткий, с изломами и/ или
+изогнутый, 4-13 см длиной, прямой или изогнутый, с опушением в виде помпона.
+Покрыт удлиненной шерстью, которая на хвосте длиннее, чем на остальном теле.</p><p><strong>Окрасы:</strong> Любые, за исключением колор-пойнта, абиссинского,
+бурмезского и шоколадно-лилового.</p><p><strong>Недостатки:</strong> Грубый
+тип; длинный формат; большая круглая голова; наличие стопа; тупоугольная форма
+мордочки; низкие круглые скулы; круглые, большие, прямо поставленные глаза;
+небольшие, широко расставленные уши; тяжелое, длинное, приземистое тело;
+слабая, с провалом, спина; тонкие, короткие ноги.<br/></p><p><strong>Дисквалификация на выставках: </strong>Отсутствие
+хвоста, длина хвоста более 13 см с концевым единичным крючком, длинный хвост домашней кошки, шерсть без <img alt="" height="301" src="http://s3.webestudio.ru/topcat/editor_images/51/eb/f8/49/aa/dd/31/cd/75/fc/45/fa/41/0c/cf/26/50e1980bc915e5f415c868b70038b25d.jpeg" style="width: 400px; height: 301px; float: right; margin: 0px 0px 10px 10px;" width="400"/>подшерстка.<br/>Длиннохвостые котята из помётов карельских бобтейлей относятся к кактегории домашних любимцев – House Hold Pet, HHP.<span></span> </p><p><strong>Дисквалификация
+всех пород: </strong>Ампутированные когти, крипторхизм, глухота. Любые костные деформации в голове, теле, конечностях.<span></span></p><h3>Особенности
+и характер </h3><p>Карельский бобтейл – очень дружелюбная, ласковая, добрая,
+отзывчивая кошка, привязанная к дому и хозяевам. Не назойлива, отходчива, не
+злопамятна. Легко привыкает к смене обстановки, доброжелательна к новым людям.
+Любит и не обижает детей, ладит с другими домашними животными. Обладает тихим и
+мелодичным голосом, больше похожим на птичий щебет, нежели на мяуканье. Не
+слишком разговорчива, предпочитает привлекать к себе внимание, трогая человека
+лапой. Прыгает, отталкиваясь всеми четырьмя ногами одновременно.</p><h3>Содержание
+и уход<br/></h3><p>Шерсть кошек данной породы не требует какого-либо
+специального ухода. Длинношерстных кошек достаточно вычесывать один раз в неделю
+с помощью расчески с</p><h3><img alt="" height="266" src="http://s3.webestudio.ru/topcat/editor_images/c7/7c/ec/fa/68/24/e9/7c/be/37/fa/4b/2a/b4/60/18/a012b1d729b530948dc59060218db7fb.jpeg" style="float: right; width: 402px; height: 266px; margin: 0px 0px 10px 10px;" width="402"/></h3><p> редкими зубьями.Имея естественное происхождение, обладают отличным
+здоровьем, наследственных болезней у кошек этой породы не выявлено. <br/>Коты могут метить территорию. </p><h3>Кормление</h3><p>Сбалансированный рацион.</p><h3>Селекция</h3><p><strong>Допустимые скрещивания: </strong>нет</p><p><strong>Породы, созданные при участии Карельских бобтейлов длинношерстных</strong></p><p><strong><br/></strong></p><h3>Неофициальное
+(сленговое) название породы на русском языке</h3><p>карел</p><p>карелка</p><p>Предлагается изменить название породы, чтобы исключить слуховое совпадение с «курилами» в разговорной речи. Возможно с использованием слов карело-финского языка.<br/></p><p>Kotikissa lyhyt häntä - домашняя кошка с коротким хвостом<br/>Ravi kotiin<br/>Kissa lyhyt häntä - лыхит хянта</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший в породе
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/517536" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/d/b/9/db96501b61bdd1458b41ef96bf8a1041.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/517536" target="_blank">
+                                                    Gerda from Tapiola
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#KAB">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший котенок
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/517536" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/d/b/9/db96501b61bdd1458b41ef96bf8a1041.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/517536" target="_blank">
+                                                    Gerda from Tapiola
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#KAB">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/763">North-western Sky</a>, Медвежьегорск
+                                                </li>
+<li>
+<a href="/catteries/1716">Sukkajarvi Ilves</a>, Гатчина
+                                                </li>
+<li>
+<a href="/catteries/6902">Saparo-Say</a>, Санкт-Петербург
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=10">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

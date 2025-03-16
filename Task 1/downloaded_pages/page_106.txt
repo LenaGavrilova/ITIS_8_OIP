@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Корниш-рекс порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, CRX, Корниш-рекс,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Корниш-рекс
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Корниш-рекс порода кошек фото" src="https://s3.webestudio.ru/topcat/cat_images/b/7/9/b79c0ac16b839361093aae560b668a60.jpg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Корниш-рекс
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>CRX</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Великобритания
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей, часто находящихся дома; для людей, страдающих аллергией на шерсть</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы</h3><p>Местом возникновения породы корниш-рекс является Великобритания, и если «отправная
+точка» в истории многих пород теряется в десятилетиях и даже в веках, то для
+этой породы она известна абсолютно точно: 21 июля 1950 года. Именно в этот день
+в питомнике Бадмин Мур, расположенном в английском графстве Корнуолл, родился
+бело-рыжий котенок с мягкой кудрявой шерстью. Матерью Каллибункера – а именно
+так назвали котенка – была простая беспородная кошка, совершенно обычно
+выглядели и остальные четыре котенка в этом помете. Хозяйка необычного
+животного, Нина Энисмор, когда-то разводила кроликов породы с кудрявой шерстью,
+и потому сразу поняла, что стоит на пороге создания новой породы. Каллибункера
+скрестили с его матерью, и родившиеся котята тоже обладали волнистой шерстью. В
+память о кудрявых «королевских» («rex») кроликах, а также в честь графства Корнуолл новую породу
+назвали корниш-рекс. Для того чтобы сохранить редкую особенность – волнистую
+шерсть, селекционеры произвели множество скрещиваний с сиамскими, британскими
+короткошерстными и бурманскими кошками. Первой страной, официально признавшей
+породу корниш-рекс, стала Англия, в 1976 году. В тоже время, во Франции первый
+кот этой породы появился еще в 1962 году, в результате скрещивания привезенного
+из Англии рекса и бурманской кошки. А в США программа развития данной породы
+стартовала в 1957 году, где в программу разведения были включены ориентальные
+короткошерстные и сиамские кошки. Скрещивания с сиамскими и восточными кошками
+привели к созданию кошки легкого типа, с яйцевидной головой, еще более высокими
+ногами, более выгнутой спиной, увеличенными ушами и носом с горбинкой –
+американский тип. В то время как
+корниш-рексы английского типа более тяжелые и голова у них скорее треугольная,
+нежели длинная. Порода очень ценится как в Европе, так и в США, где в1980 году
+состоялась выставка, на которой впервые были представлены только кошки этой
+породы.</p><h3>Внешний
+вид</h3><p>Тонкокостная, гибкая кошка средних размеров (2,5 – 4,5 кг), с тонким или очень
+тонким костяком. Имеет худое, гибкое тело с выгнутой спиной и втянутым животом.
+В сочетании с длинными прямыми ногами немного напоминает гончую собаку. Главный
+отличительный признак породы – мягкая, вьющаяся шерсть.<strong>Голова: </strong>Более длинная, нежели широкая. Форма
+приближается к яйцевидной (FIFe). Яйцевидный череп,
+выпуклый, «римский» профиль (TICA). От середины лба до
+кончика носа можно провести прямую линию, нос прямой (FIFe). Мордашка клиновидная. Четко очерченные участки над верхней губой, где
+растут усы. Подбородок сильный. Усы и брови завиваются.</p><p><strong>Глаза: </strong>Размеры от средних до крупных, овальной
+формы, слегка раскосые. Цвет глаз должен соответствовать цвету шерсти, они
+должны быть яркими, ясными и чистыми.</p><p><strong>Уши: </strong>Большие, конической формы, широкие у основания,
+широко раскрытые. Поставлены высоко. Кончики закругленные. Ушные раковины
+покрыты тонкими шелковистыми волосками (FIFe), обычно лишены растительности как внутри, так и снаружи (TICA).</p><p><strong>Шея: </strong>Длинная или средней длины. Тонкая и
+изящная, но в тоже время мускулистая.</p><p><strong>Тело: </strong>Размер от мелкого до
+среднего, довольно длинное, изящное. Мускулатура хорошо развита, крепкая и
+мощная. Грудная клетка полная и глубокая. Спина очень выгнутая. Бедра
+закругленные. Костяк очень тонкий.</p><p><strong>Ноги: </strong>Длинные, стройные, прямые. Кости тонкие,
+мускулатура крепкая. Задние ноги длиннее передних. </p><p><strong>Лапы: </strong>Небольшие, компактные, овальные
+(округлые).</p><p><strong>Хвост: </strong>Длинный, тонкий, суживающийся
+к кончику, покрыт вьющейся шерстью.<strong></strong></p><p><strong>Шерсть:</strong>
+Короткая, густая, мягкая, ровно вьющаяся по всему телу, желательно и на
+конечностях, и на хвосте. Часто лежит волнами. Целиком состоит из подшерстка и средней шерсти, т.е., остевой волос отсутствует, что придает шерсти
+удивительную тонкость и мягкость. На ощупь шерсть корниш-рекса напоминает сатин
+или шелк, на вид выглядит как бархатная, «плюшевая». Волнистость должна
+распространяться по всей длине и быть однородной, волоски должны плотно
+прилегать к поверхности тела. Волос растет медленно.</p><p><strong>Окрасы:</strong> Любые как по виду, так и по цвету. Разновидность
+кошек с рисунком сиамских называется си-рекс.</p><p><strong>Недостатки:</strong> Слишком широкая или слишком удлиненная голова;
+маленькие уши; массивное, коренастое тело; слишком густой хвост, короткий,
+голый или лохматый.</p><p><strong>Дисквалификация
+на выставках: </strong>Большие участки на теле, лишенные волос, кроме висков и хвоста – на
+животе, груди, под подбородком шерсть может быть очень короткой, но никогда не
+должна отсутствовать полностью.</p><p><strong>Дисквалификация
+всех пород: </strong>Ампутированные когти, крипторхизм, глухота.</p><h3>Особенности
+и характер </h3><p>Корниш-рекс - кошка живая, деятельная, игривая, даже
+эксцентричная. Очень ловкая: передними лапами может брать руку человека,
+подносить лапы ко рту, лизать их. Общительна, всегда пребывает в хорошем
+настроении. Корниш-рекс терпеть не может одиночества, поэтому, уходя из дома,
+хорошо бы оставить ее в компании другой кошки – с себе подобными, как и с
+собаками, она отлично ладит. Легко поддается дрессировке, не агрессивна, не
+злопамятна, не мстительна. Нежна и ласкова, а вот голос у нее весьма
+пронзительный. Когда довольна, машет хвостом, как собака. Это гипоаллергенная
+кошка, поэтому ее можно рекомендовать людям с различными аллергическими
+заболеваниями. Самки очень плодовиты, и у них часто бывает течка. Котята растут
+очень быстро.</p><h3>Содержание
+и уход</h3><p>Кошка породы корниш-рекс может жить в квартире, тем более
+что она очень восприимчива к переменам климата и температуры воздуха. От низких
+температур корниш-рекса необходимо оберегать, поэтому в зимнее время разрешите
+ей спать под одеялом. Уход за шерстью несложен, достаточно еженедельного
+расчесывания руками или кожаной перчаткой, поглаживая кошку с усилием от головы
+к хвосту. Линьки почти не бывает.</p><h3>Кормление Эта кошка обладает отменным аппетитом, она даже прожорливая, склонная к
+перееданию. Поэтому за ее питанием необходимо тщательно следить, оно должно
+быть разнообразным, в период линьки обогащенным витамином А.</h3><h3>Селекция</h3><p><strong>Допустимые скрещивания:</strong> нет</p><p><strong>Породы, созданные при участии Корниш-рексов: </strong>Длинношерстный корниш-рекс
+(вариант породы с длинной шерстью - результат естественных мутаций); Американский
+корниш-рекс; Хеопс.</p><h3>Другие
+и устаревшие названия породы</h3><p>Корнуэльский рекс;</p><p>Английский рекс; </p><p>Кудль.</p><h3>Неофициальное (сленговое) название породы на русском
+языке</h3><p>корниш.   </p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший в породе
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/483988" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/b/7/9/b79c0ac16b839361093aae560b668a60.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/483988" target="_blank">
+                                                    San Baron *RU Bogema
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#CRX">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший взрослый
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/483988" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/b/7/9/b79c0ac16b839361093aae560b668a60.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/483988" target="_blank">
+                                                    San Baron *RU Bogema
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#CRX">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/204">of Paper streamer</a>, Пенза
+                                                </li>
+<li>
+<a href="/catteries/370">Fate Rex</a>, Воронеж
+                                                </li>
+<li>
+<a href="/catteries/444">Samarian Brillant</a>, Самара
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=49">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

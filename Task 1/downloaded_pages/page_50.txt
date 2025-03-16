@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Курильский бобтейл короткошерстный порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, KBS, Курильский бобтейл короткошерстный,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Курильский бобтейл короткошерстный
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Курильский бобтейл короткошерстный порода кошек фото" src="https://s3.webestudio.ru/topcat/cat_images/9/a/c/9ac2ac234ea53f59c4fcd712898052c1.jpg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Курильский бобтейл короткошерстный
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>KBS</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Россия
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей с детьми</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы </h3><p>Курильский бобтейл – аборигенная порода кошек, имеющая российское происхождение. Она ведет свой род от короткохвостых диких кошек, которые издавна, еще до XVIII века жили на двух островах Курильской гряды – Кунашир и Итуруп. Предполагается, что эта порода образовалась стихийно, в результате скрещивания Японских бобтейлов и кошек, прибывающих со служивыми людьми с материка. Возвращающиеся с островов на материк люди нередко привозили с собой обаятельных животных с короткими хвостиками. Российские селекционеры обратили на них внимание лишь в 1980-х годах, когда этих кошек стали привозить в Москву, а целенаправленное разведение породы началось лишь в 1990-х. Таким образом, Курильский бобтейл – это кошка с историей, но как селекционная порода ещё очень молода. <img alt="" src="https://s3.webestudio.ru/topcat/editor_images/2b/b6/4b/38/eb/83/5b/c0/13/c7/ff/4c/30/3f/41/cf/b87f1d31a52a9ca266ffd66220aa1862.jpeg" style="float: right; margin: 0px 0px 10px 10px;"/>Впрочем, далеко не все фелинологии разделяют мнение о самобытности данной породы, считая этих кошек японскими бобтейлами, предки которых жили на российской территории. При этом приверженцы такой версии все же соглашаются с тем, что Японские и Курильские бобтейлы отличаются друг от друга различным типом телосложения, формой мордочки и текстурой шерсти. Японские бобтейлы служили на островах защитниками кормов на императорских фермах пушных зверей, когда японцы контролировали эти острова. До сих пор они претендуют на эти острова и отрицают самобытность Курильских бобтейлов.Но ведь, Тайские кошки тоже пришли с юго-восточной Азии из Сиама - Таиланда, и кто же сейчас усомнится, что они очень отличаются от современных сиамских кошек, созданных в Англии?</p><p>На островах никогда не было диких видов кошек, поэтому никакие межвидовые кроссы ни целенаправленно, ни случайно не проводились. Тем не менее, именно у курильских бобтейлов открыты новые мутации генов окрасов.<br/>Существуют две вариации пород по длине шерсти – короткошерстные и длинношерстные Курильские бобтейлы. В октябре1991 года СФФ (Советская фелинологическая федерация) приняла первый стандарт породы Курильский бобтейл. Первой всемирной фелинологической системой, признавшей российских короткохвостых кошек, стала WCF; это произошло в 1995 году. Вскоре после этого порода стала довольно популярной в Европе.</p><h3>Внешний
+вид<span class="redactor-invisible-space"></span></h3>Не крупная, компактная, сильная кошка с хорошо развитой мускулатурой и видом дикого животного. Она похожа на своих японских родственников, однако ее шерсть значительно гуще, а туловище более коренастое и крепкое. Порода отличается прекрасной прыгучестью. Однако главная особенность Курильских бобтейлов – это, конечно, хвост – короткий, отлично опушенный, изогнутый или закрученный «боб» в помпоне из несколько удлинённой шерсти длиной от 5 до 13<img alt="" src="https://s3.webestudio.ru/topcat/editor_images/b0/97/53/f6/a3/1d/7d/c2/2c/76/c7/84/76/ff/00/34/a386d1f120de4650ac96c440b9a67737.jpeg" style="float: right; margin: 0px 0px 10px 10px;"/> см. Описывают несколько вариантов формы хвоста курбобов, причем, их названия зависят от образности речи владельцев и судей и не являются официальными. Во-первых, хвост курила может выглядеть как «пенек», длиной 2-5 см, состоящий из 2-8 позвонков, предельно укороченных, как бы насаженных один на другой, с неподвижным соединением, изломанный под достаточно тупыми углами, с местами изломов, которые иногда прощупываются как шишки. Вторая вариация - «спиралька», видимой длины 5-10 см, состоящий из 3-15 позвонков, многократно изломанных, часто под достаточно острыми углами, подвижными или полуподвижными в местах соединения. «Метелка» - хвост видимой длины 5-15 см, составленный из 5-10 позвонков, имеющих изломы под тупым углом, и полуподвижных в местах соединения. Существует даже такая разновидность, как «отодвинутый бобтейл». В этом случае первые 5-7 позвонков курбоба ничем не отличаются от хвоста любой другой кошки, и лишь на его конце имеется «закорючка» составленная еще 4-7 позвонками с тремя-четырьмя изломами, которые могут быть любой степени подвижности и располагаются под любым возможным углом.<p><strong></strong><strong>Голова: </strong>В форме треугольника с равными сторонами и округленными очертаниями; у взрослых животных она близка к форме перевернутой трапеции за счёт заметных подушечек под усы и округлых щёк у матёрых котов. Мордочка округлая, с мягкими, плавными обводами, довольно широкая. Лоб плоский, переход от него к носу обозначен лишь слегка. Скулы широкие, но не низкие как у сибиряков. Подбородок не выступает.<span></span></p><p><strong>Глаза: </strong>Овальной формы, немного раскосые. Цвет может варьировать от желтого до зеленого, у Курильских бобтейлов с белой шерстью и биколоров возможны голубые глаза. Встречаются разноглазые кошки. Соответствие цвета глаз окрасу шерсти не обязательно.<span></span></p><p><strong>Уши: </strong>Среднего размера, поставлены прямо, довольно широко и довольно высоко. Между ними должно быть расстояние не менее ширины основания одного уха. Кончики закругленные, у длинношерстой вариации с небольшими кисточками.</p><p><strong>Шея: </strong>Не длинная, мускулистая, из-за длинной густой шерсти кажется толстой.</p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/47/51/3f/f0/cf/ea/b3/aa/f1/bb/dc/b5/01/9d/9f/c6/a58000278565339925436b56484cfd9e.jpeg" style="float: right; margin: 0px 0px 10px 10px;"/><p><strong>Тело: </strong>Среднего размера, относительно короткое, компактное. Спина с дугообразным изгибом. Круп немного приподнят. Мускулатура хорошо развита.</p><p><strong>Конечности: </strong>Средней длины, сильные, мощные, с хорошо развитой мускулатурой.</p><p><strong>Лапы: </strong>Округлой формы, компактные.</p><p><strong>Хвост: </strong>Короткий, от 3 до 8 см, изогнутый, закрученный или заломленный. Направление изгибов может быть разным. Может быть гибким или подвижным. Поднят над уровнем спины.<strong> </strong>Длина и форма хвоста должны гармонировать с общим видом кошки.</p><p>Форма и подвижность боба не оцениваются. Помпон произвольной формы, желательно приподнятый над линией спины, груминг допустим и приветствуется. <span></span><br/></p><p><strong></strong> <strong>Шерсть:</strong> <strong>у короткошерстной вариеты:</strong> короткая, тонкая, подшерсток заметный, плотный. Длина шерсти увеличивается в нижней и задней части тела и на помоне. <span></span></p><p><strong>Окрасы:</strong> Окрас может быть сплошным, дымчатым, тэбби, биколор. Окрас допустим любой, кроме шоколадного, лилового, абиссинского и бурмесского. </p><p><strong>Дисквалификация на выставках: </strong>отсутствие хвоста, нарушение функции тазовых органов, эрозия слизистой анального отверствия. Короткий прямой без изломов и кривых, или, напротив слишком длинный (более 12 см) хвост; отсутствие хвоста.<br/></p><p><strong></strong><strong></strong><strong>Недостатки:</strong> Слишком длинный (8-12 см), слишком короткий (до 3 см) хвост или хвост, состоящий из одного позвонка; эффект «отодвинутого бобтейла»; слишком изогнутая спина; вид, напоминающий вид японского или тайского бобтейла; длинное слабое тело; узкая, длинная, легкая голова; высокие скулы; прямой длинный нос; большие, разведенные или остроконечные уши; слишком короткие передние ноги; сухая, короткая шерсть без подшерстка; приземистость; тяжелый тип; выпуклые или, напротив, слишком глубоко посаженные глаза.<img alt="" src="https://s3.webestudio.ru/topcat/editor_images/56/f5/85/01/79/75/db/6a/46/5f/a6/d6/10/7f/5a/3d/c5a6a82f56a208406d53b4ec4116bb7f.jpeg" style="float: left; margin: 0px 10px 10px 0px;"/><span></span><br/></p><p><strong>Дисквалификация всех пород: </strong>Ампутированные когти, крипторхизм, глухота. </p><h3>Особенности
+и характер </h3><p>Курильский бобтейл, несмотря на свой довольно дикий вид, мирная и добродушная, и в то же время весьма активная кошка, подвижная и очень любопытная, иногда чересчур. Независима, не любит сидеть на руках. Отличный охотник и рыболов.Хорошо чувствует себя в городской квартире, ласкова с детьми, может дружить с собаками, не боится их, а вот мелких домашних питомцев в одном доме с курбобом лучше не держать. Предана своему хозяину буквально по-собачьи; как правило, выбирает для себя одного «главного» для нее члена семьи. Любит воду, не боится холодов. Хорошо обучаема. Чрезвычайно разговорчива, помимо мяуканья, может издавать множество других звуков, вплоть до рычания<span></span> </p><h3>Содержание
+и уход</h3><p>Уход за курильским бобтейлом не требует особых усилий, даже если речь идет о длинношерстной вариации. Расчесывать животное следует не чаще раза в неделю, обязательно в направлении роста шерсти, используя при этом металлическую расческу с закругленными зубцами. Помимо шерсти, ухода требуют также глаза и уши бобтейла. Будет полезно организовать в доме пространство для их игр и развлечений, необходимых для этой активной и подвижной кошки.<span></span></p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/e1/da/44/d2/5f/8e/f5/4e/91/64/de/3f/87/29/7f/10/a61223fd8bb8106de5c370b38c149500.jpeg" style="width: 410px; float: right; margin: 0px 0px 10px 10px;"/><h3>Кормление</h3><p>Сбалансированный
+рацион.</p><h3>Селекция </h3><p><strong>Допустимые скрещивания: </strong>нет.</p><p><strong>Породы, созданные при участии Курильских бобтейлов
+короткошерстных: </strong>нет</p><h3>Неофициальное (сленговое) название породы на русском
+языке </h3><p>курбоб, курил,
+курилец   </p><h3>Ссылки:</h3><p><a class="external" href="http://ru.top-cat.org/newsletters/f0659b4d-12ac-7585-3ca1-b729e118c424" rel="nofollow">Журнал TopCat, посвященный породе</a></p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший в породе
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/502886" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/9/a/c/9ac2ac234ea53f59c4fcd712898052c1.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/502886" target="_blank">
+                                                    Conte Di Cavour Yakov
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#KBS">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший котенок
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/509228" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/b/e/f/befcc7a04b8eb280bce9292e894de872.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/509228" target="_blank">
+                                                    Orion Paphiaaffect
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#KBS">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший юниор
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/502886" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/9/a/c/9ac2ac234ea53f59c4fcd712898052c1.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/502886" target="_blank">
+                                                    Conte Di Cavour Yakov
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#KBS">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший юниор противоположного пола
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/489753" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/8/c/b/8cbef4a25843c10cbbf9d63469c7f0b7.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/489753" target="_blank">
+                                                    Conte Di Cavour Xiaomi
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#KBS">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший кастрат
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/209622" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/4/1/4/4142027496f6ee7341b7cfae85aeb10f.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/209622" target="_blank">
+<span class="cat-title" data-toggle="tooltip" title="Чемпион мира">WCF W.Ch.</span> Юстина
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#KBS">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший кастрат противоположного пола
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/502886" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/9/a/c/9ac2ac234ea53f59c4fcd712898052c1.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/502886" target="_blank">
+                                                    Conte Di Cavour Yakov
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#KBS">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/7252">BobStyle *RU</a>, Самара
+                                                </li>
+<li>
+<a href="/catteries/49">Ural Great</a>, Мезенское
+                                                </li>
+<li>
+<a href="/catteries/88">Conte Di Cavour</a>, Пенза
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=62">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

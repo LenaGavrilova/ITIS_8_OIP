@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Сомалийская порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, SOM, Сомалийская,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Сомалийская
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Сомалийская порода кошек фото" src="/styles/public/images/default_avatars/cat.png">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Сомалийская
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>SOM</dd>
+<dt>Группа:</dt>
+<dd>Полудлинношерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Сомали
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей с детьми; активным и деятельным людям</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы 
+</h3>
+<p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/46/7f/64/d4/cf/a3/52/f2/ae/c2/ef/3a/d2/8a/fa/35/104cc5760c42b64ffef087b9bc8b972d.jpeg" style="float: right; width: 360px; margin: 0px 0px 10px 10px;"/>
+</p>
+<h3></h3>
+<p>Сомалийская порода кошек получила свое наименование в честь
+государства Сомали,
+расположенного по соседству с Эфиопией. Дело в том, что сомалийская порода
+кошек «соседствует» с абиссинской породой, предполагаемая родина которой -
+именно Эфиопия. Фактически же сомалийская порода возникла в США и Канаде.
+Приблизительно в середине XX века заводчики абиссинцев
+заметили, что в пометах иногда появляются котята с мягкой полудлинной шерстью,
+если производилось скрещивание с персидскими или ангорскими кошками. Многие
+считали, что это брак. А вот селекционеры из Канады Дон Ричингс, Мэри Мейлинг и
+Кен Мак Гилл, а также американка Ивлин Мэйг думали иначе. Они были уверены, что
+имеют дело с новой породой, которую назвали сомалийской. Первая кошка сомали была
+представлена на выставке в 1972 году, а уже в 1978 году порода была официально
+признана CFA. В Европе эти кошки
+впервые появились в 1979 году, европейское же признание состоялось в 1982, со
+стороны FIFe.
+</p>
+<h3>Внешний
+вид
+</h3>
+<p>Сомали - красивая, «королевская» кошка, с удлиненным
+пластичным телом, клиновидной головой и очень пушистым хвостом. Она очень
+похожа на абиссинскую, но шерсть длиннее. 
+	<br/>Сомали относятся к полудлинношерстной группе. Как и А
+</p>биссинцы, это кошки среднего размера, гибкие, сильные, с хорошо развитой мускулатурой. Вес колеблется от 4 до 4,5 кг. Половой диморфизм выражен не так явно, как у других пород, хотя, коты, как правило, крупнее кошек. Сомали изящны и гармонично сложены. Это - истинное воплощение кошки, вобравшей в себе лучшие черты вида, которые складывались в течение тысячелетий. Отличительной чертой породы является необычный, переливчатый, насыщенный, тёплый окрас, не имеющий рисунка на теле. <img alt="" src="http://s3.webestudio.ru/topcat/editor_images/18/5a/0b/6d/d8/fd/5c/14/2e/f4/07/ae/cf/2f/ec/4a/98d37ee59def5cafec70d6884d9d740a.jpeg" style="width: 209px; float: right; margin: 0px 0px 10px 10px;"/>Такой необычный окрас формируется за счет тиккинга (каждый отдельный волосок окрашен зонарно: чередуются темные и светлые полосы). Спина кошки, включая линию вдоль позвоночника (так называемый спинной ремень), а также кончик хвоста и подошвы задних ног имеют более темный оттенок, а живот, грудь и внутренние поверхности лап - более светлый: характерная особенность тикированного окраса.<strong style="font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif; background-color: initial;">Голова: </strong>Умеренно клиновидной формы, средних пропорций, с мягкими очертаниями, без плоских поверхностей.Профиль с выраженным переходом ото лба к прямому, средней длины, носу. Подбородок сильный, хорошо развитый, округленный. Мордочкаслегка обозначена..
+<p><strong>Глаза: </strong>Большие, сияющие, выразительные, миндалевидной формы, широко расставлены, посажены чуть косо. Цвет чистый, ясный, от янтарного до зеленого. В серебристых окрасах предпочтителен зеленый. Веки во всех окрасах подчеркнуты темной (в тон окраса) обводкой, а зона вокруг глаз имеет выраженную, светлую окантовку в тон тиккинга.
+</p>
+<p><strong>Уши: </strong>Большие, широкие в основании, широко расставленные, с закругленными кончиками. Постав слегка наклоненный вперед, так как будто кошка прислушивается. Внутри уха могут быть "щеточки". С обратной стороны уха шерсть очень коротка, тикированная, с характерным "диким" пятном в центре. Возможны «рысьи» кисточки
+на кончиках ушей.
+</p>
+<p><strong>Шея: </strong>Сравнительно длинная, изящная. Желательно с хорошо обозначенным «воротником».
+</p>
+<p><strong></strong>
+</p>
+<p><strong>Тело: </strong>С развитой, но не грубой мускулатурой, средней величины, умеренно-растянутое, крепкое, пропорциональное, хорошо сбалансированное, гибкое. Грудь округлая, спина немного выгнутая, создающая впечатление, что кошка вот-вот прыгнет.
+</p>
+<p><strong>Ноги: </strong>Довольно длинные, тонкие, стройные.
+Мускулатура хорошо развита.
+</p>
+<p><strong>Лапы: </strong>Овальной формы, небольшие, с плотно сжатыми пальчиками, приподнятые на пятках – как бы «на цыпочках». Между пальцами растет шерсть.
+</p>
+<p><strong>Хвост: </strong>Длинный, очень пушистый, поставленный высоко.
+Похож на лисий. Кончик, как правило, более темный, сильно опушенный.
+</p>
+<p><strong>Шерсть:</strong>
+	Средней
+длины, тонкая, очень мягкая более короткая на мордочке, передней части ног и
+плеч, а вот на спине, боках, груди и животе полудлинная; «воротник», «штанишки»
+и хвост с длинной шерстью.
+</p><img alt="" src="http://s3.webestudio.ru/topcat/editor_images/69/10/76/45/bd/0b/76/72/46/38/7a/b4/8e/f4/d9/54/9d5ebb5a653470916a674b1d1d80f2f0.jpeg" style="width: 326px; float: right; margin: 0px 0px 10px 10px;"/>
+<p><strong>Окрасы:</strong> Шерсть с тикингом – чередующимися темными и светлыми
+кольцами на каждом волоске, минимум 3-4 кольца, максимум 8. Верхнее кольцо –
+темное. Таким образом, по виду окраса это тикинг-табби. Что касается цвета, то
+это могут быть ruddy, или «крольчачий» -
+полоски тикинга темные и абрикосовые; голубой – серо-голубые и кремовые
+полоски; соррель – медно-красные, шоколадные и абрикосовые полоски;
+желтовато-коричневый – темно-кремовые и тускло-коричневые полоски;
+сребристо-черный – черные и белые полоски; серебристый соррель – шоколадные и
+белые полоски; серебристо-голубой – голубые и белые полоски тикинга. CFA признает только ruddy, голубой, соррель и
+желтовато-коричневый. Европейские системы допускают многие окрасы. Котята
+рождаются двухцветными: шерсть на округлых частях светлая, на ногах темная.
+Тикинг проявляется постепенно. Длина и окрас шерсти окончательно развиваются
+только после первого года жизни.
+</p>
+<p><strong>Недостатки:</strong> КДлинная, узкая голова или, наоборот, круглая голова. Дряблое тело. Полосы на ногах, слишком светлый подшерсток, недостаточное число полос тикинга, "призрачный" (остаточный) рисунок. Маленькие острые уши, круглые глаза, их неопределенный цвет и отсутствие темной окантовки век приведут к значительному снижению оценок на выставке. Слишком коренастое и крепкое тело;
+недостаточно длинные ноги или короткий хвост;
+	<strong style="background-color: initial;"> </strong>резко выраженная граница щек. Тонкий, непушистый хвост
+</p>
+<p><strong>Дисквалификация
+на выставках: 
+	</strong>Слабо выраженный тикинг или его отсутствие; наличие колец
+тикинга на ногах и хвосте. Белый цвет на теле, кроме области вокруг подусников и подбородка. (Недопустимо, чтобы высветленные фрагменты на подусниках и подбородке выходили слишком низко за подбородок.) Неразорванное ожерелье.
+</p>
+<p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/5f/db/1a/eb/9c/b7/f4/fe/7a/8c/d3/7b/56/67/05/f8/4d3da2425c86366ca4f2361f3e8646d2.jpeg" style="width: 405px; float: right; margin: 0px 0px 10px 10px;"/>
+</p>
+<p><strong>Дисквалификация
+всех пород: 
+	</strong>Ампутированные когти, крипторхизм, глухота и пр.
+</p>
+<h3>Особенности
+и характер 
+</h3>
+<p>Сомалийская кошка живая, в меру активная, живая и игривая. В то же время,
+она более спокойна, уравновешена и степенна, чем абиссинская. Дружелюбная и
+ласковая, игривая, хорошо ладит с другими кошками (кроме сиамских и бирманских)
+и собаками, охотно играет с детьми. Любит внимание, но не слишком навязчива.
+Отличается выраженным охотничьим инстинктом, поэтому плохо переносит жизнь в
+тесном помещении. Ей крайне необходимы прогулки. Любит тепло.
+</p>
+<h3>Содержание
+и уход
+</h3>
+<p>Уход за сомали несложен, но все же требует некоторых усилий. Их шерсть не
+слишком скатывается, потому что она не пушистая. Тем не менее, ее необходимо
+регулярно расчесывать: хотя бы раз в неделю, но тщательно. В период линьки
+ухаживать за шерстью следует ежедневно.
+</p>
+<h3>Кормление</h3>
+<p>Необходим
+сбалансированный рацион.
+</p>
+<h3>Селекция</h3>
+<p><strong>Допустимые скрещивания: </strong>нет.
+</p>
+<p><strong>Породы, созданные при участии Сомалийских кошек: </strong>Снежный (аляскинский) кот; Сомилла – гибрид с персидской шиншиллой; Бурмали – гибрид с бурманской; Сиамали
+– гибрид с сиамской.
+</p>
+<h3>Другие
+и устаревшие названия породы 
+</h3>
+<p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/8e/e5/ef/b7/50/6c/2c/c8/c9/fb/fe/8a/27/b6/e9/f3/a7276d882802267be8400da6dbb890a9.jpeg" style="width: 374px; float: right; margin: 0px 0px 10px 10px;"/>
+</p>
+<h3></h3>
+<p>Сомалийская черная;
+</p>
+<p>Абиссинская
+длинношерстная
+</p>
+<h3>Неофициальное
+(сленговое) название породы на русском языке
+</h3>
+<p>Сомали
+(«люблю разных сомали»).
+</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/266">Motozyuk</a>, Екатеринбург
+                                                </li>
+<li>
+<a href="/catteries/281">Juliacats</a>, Смоленск
+                                                </li>
+<li>
+<a href="/catteries/644">Golden Black*RU</a>, Саратов
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=24">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

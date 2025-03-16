@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Русская голубая порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, RUS, Русская голубая,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Русская голубая
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Русская голубая порода кошек фото" src="/styles/public/images/default_avatars/cat.png">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Русская голубая
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>RUS</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Россия
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для любых семей</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы</h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/03/76/10/b5/0b/74/cf/ad/c4/53/f0/49/6a/9f/fd/24/cd295d0cf76cab235f731714a466ff36.jpeg" style="width: 360px; float: right; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 10px; "/></p><p>Многие считают, что порода, имеющая российское происхождение, ведет свое начало
+от голубых кошек с относительно длинной шерстью, еще до XIX века обитавших на берегах Белого моря, в районе города-порта
+Архангельска (отсюда одно из названий – архангельская голубая). Существуют даже
+легенды о том, что подобные кошки жили во дворцах русских царей. Некоторые
+источники утверждают, что<strong> </strong>о русской голубой кошке упоминается в
+летописях времен Петра I:
+якобы там можно найти упоминание его кота по имени Васька, любимца всего
+царского двора. Позже Екатерина II,
+согласно все тем же источникам, дарила русских голубых котят послам иностранных
+держав. Если
+это правда, то первые русские голубые кошки Европы вполне могли быть потомками
+«царственных» животных. И еще более экзотическое предание: казаки якобы ходили
+в конные атаки с голубыми кошками на плечах. Было ли это на самом деле, судить
+трудно, но вот куда более реальная версия происхождения русских голубых: около
+1860 года некое торговое судно – русское или английское – доставило несколько
+таких кошек в Великобританию. И уже с 1871 года они много раз были представлены
+на выставках. В «Книге о кошках»,
+написанной мисс Симпсон в 1903 году, рассказывается об английской заводчице
+г-же Кэрью-Кокс (Carew-Cox) из графства Эссекс, которая в
+1893 году привезла из Архангельска русского голубого кота Лингпопо и трех кошек
+– Ольгу, Пашоду и Двину, а в 1901 году еще и кошку Юлу. Именно эти животные
+положили начало селекционной работе по разведению русских голубых в Британии. Вместе с тем, существует и
+другая версия истории породы. Некоторые из ее названий – мальтийская голубая
+или испанская голубая – по мнению некоторых специалистов, говорят о
+средиземноморском происхождении кошек голубого окраса. Однако даже сторонникам
+данной версии ныне приходится мириться с нынешним официальным названием породы
+– русская голубая. Оно принято в 1939 году. В середине XX столетия порода медленно угасала. Решительные меры по ее восстановлению
+были предприняты после второй мировой войны. Тогда кошку скрестили с британской
+короткошерстной голубой и сиамской блюпойнт. Позже, в 1960-х годах,
+европейские, особенно английские, заводчики стремились вернуться к
+первоначальному типу породы – кошкам с более коротким телом и более темного
+окраса. В Америке предпочли более «облегченный» вариант, с узкой головой,
+тонкими ногами и телом, более светлого окраса. </p><p>Некоторые потомки самых первых русских голубых были записаны
+британскими кошками, однако в 30-е годы XX века в Англии появляется клуб любителей русских голубых кошек.
+Это его усилиями в 1939 году были приняты первый стандарт и официальное
+название породы «русская голубая». Сегодня эта порода считается редкой и очень ценной, она
+чрезвычайно популярна в США, а японцы вообще относятся к этим кошкам с
+благоговением. </p><h3>Внешний
+вид</h3><p>Кошка средних размеров с элегантным, вытянутым телом и клиновидной головой. Вес от 3 до 5,5 кг. Отличается своеобразным «выражением» мордочки, которое создается благодаря четко обрисованным подушечкам вибрисс.</p><p><strong>Голова: </strong>Небольшого размера, в виде клина средней длины, с плоскими поверхностями; лоб и череп также плоские. Нос прямой, переход ото лба к носу без «стопа». Заметный угол на уровне надбровий. Мордочка средней длины, неширокая. Подушечки вибрисс выпуклые, подчеркнутые. Подбородок крепкий.</p><p><strong>Глаза: </strong>Большие, миндалевидные, немного раскосые, широко расставленные. Цвет – изумрудно-зеленый, у котят – от желтого до зеленого. Окончательный цвет глаз устанавливается только к двухлетнему возрасту.</p><p><strong>Уши:</strong> Большие, поставлены высоко, расположены на голове прямо и немного наклонены вперед. У основания широкие, кончики слегка заострены. Кожа на ушках тонкая.</p><p><strong>Шея:</strong> Длинная, тонкая, прямая, выглядит изящно.</p><p><strong>Тело:</strong> Среднего размера, удлиненное, изящное, но не восточного типа. Костяк довольно тонкий, развитая мускулатура.</p><p><strong>Ноги:</strong> Длинные; довольно тонкие и вместе с тем сильные. Мускулатура крепкая.</p><p><strong>Лапы:</strong> Небольшие, компактные, форма – овальная. </p><p><strong>Хвост:</strong> От среднего до длинного, прямой, у основания широкий, к кончику суживающийся. Подвижный, гибкий. Кончик закруглен.</p><p><strong>Шерсть:</strong> Главный отличительный признак породы – шерсть: короткая, очень густая и плотная, мягкая, «двойная» (подшерсток одинаковой длины с остью), неприлегающая, тонкая, блестящая, на ощупь «плюшевая».</p><p><strong>Окрасы:</strong> Окрас сплошного вида, цвет – голубой, однако в Австралии и Новой Зеландии выведены также черный и белый варианты окрасов шерсти кошек этой породы.</p><p><strong>Недостатки:</strong> Неправильная форма головы: квадратная, круглая или напоминающая голову сиамской кошки; круглые глаза; желтоватый оттенок радужной оболочки глаз; слабый подбородок; массивное, плотное, крепко сбитое тело; слишком толстый у основания хвост.</p><p><strong>Дисквалификация на выставках: </strong>Плотно прилегающая шерсть; белые пятна или отметины табби.</p><p><strong>Дисквалификация всех пород: </strong>Ампутированные когти, крипторхизм, глухота.</p><h3>Особенности
+и характер </h3><p>Русская голубая – довольно сдержанная, умеренно активная кошка, иногда
+даже робкая, застенчивая. Обладает независимостью, у нее средняя потребность в
+ласке и внимании. Как правило, привязывается только к хозяину, к нему ласкова и
+чувствительна, посторонних игнорирует. Довольно властная, при необходимости
+проявляет характер, не допускает насилия над собой. Отличная охотница, поэтому
+мелких домашних животных лучше держать от нее подальше, дабы она не приняла их
+за добычу. С другими кошками своей породы дружит. Спокойно
+приживается в обычной квартире, не склонна к бродяжничеству. Голосок тихий и
+нежный, однако мурлычет довольно громко. Не любит шума,воспринимает его как признак опасности и
+старается забраться повыше. Прыгучая. Любит гулять, но не в холод и дождь.
+Половое созревание раннее.</p><p>Содержание
+и уход</p><p>Уход за шерстью кошек этой породы легкий. Русская голубая
+теряет мало шерсти даже во время линьки. Достаточно раз в неделю удалить
+отмершие шерстинки кусочком замши или специальной рукавицей. Не следует
+разрешать кошке этой породы долго находиться на солнце, так как шерсть теряет
+цвет, приобретает коричневые и ржавые оттенки.</p><p>Кормление</p><p>При организации питания необходимо составлять
+сбалансированный рацион, давать кошке витамины, за исключением содержащих йод,
+так как они могут вызвать потемнение шерсти.</p><p>Селекция</p><p><strong>Допустимые скрещивания: </strong>Нибелунг (TICA), Русская белая и Русская
+черная (SCFF)</p><p><strong>Породы, созданные при участии Русских голубых</strong></p><h3>Другие
+и устаревшие названия породы</h3><p>Архангельская голубая; </p><p>Мальтийская; </p><p>Норвежская голубая; </p><p>Испанская голубая; </p><p>Американская голубая; </p><p>Русская короткошерстная</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/69">Blue Mystery</a>, Екатеринбург
+                                                </li>
+<li>
+<a href="/catteries/102">Choop's</a>, Воронеж
+                                                </li>
+<li>
+<a href="/catteries/170">Nefrit Amura</a>, Хабаровск
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=68">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

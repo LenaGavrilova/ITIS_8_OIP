@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Манчкин короткошерстный порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, MNS, Манчкин короткошерстный,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Манчкин короткошерстный
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Манчкин короткошерстный порода кошек фото" src="https://s3.webestudio.ru/topcat/breed_article_images/c/0/d/c0d5711ab9d8b91368315c44eeb5dfc1.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Манчкин короткошерстный
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>MNS</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                США
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей с детьми</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы</h3><p>Историю этой одной из самых необычных пород, ведущей свое
+происхождение из США, можно условно разделить на две части. «Предыстория»
+манчкинов – это 30-е годы прошлого столетия, когда в Европе, а точнее, в Англии
+и Германии, появились первые сообщения о необычных коротколапых кошках. Однако
+вскоре разгорелась вторая мировая война, людям стало не до кошек, вот и порода,
+которую тогда еще никто не называл ее сегодняшним именем, исчезла практически
+полностью. Многие сетевые источники упоминают о кошках, похожих на кенгуру, найденных
+в 1953 году в Сталинграде. Однако у этих животных короткими были только
+передние ноги, и не совсем понятно, имеют ли они какое-либо отношение к манчкинам,
+или это какая-то иная разновидность, создавшаяся в результате существования в
+суровых условиях осажденного города. Что же касается собственно манчкинов, то
+современные представители породы ведут свое происхождение от черно-белой
+кошечки из городка Рейвилл в американском штате Луизиана. Добросердечная
+женщина по имени Сандра Хочнедел (Sandra Hochenedel) в начале 1980-х годов обнаружила
+животное под заброшенным автофургоном, назвала Блэкберри (от англ. Blackberry –
+Ежевика) и из жалости приютила, сочтя короткие лапки следствием ранее
+перенесенной болезни. Однако вскоре оказавшаяся беременной Блэкберри принесла
+потомство, и некоторые котята также оказались обладателями удивительных
+конечностей. Это означает, что длина ног манчкинов – результат спонтанной
+мутации, а ген коротконогости (ахондроплази́и)
+является доминантным. Одного из котят подарили другу Сандры Хочнедел,
+фермеру Каю Лафрансе (Kay LaFrance), назвали
+Toulouse, и потомство этого кота оказалось столь многочисленным, что уже
+через несколько лет манчкины были выделены в отдельную породу. Впервые такие
+кошки были представлены на выставке в нью-йоркском Мэдисон-Сквер-Гарден в 1991
+году, и буквально произвели фурор своим уникальным обликом и забавным
+поведением. </p><p><img alt="" src="http://s3.webestudio.ru/topcat/editor_images/0f/70/8a/22/46/8a/92/05/61/6e/bf/7d/d7/4a/e6/67/c923371e08439f4c0fb6d7b0aabe0321.jpeg" style="width: 278px; float: right; margin: 0px 0px 10px 10px;"/>
+</p><p>Новую породу сразу же окрестили «кошка-такса» и «кошка-бассет»,
+из-за сходства конечностей с конечностями собак – такс и бассет-хаундов. А
+официальное свое наименование порода получила в честь сказочного народца –
+общительных, веселых и дружелюбных манчкинов из знаменитой книги Лаймена Фрэнка
+Баума «Волшебник страны Оз».</p><p>В Европе, во Франции, манчкины впервые
+появились в 1983 году, примерно тогда же они попали в Японию, вызвав настоящий
+бум и сразу став одной из самых популярных в стране пород. В 2001 году за
+разведение манчкинов взялись в России, для чего из Южной Африки был завезен
+котик по имени Mimi Mee Pocket Herkules. Официальное признание состоялось в
+1995 году, первой из международных организаций это сделала TICA. По сей день многие мировые системы
+не признают породу, опасаясь возникновения проблем со здоровьем из-за
+разведения животных с наличием мутации. TICA решает этот вопрос, допуская в чемпионский класс только тех
+кошек, чьи хозяева могут предоставить монопородную родословную в не менее чем
+трех поколениях. </p><h3>Внешний
+вид</h3><p>Абсолютно уникальная порода, которую невозможно спутать ни с какой другой
+из-за значительно укороченных конечностей. При средней длине тела ноги
+манчкинов могут быть в два, а то и в три раза короче, чем у кошек других пород.
+Мутация длины ног никак не влияет на позвоночник, поэтому в остальном это такие
+же кошки, как и другие: гибкие, сильные, подвижные. Правда, небольших размеров:
+вес манчкинов колеблется от 2,2 до 4 кг, и некоторые особи могут по-состязаться
+в миниатюрности даже с самой маленькой кошачьей породой – сингапурой. Порода
+имеет как полудлинношерстную, так и короткошерстную вариации.</p><p><strong>Голова: </strong>В форме
+модифицированного клина с округлыми контурами, пропорционального по отношению к
+телу. Высокие выдающиеся скулы, которые у котов могут проявляться больше, чем у
+кошек. Плоский лоб, с плавным переходом ото лба к носу. Мордочка средней длины.
+Носсредней длины, допустим
+небольшой прогиб. Подбородок твердый, но не выступающий или чрезмерно сильный.</p><p><strong>Глаза: </strong>Средние или большие, миндалевидной
+формы, расположены достаточно широко, придают мордочке открытое выражение.
+Располагаются под небольшим углом к основанию ушей. Взаимосвязи между цветом
+глаз и окрасом нет.</p><p><strong>Уши: </strong>От средних до больших,<strong> </strong>более широкие
+в основании, с слегка закругленными кончиками, высоко и широко поставленные.
+Кисточки на кончиках ушей допускаются только у полудлинношерстных особей.</p><p><img alt="" src="http://s3.webestudio.ru/topcat/editor_images/cc/84/fb/bc/98/6e/a9/90/f7/d4/67/ee/04/00/fa/53/20ccbee7b0aea0fb1ae15a4bf39efd36.jpeg" style="width: 210px; float: right; margin: 0px 0px 10px 10px;"/>
+</p><p><strong>Шея: </strong>Плотная и мускулистая у котов, у кошек
+немного меньше, чем у котов.</p><p><strong>Тело: </strong>Вытянутое, не компактное, спина с
+легким наклоном вверх от плеч до хвоста. Хорошо округленная грудь и твердые
+бедра. Кошки менее крупные, чем коты. Угловатые лопатки допустимы. Костяк
+средний, мускулатура развита. </p><p><strong>Ноги: </strong>Короткие. Расположены на равномерном
+расстоянии, если смотреть от мордочки к хвосту. Верхняя и нижняя часть передних
+ног равны по длине, бедра и нижняя часть задних ног приблизительно равны по
+длине. Допустимо, если задние ноги несколько длиннее передних.</p><p><strong>Лапы: </strong>Округлые,
+пропорциональные телу, все должны располагаться прямо, никакого искривления
+лапок внутрь или наружу не допускается.</p><p><strong>Хвост: </strong>Не толстый, сужающийся
+к округлому кончику, по длине соответствующий длине тела. При движении
+располагается вертикально.</p><p><strong>Шерсть:</strong>
+Короткая, гладкая,
+шелковистая на ощупь, со средним подшерстком.</p><p><strong>Окрасы:</strong>
+Любые, для
+короткошерстной вариации наиболее популярны окрасы с
+акромеланическими отметинами, как в сиамском окрасе – колор-пойнты, минки,
+сепия, а также все типы рисунчатых окрасов.</p><p><strong>Недостатки:</strong> Выдающаяся
+грудная кость; короткий или слишком длинный нос; круглые глаза; круглая голова;
+«коровий» постав лап; короткое, приземистое, коренастое тело; кудрявая шерсть.</p><p><strong>Дисквалификация на выставках: </strong>Вислый круп; вогнутая
+спина; сходство с миниатюризированым представителем любой другой породы.</p><p><strong>Дисквалификация
+всех пород: </strong>Ампутированные когти, крипторхизм, глухота.</p><h3>Особенности
+и характер</h3><p><img alt="" src="http://s3.webestudio.ru/topcat/editor_images/a1/c1/46/15/07/ad/c5/dc/55/dc/59/c6/b3/71/57/6d/07de7d3ecd11727e1df6a26f2952a2b6.jpeg" style="width: 239px; float: right; margin: 0px 0px 10px 10px;"/></p><p>Несмотря на свои короткие ножки, манчкин столь
+же подвижен, как и его длинноногие собратья. Конечно, он не умеет так же высоко
+прыгать, но вот взбираться на </p><p>стулья, столы, даже шторы и прочие возвышения –
+запросто. Это интеллектуальная, чрезвычайно дружелюбная, общительная кошка,
+которая прекрасно ладит не только с живущими в доме людьми, но и с другими
+животными, отличается по-настоящему собачьей преданностью своему хозяину. При
+этом манчкин не бесхарактерная кошка, она прекрасно умеет постоять за себя. Быстро привыкает к новым людям и новым
+помещениям, спокойно гуляет на шлейке, как собака, и легко переносит
+путешествия. Еще одним, помимо коротких лап, характерным признаком породы
+является способность манчкинов подолгу сидеть вертикально, опираясь на бедра
+задних конечностей и хвост, а передние ноги при этом забавно свисают вдоль
+тела, как у кенгуру. </p><h3>Содержание
+и уход</h3><p>Манчкин обожает «вить» себе гнезда, поэтому хорошо бы
+подготовить для него корзинку или домик, где он будет чувствовать себя
+защищенным, зная, что его не тронут. Вещи, которые кошке не следует трогать,
+лучше убрать повыше и убрать из поля зрения манчкина, так как он чрезвычайно
+любопытен. Туалет должен быть с высоким бортиком, так как эти кошки любят
+закапывать свои отходы. Уход за шерстью кошек данной породы несложен, особенно
+для короткошерстной вариации – достаточно расчесывания раз в неделю. Купать
+кошек этой породы рекомендуется раз в 2-4 месяца специальным шампунем.</p><h3>Кормление</h3><p>За кормлением нужно тщательно следить, так как манчкины
+склонны к перееданию, и это может создать риск ожирения. </p><h3>Селекция</h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/21/66/9d/9f/34/bc/a4/88/f5/5b/eb/a6/1e/b3/12/35/f2b3b632b4e7811d8014a1c88aca2029.jpeg" style="width: 273px; float: right; margin: 0px 0px 10px 10px;"/></p><p><strong>Допустимые скрещивания: </strong>только с домашними кошками
+схожего с манчкинами облика, обладающими хорошим здоровьем</p><p><strong>Породы, созданные при
+участии Манчкинов короткошерстных: </strong>Наполеон – гибрид с персидской и Экзотической
+короткошерстной; Скукум (Skookum) – гибрид с Лапермом; Kinkalow
+– гибрид с американским керлом; Mei Toi – карликовый манчкин, гибрид с оцикетом
+и сингапурой<strong></strong></p><h3>Другие
+и устаревшие названия породы</h3><p>Кошка-такса;</p><p>Кошка-бассет<br/> </p><p>Американская карликовая; </p><p>Жевун; </p><p>Кенгуровая; </p><p>Луизианский креол;</p><p>Мэй-той; </p><p>Таксовая кошка</p><h3>Неофициальное (сленговое) название породы на русском
+языке</h3><p>манч, манчик</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/43">Loving You</a>, Екатеринбург
+                                                </li>
+<li>
+<a href="/catteries/148">P. Pride of Far East</a>, Южно-Сахалинск
+                                                </li>
+<li>
+<a href="/catteries/268">Supermunchkin</a>, Санкт-Петербург
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=66">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

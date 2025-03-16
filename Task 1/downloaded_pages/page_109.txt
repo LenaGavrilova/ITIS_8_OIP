@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Хао Мани порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, KMA, Хао Мани,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Хао Мани
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Хао Мани порода кошек фото" src="https://s3.webestudio.ru/topcat/breed_article_images/3/7/4/374a3de589f812dd6db99700d86b4a06.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Хао Мани
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>KMA</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Таиланд
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей с детьми</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы
+</h3><p>Хао мани – древняя порода кошек,
+ведущая свое происхождение из Таиланда, так же, как, например, сиамские кошки и
+корат. Как давно появились первые хао мани, подсчитать сложно, однако
+упоминания о белых кошках с разноцветными глазами мы находим еще в Tamra Maew –
+«Кошачьей Книге Поэм», даты создания которой варьируются от 1350 до 1767 г. и
+которая, вероятно, является самой старой в мире книгой, посвященной кошкам. «Шестая кошка – с белоснежной шерстью и
+драгоценными глазами приносит в любой дом богатство, почет и счастье», –
+так в свободном переводе звучат строки
+этой книги. Название породы переводят с тайского как «белый бриллиант», «белый
+драгоценный камень», «белая жемчужина». Этот «ювелирный» оттенок смысла
+подтверждает мнение о том, что у себя на родине, в древнем Сиаме эти животные
+были весьма почитаемы и слыли приносящими всевозможные блага, включая славу,
+материальную независимость и долголетие. Есть сведения о том, что владеть
+такими кошками имели право только особы королевской крови, и даже о том, что
+одна такая кошка была полноправной участницей коронации очередной тайского
+монарха в 1926 году. Более раннее название породы – Хао плорт – означает просто
+«вся белая». Очевидно, еще в древности жители Королевства Сиам заметили, что
+при скрещивании старотипных сиамских (тайских) кошек акромеланического окраса
+сил-пойнт и обычного домашнего кота зачастую рождаются белоснежные котята с
+голубыми или разноцветными глазами. Таким образом, порода хао мани
+первоначально имела естественное происхождение, и только столетия спустя ее
+стали разводить путем целенаправленного бридинга.
+</p><p>Есть сведения, что большим поклонником хао мани был
+король Таиланда Чулалонгкорн Рама Пятый; позднее разведением
+породы занимались его сын и внучка. Существует даже легенда о том, что в 80-х
+годах XIX столетия кошки… сохранили для Таиланда его суверенитет.
+Король Рама Пятый через британского консула передал в подарок королеве пару
+сиамских кошек окраса сил-пойнт, благодаря чему Британия якобы позволила
+Таиланду сохранить независимость. Уж очень понравились в Европе «королевские
+кошки Сиама»! Однако далее предание уточняет: сиамы были переданы англичанам
+лишь для отвода глаз, а настоящими королевскими любимицами по-прежнему были
+оставшиеся на родине хао мани. В современной истории первые хао мани были
+вывезены из Таиланда в США, и произошло это в 1999 году. Двумя годами позже
+первые кошки этой породы были зарегистрированы в TICA, а вот статус породы она
+приобрела лишь в 2010 году, в системе GCCF.
+</p><h3>Внешний
+вид
+</h3><p>Животное среднего размера, мускулистая, но при этом
+элегантная кошка, вес взрослого животного от 2,5 до 6,5 кг, явно выражен
+половой диморфизм.
+</p><p><strong>Голова: </strong>Четко очерчена, не слишком длинная
+и не слишком короткая, широкая, клинообразной формы. Щеки и лоб четко очерчены,
+скулы довольно высокие. Мордочка тупоугольная,
+в профиль квадратной формы. Нос прямой
+без искривлений. Подбородок сильный,
+хорошо заметный, но не выступающий.
+</p><p><strong>Глаза: </strong>Крупные, миндалевидные, чуть косо
+посаженные.
+</p><p><strong>Уши: </strong>Могут быть или средними или большими,
+но в любом случае поставленные прямо и широко в основании, с закругленными
+кончиками.
+</p><p><strong>Шея:</strong> Средних размеров.
+</p><p><strong>Тело: </strong>Восточного типа, изящное и
+симметричное, не слишком сильное и не слишком тонкое.
+</p><p><strong>Ноги: </strong>Средней длины, крепкие,
+мускулистые.
+</p><p><strong>Лапы: </strong>Округлые, с маленькими розовыми подушечками.
+</p><p><strong>Хвост: </strong>Такой же длины, как и все тело.
+</p><p><strong>Шерсть:</strong>
+	Короткая, очень густая, гладкая, плотная, прилегающая к телу, с небольшим
+подшерстком.
+</p><p><strong>Окрасы:</strong> Цвет – сплошной белый, без каких бы то ни
+было рисунков. Котята могут рождаться с небольшими отметинами на макушке,
+однако они должны исчезнуть до достижения животным годовалого возраста. Глаза у
+хао мани или голубые, или разноцветные: один глаз голубой, второй – либо
+зеленый, либо от желтого до золотистого. Часто хао мани путают с другими
+короткошерстными кошками белого окраса, однако у них есть эксклюзивный
+породообразующий признак. Дело в том, что ткань нижнего и верхнего век глаза
+этой кошки очень светлая, за счет чего глаза отчетливо выделяются на фоне
+окраса кошки, создавая впечатление, что они сверкают или светятся.
+</p><p><strong>Недостатки:</strong> Любые
+рисунки текстуры шерсти; белые пятна; отличающийся от стандартного цвет окраса.
+</p><p><strong>Дисквалификация на выставках: </strong>Генетические
+дефекты всех видов; несбалансированное телосложение; дисгармония; агрессивный
+темперамент.
+</p><p><strong>Дисквалификация
+всех пород: 
+	</strong>Ампутированные когти, крипторхизм, глухота.
+</p><h3>Особенности
+и характер 
+</h3><p>Хао мани – общительная кошка, дружелюбная и
+очень умная. Она любопытна, активна, игрива, плохо переносит одиночество, а
+также отсутствие внимания со стороны человека. Обладает приятным голоском и самой
+очаровательной из всех пород манерой мурлыкать. Прекрасно ладит с другими
+домашними животными, а также с детьми. Чистоплотна, отличается высокой
+обучаемостью.
+</p><h3>Содержание
+и уход
+</h3><p>Несмотря на то, что порода хао мани является чрезвычайно
+редкой, уход за этими кошками несложен; он такой же, как и за обычными кошками.
+Достаточно еженедельного расчесывания специальной щеткой и купания по мере
+загрязнения шерстки. Разумеется, необходимы чистка ушек и глазок. Нередко эти
+кошки рождаются глухими или слабо слышащими. Одна из самых дорогих в мире
+пород.
+</p><h3>Кормление</h3><p>Сбалансированный
+рацион, допустимо использование только кормов премиум-класса.
+</p><h3>Селекция</h3><p><strong>Допустимые скрещивания: </strong>нет
+</p><p><strong>Породы, созданные при участии Хао мани</strong>
+</p><p>Другие
+и устаревшие названия породы
+</p><p>Хао-мани;
+</p><p>Као Мани;
+</p><p>Кхао мэни;
+</p><p>Хао плорт; <strong></strong>
+</p><p>Diamond Eye;
+</p><p>Кот с золотыми и
+серебряными глазами
+</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/6319">Volshebniy Teremok</a>, Челябинск
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=126">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

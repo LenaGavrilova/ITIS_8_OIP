@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Американский керл длинношерстный порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, ACL, Американский керл длинношерстный,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Американский керл длинношерстный
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Американский керл длинношерстный порода кошек фото" src="https://s3.webestudio.ru/topcat/cat_images/c/b/4/cb49b04ce2224ba6759b890a0372e05d.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Американский керл длинношерстный
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>ACL</dd>
+<dt>Группа:</dt>
+<dd>Полудлинношерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                США
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для больших семей с детьми; для людей, часто находящихся дома</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы
+</h3><h3></h3><p style="text-align: justify;">Эта достаточно молодая порода родом из штата Калифорния. Там, в городе
+Лейквуд (Lakewood), в 1981 году супругами Руга была найдена бродячая черная
+кошка с полудлинной вьющейся шерстью на ушах. Именно ушки и были у этого
+животного самым интересным местом: они были изогнутыми. В конце года Суламифь
+(Shulamith) – так назвали кошку – произвела на свет четырех котят, двое из них
+тоже оказались с загнутыми ушками. Тогда-то на нового зверька и обратили
+внимание селекционеры, и уже спустя два года Суламифь и ее потомство были
+представлены на выставке в Калифорнии. «Завиток» по-английски 
+	<em>curl</em>, поэтому новая порода получила
+название Американский кёрл (или иначе – кёл). Очаровательные загнутые ушки с
+густой шерстью – плод спонтанной мутации, вызванной доминантным геном, который
+может быть передан одним из родителей. При скрещивании кёрла с обычной кошкой
+хотя бы половина котят, как правило, рождается с вывернутыми ушками. Котят того
+же выводка с прямыми ушками называют кёрл-страйт, и используют для племенной
+работы или продают как обычных домашних кошек. В настоящее время существует две
+вариации породы, отличающиеся длиной шерсти. Первыми появились длинношерстные
+американские кёрлы. Короткошерстная порода формировалась дольше.
+Короткошерстные американские кёрлы являются носителями скрытого гена длинной
+шерсти и нередко приносят длинношерстных котят. Порода была признана
+Международной ассоциацией любителей кошек TICAв 1985 году, а в 1991-м получила
+официальное признание в CFA.
+В конце 80-х годов XXвека эта порода появилась в Европе. За такой короткий срок
+существования порода американский кёрл завоевала международную популярность.
+Сегодня питомников этой породы немало и в Европе, и в Северной Америке, и в
+Японии. Как ни удивительно, но после признания американских кёрлов аборигенных
+котов с ушками, закрученными подобным образом, стали находить в разных частях
+света, включая Южную Америку и Австралию.
+</p><h3>Внешний
+вид
+</h3><h3></h3><p style="text-align: justify;">е крупная, но и не маленькая кошка, ее вес колеблется от 3
+до 5 кг. Стройная, пропорционально сложенная, элегантная, но с крепким
+костяком. Заметно выражен половой диморфизм: коты крупнее и сильнее кошек.
+«Визитная карточка» американских кёрлов – вывернутые уши.
+</p><p style="text-align: justify;"><strong>Голова: </strong>Среднего
+размера, слегка удлиненная, в виде клина с плавными, округлыми очертаниями.
+Мордочка не заостренная и не квадратная, а клиновидная, средней длины, с
+мягкими обводами, без резко очерченных границ щек. В профиль заметен легкий
+подъем при переходе от уровня нижнего века ко лбу. Слабовыпуклый затылок
+плавным изгибом переходит к шее. Нос прямой. Подбородок крепкий.
+</p><p style="text-align: justify;"><strong>Глаза: </strong>Довольно большие в пропорции к голове, в форме лесного ореха (овальное верхнее и округлое нижнее веко), широко поставленные (на расстоянии ширины 1 глаза), раскосые. Цвет ярких, сверкающих глаз должен быть однотонным и не обязательно связанным с окрасом шерсти. (у пойнтовых кошек только голубой цвет глаз)
+</p><p style="text-align: justify;"><strong>Уши: </strong>Умеренно-большие в пропорции к голове, широкие и открытые у основания, высоко и прямо поставленные, с закругленными кончиками. Отогнуты назад, к вершине черепа. Угол изгиба должен быть не менее 90°. При этом кончик уха не должен касаться ни задней поверхности ушной раковины, ни головы кошки. Изгиб ушка бывает трех степеней: слегка загнутые ушки, чуть больше, и наиболее престижный и высоко ценимый вариант – ушки, загнутые полумесяцем. Загнутая часть уха должна быть гладкой. Кончики подвижные. Густая шерсть внутри ушных раковин («щетки») - приветствуется.
+</p><p style="text-align: justify;"><span></span><strong>Шея: </strong>Средней
+длины, мускулистая.
+</p><p><strong>Тело: </strong>Прямоугольного формата, довольно вытянутое: длина в полтора раза превышает высоту кошки в холке. Костяк и мускулатура не слишком развитые, но и не слабые. Умеренный тонус и сила.
+</p><p><strong>Ноги: </strong>Средней
+длины и толщины, пропорциональны туловищу, прямые, с крепкой мускулатурой.
+Передние ноги чуть короче задних.
+</p><p><strong>Лапы: </strong>Округлые,
+компактные, среднего размера.
+</p><p><strong>Хвост: </strong>Равен
+длине туловища, широкий и толстый у основания, постепенно суживающийся к
+закругленному кончику, пушистый.
+</p><p><strong>Шерсть: </strong>Полудлинная, не слишком густая и не плюшевая на ощупь, тонкая, нежная, шелковистая, ниспадающая. Подшерсток слабо развитый, редкий. Жабо слабо выраженное. Хвост очень опушен.
+</p><p><strong>Окрасы: </strong>Любые,
+включая колорпойнт. Цвет должен быть хорошо определенным, без изъянов и с четким рисунком (если он присутствует в окрасе).
+</p><p><strong>Недостатки: </strong>Резко выраженный переход ото лба к мордочке, густая, жесткая шерсть с обильным подшерстком, наличие жабо, густая или плюшевая шерсть, низко поставленные уши, гофрированные уши, резкий загиб кончика уха, отличный от мягкого завитка.
+</p><p><strong>Дисквалификация на
+выставках: 
+	</strong>Прямые или слишком различные по степени завитка уши,укстремальняй завиток у взрослых котов, когда кончик уха касается головы или тыльной части уха. Жесткие кончики уха. Уши у которых нижняя часть уха аномально уплощена, хрящ сжат и ухо не имеет нормальную, видимую часть уха. Деффекты хвоста.
+</p><p><strong>Дисквалификация всех
+пород: 
+	</strong>Ампутированные когти, крипторхизм, глухота.
+</p><h3>Особенности
+и характер 
+</h3><p style="text-align: justify;">Кёрл – кошка
+с уравновешенным характером и ровным темпераментом, культурная,
+«интеллигентная», и в то же время игривая и лукавая. Легко уживается с людьми,
+предпочитая общение с хозяином забавам со своими собратьями, хотя и не ссорится
+с животными- ни с себе подобными, ни
+даже с собаками. Очень привязывается к своему владельцу, общительна, нежна,
+ласкова. Прекрасно относится к детям. Легко поддается
+воспитанию. Кошка активная, подвижная, любит длительные прогулки, охотно идет
+на поводке. Половая зрелость наступает в 2 – 3 года. Хрящи ушек начинают
+изгибаться и затвердевать уже на четвертый день после рождения, но
+окончательная их форма устанавливается к 3 – 4 месяцам.
+</p><h3>Содержание
+и уход
+</h3><p>Достаточно раз в неделю расчесывать шерсть щеткой и
+гребешком. Необходимо тщательно следить за ушками, в раковинах которых из-за
+загнутости могут скапливаться грязь и сера, их нужно удалять с помощью
+специального средства. За несколько дней до выставки кошку необходимо помыть.
+</p><h3>Кормление</h3><p>Требуется сбалансированный рацион. Как правило, кошки этой
+породы не склонны к перееданию и ожирению.
+</p><h3>Селекция</h3><p><strong>Допустимые скрещивания: </strong>нет.
+</p><p><strong>Породы, созданные при участии
+Американских кёрлов длинношерстных: 
+	</strong>Раффп – рекс-версия, полученная от скрещивания
+американских кёрлов с корниш-рексом.
+</p><h3>Другие
+и устаревшие названия породы
+</h3><p>Американская курчавая.
+</p><h3>Неофициальные (сленговые) названия</h3><p> <strong></strong>Кёрл.
+</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/74">Exclusive Cats</a>, Уфа
+                                                </li>
+<li>
+<a href="/catteries/148">P. Pride of Far East</a>, Южно-Сахалинск
+                                                </li>
+<li>
+<a href="/catteries/209">Ilmatar</a>, Москва
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=2">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

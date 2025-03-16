@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Тайская порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, THA, Тайская,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Тайская
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Тайская порода кошек фото" src="https://s3.webestudio.ru/topcat/cat_images/9/e/a/9eafc485458318ad6587e1083c5b8b52.jpg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Тайская
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>THA</dd>
+<dt>Группа:</dt>
+<dd>Сиамо-ориентальная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Таиланд
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для любых семей</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы
+</h3>
+<p>Тайская порода кошек иначе называется старосиамской, или традиционной
+сиамской. Сходство тайских кошек с общепризнанными сиамскими ограничивается
+только цветом глаз и окрасами шерсти, во всем остальном породы заметно
+отличаются. Первые тайские кошки произошли от сиамских, завезенных в Европу
+(Англию) в начале 70-х годов XIXвека. Как явствует из
+названия, эти животные прибыли из Таиланда. Долгое время сиамская и тайская
+породы разводились как две ветви внутри одной породы, и лишь в 1990 году был
+создан отдельный стандарт. Тем не менее, тайцы буквально до последнего времени
+развивалась лишь стараниями отдельных заводчиков, без связи с крупными
+фелинологическими системами. То есть, тайцы – это достаточно новая и в то же
+время древнейшая порода кошек. Еще в рукописном сборнике «Книга поэм о кошках»,
+созданном в XIV-XVвеках в тайском королевстве Аютия, можно
+найти упоминания о белых кошках с черным хвостом, ушами и лапами. Книга эта
+действительно существует, и ныне находится в Национальной библиотеке Бангкока.
+В частности, в ней повествуется о том, что прародительницы нынешней тайской породы
+в незапамятные времена почитались жителями древнего тайского королевства как
+священные животные. Они жили только во дворцах и храмах, всячески оберегались и
+считались защитницами душ людей, ушедших в мир иной. В некоторых источниках
+упоминается о том, что королевские тайские кошки имели глаза янтарного цвета,
+но тогда непонятно, когда и в результате каких скрещиваний они приобрели
+нынешний сапфировый цвет. Впрочем, другие источники утверждают, что кошки
+акромеланического окраса с ярко-голубыми глазами существовали всегда. Во всяком
+случае, в России они поселились давным-давно. Любопытно, что в конце XVIIIвека знаменитый русский географ немецкого
+происхождения Петер Симон Паллас, совершая путешествие по южным землям
+Российского государства, увидел в Пензенской губернии, неподалеку от поселения
+Инсар, кошек явно восточного облика, поразивших его воображение. «
+	<em>Это
+кошка среднего размера, у нее более длинные и тонкие ноги, чем те, что мы
+привыкли видеть у обычной кошки, у нее более длинная и узкая голова, хвост в
+три раза длиннее головы. Окрас шерсти темно-русый, такой, как цвет норки, но
+более насыщенный на морде и хвосте и более осветленный на боках и животе. На
+груди - белый медальон. Нос закрыт черной маской, которая также окружает глаза
+и заканчивается в виде остроконечного треугольника на лбу. Уши, лапы и хвост
+очень темного цвета. Структура шерсти более приятна, чем у обыкновенной кошки и
+напоминает гладкую, блестящую шерсть норки. Подшерсток мягкий, более светлого
+тона. Шерсть на хвосте короткая, гладкая, прилегающая», 
+	</em><em>- пишет путешественник.
+Конечно, никто не скажет точно, как именно попали в Россию эти удивительные
+животные. Но, видимо, это и были именно кошки «исконного» сиамского облика – то
+есть, как раз те, что ныне именуются Тайскими. 
+	</em>
+</p>
+<p>О том, как сиамские кошки оказались в России, есть сразу несколько
+историй. Самая яркая из них повествует, что сразу 200 животных подарил русскому
+царю Николаю II король Сиама
+	<strong> </strong>Пра
+Чулачом Клао Чаойухуа, или Рама V, получив в ответ роду солдат-гвардейцев для
+охраны королевского дворца. Самая современная – о двух кошках, привезенных из
+Европы выдающимся советским «кукольником» Сергеем Образцовым в середине XXвека.
+Скорее всего, это были совсем не те сиамцы, который тогда уже вовсю разводили в
+Европе, а «истинные», старотипные – то есть, собственно, тайские. Во
+всякомслучае, именно такие животные
+были представлены на первых выставках в Москве и Ленинграде в 1987-88 годах. На
+этом основании и был в 1990 году составлен первый стандарт породы. В 1992 году ее официально
+признала WCF. Некоторые американские
+системы и ныне признают ее под названием «традиционная» или «яблокоголовая
+сиамская».
+</p>
+<h3>Внешний
+вид
+</h3>
+<p>Средняя по размеру кошка, компактная, крепкого сложения, но при этом
+элегантная, пропорциональная, с хорошо развитой мускулатурой, округлой со всех
+сторон головой, развитыми ногами, достаточно толстым, не слишком длинным
+хвостом и глазами миндалевидной формы.
+</p>
+<p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/0e/03/55/e6/8c/e5/10/3d/46/91/ee/ad/f8/9a/92/d1/7ba888724332fb79a4b6366bb56e6ae0.jpeg" style="width: 322px; float: left; margin: 0px 10px 10px 0px;"/>
+</p>
+<p><strong>Голова: </strong>Средней величины, округлая, без
+плоских поверхностей и угловатых контуров. Лоб не слишком выпуклый, скулы
+округлые, щеки четко выражены. Переход ото лба к носу четко обозначен,
+находится на уровне глаз, но не ниже уровня нижнего века. «Стоп» отсутствует. Нос
+прямой, не длинный. Мордочка с плавными контурами, четко обозначена. У взрослых
+котов ясно выражены щеки. Подбородок сильный.
+</p>
+<p><strong>Глаза: </strong>Большие, миндалевидной формы, немного
+раскосые. Цвет: варианты синего и голубого. Более насыщенные цвета ценятся
+выше.
+</p>
+<p><strong>Уши: </strong>Средние по размеру, расставлены довольно широко и
+направлены немного в стороны. Основание широкое, кончики закруглены.
+</p>
+<p><strong>Шея: </strong>От короткой до средней длины. У котов выше ценится
+короткая.
+</p>
+<p><strong></strong>
+</p>
+<p><strong>Тело: </strong>Средней длины, плотного сложения, с развитой
+мускулатурой и крепким костяком. Грудная клетка широкая.
+</p>
+<p><strong>Ноги: </strong>Средней длины, сильные, крепкие.
+</p>
+<p><strong>Лапы: </strong>Небольшого размера, по форме округлые.
+</p>
+<p><strong>Хвост: </strong>Средней длины, довольно толстый, особенно у
+основания. Кончик заостряющийся.
+</p>
+<p><strong>Шерсть:</strong>
+	Тонкая,
+плотно прилегающая, но не плоская, с незначительным подшерстком.
+</p>
+<p><strong>Окрасы:</strong> Акромеланические, по цвету могут быть любыми,
+кроме белого: торти-, тэбби-, торби-пойнт.
+	<strong></strong>
+</p>
+<p><strong>Недостатки:</strong> Косоглазие;
+темные пятна на животе; спине и боках; белые полосы или отдельные
+«прострачивающие» волоски на пойнтах; узлы на конце хвоста; покатый или слишком
+массивный подбородок.
+</p>
+<p><strong>Дисквалификация на выставках: </strong>Наличие
+белых пятен или белых пальцев на ногах; залом хвоста, отличный от голубого цвет
+глаз.
+</p>
+<p><strong>Дисквалификация
+всех пород: 
+	</strong>Ампутированные когти, крипторхизм, глухота.
+</p>
+<h3>Особенности
+и характер 
+</h3>
+<p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/c8/37/6b/88/f6/83/6c/e6/f3/47/cb/75/14/1c/29/9e/65fc5e23395f968afb95e7e4a420f33b.jpeg" style="width: 450px; float: right; margin: 0px 0px 10px 10px;"/>
+</p>
+<p>Тайская кошка необычайно умна, любопытна, бесстрашна,
+с высокой способностью к обучению. Очень активная, ласковая, общительная, подвижная,
+помимо традиционного «мяу» умеет издавать множество различных звуков
+(«говорящая кошка»). Обладает выразительной мимикой. Отличается преданностью: в
+отличие от кошек большинства других пород привыкает к хозяину, а не к месту.
+Бывает своенравной, ревнивой, склонна к лидерству и демонстрации своих
+лидерских притязаний. Одна из самых интеллектуальных пород в мире. Тайские
+кошки – настоящие долгожители, средняя продолжительность их жизни составляет
+10-14 лет, однако известны и тайцы, прожившие 20-28 лет.
+</p>
+<h3>Содержание
+и уход
+</h3>
+<p>Шерсть тайских кошек не требует особого ухода, достаточно
+периодически
+вычесывать отмершие волоски шерсти резиновой щеткой, специальной рукавицей или
+мокрой рукой. Примерно раз в месяц следует вычесывать тайца щеткой с достаточно
+жесткой щетиной. Из-за чересчур подвижного характера этих кошек необходимо
+постоянно помнить об их безопасности, в частности, закрывать окна и балконы
+частыми решетками и сетками.
+</p>
+<h3>Кормление</h3>
+<p>При натуральном кормлении необходимо исключить из рациона печень и
+морепродукты, которые могут вызвать потемнение шерсти.
+	<strong></strong>
+</p>
+<h3>Селекция</h3>
+<p><strong>Допустимые скрещивания: </strong>нет.
+</p>
+<p><strong>Породы, созданные при участии Тайских кошек</strong>
+</p>
+<h3>Другие
+и устаревшие названия породы 
+</h3>
+<p>Старосиамская;
+</p>
+<p>Традиционная
+сиамская;
+</p>
+<p>Яблокоголовая
+сиамская или Яблочная голова (AppleHead);
+</p>
+<p>Вичьен Мае
+(WichienMaet).
+</p>
+<h3>Неофициальное
+(сленговое) название породы на русском языке
+</h3>
+<p>таец («Люблю тайцев»).
+</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/145">Bun Mi</a>, Южно-Сахалинск
+                                                </li>
+<li>
+<a href="/catteries/162">Лунная Мозаика</a>, Москва
+                                                </li>
+<li>
+<a href="/catteries/193">Gamlet</a>, Москва
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=82">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

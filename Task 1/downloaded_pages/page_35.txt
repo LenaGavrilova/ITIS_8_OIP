@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Бамбино порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, BAM, Бамбино,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Бамбино
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Бамбино порода кошек фото" src="https://s3.webestudio.ru/topcat/breed_article_images/7/a/7/7a73268e8de8ff8c6ea688c6a4357efe.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Бамбино
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>BAM</dd>
+<dt>Группа:</dt>
+<dd>Прочие</dd>
+<dt>Категория:</dt>
+<dd>Экспериментальная</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<p><strong>Место возникновения:</strong><strong></strong> США, Россия<strong></strong></p><p><strong>Группа:</strong> бесшерстные</p><p><strong>Категория</strong>: развивающиеся</p><p><strong>Рекомендуется: </strong>для семей с детьми.</p><h3>История породы</h3><p>Эту породу часто называют самой необычной в мире. Ее название происходит
+от итальянского слова bambino– ребенок,
+дитя, малыш. Очаровательные лысые кошки и в самом деле всю жизнь напоминают детей – и своим веселым, игривым нравом, и по-детски доверчивым выражением
+мордочки, и необычными коротенькими ножками. Бамбино – порода, возникшая в
+результате скрещивания манчкина и канадского сфинкса. Впервые такие котята
+появились на свет случайно – супруги Пэт и Стефани Осборн (Stephanie and Pat Osborne) из американского штата Арканзас приобрели забавное,
+странноватое на вид, но удивительно трогательное животное и решили разводить
+подобных кошек в своем питомнике HolyMoly
+Cattery. Пэту – итальянцу по происхождению – и принадлежит авторство названия
+новой породы. Описываемые события относятся к 2005-2006 году, тогда же Осборнам
+удалось зарегистрировать породу в TICA как
+экспериментальную. В 2005 году первый помет Бамбино был зарегистрирован в
+России, питомник Baby Moon Cattery, заводчик М. Чернова. Сегодня кошек данной
+породы в России больше, чем в любой другой стране мира. Поначалу в России порода
+носила название Минскин (Minskin), однако
+после признания ее со стороны TICA тоже стала именоваться Бамбино. Существует также
+название Dwarf cat – кошка-гном. </p><p>В пометах Бамбино
+могут рождаться как котята с короткими ножками, так и с конечностями обычной длины. Вторые используются в
+селекционной работе.</p><h3>Внешний вид</h3><p>Кошка
+маленького или среднего размера, вес составляет 2-4 кг. Выражен половой диморфизм:
+коты на 25% крупнее кошек. Породообразующими признаками являются отсутствие
+шерсти и короткие конечности. Тело Бамбино сильное, с хорошо развитой
+мускулатурой и средним костяком, атлетичное. Характерная форма головы и глаз,
+вытянутый корпус довершают впечатление бесшерстной кошки-такс. </p><p><strong>Голова: </strong>Среднего размера, имеет форму модифицированного клина с
+округлыми контурами, в длину несколько больше, чем в ширину, скулы рельефные,
+заметный пинч. Череп слегка округлен, поверхность головы перед ушами плоская.
+Нос прямой с незначительным стопом. Мордочка короткая, с выраженными подушечками
+вибрисс. Подбородок хорошо развитый, но не выступающий и не слишком сильный,
+находится на одной линии с зеркальцем носа.</p><p><strong>Глаза:</strong> Большие, в форме плода лимона,
+постав немного косой. Широко расставлены, расстояние между ними должно
+равняться как минимум размеру глаза. Цвет должен быть ярким, однородным,
+насыщенным и соответствовать окрасу.</p><p><strong>Уши:</strong> От больших до очень больших, широкие
+и глубокие в основании, открытые, несколько разведены в стороны. Расстояние
+между ушами должно быть меньше ширины одного уха в основании. Постав не должен
+быть ни слишком низким, ни слишком высоким. Внутренняя поверхность ушной
+раковины лишена шерсти, но небольшое ее количество допустимо по контуру на
+нижней части внутреннего уха. Наружная часть уха может быть полностью покрыта
+тонким велюром.</p><p><strong>Шея:</strong> Средней длины, округлая,
+мускулистая, слегка выгнута от линии плеч до основания черепа. У взрослых котов
+выглядит очень мощной.</p><p><strong>Тело:</strong> Вытянутое, но не слишком растянутое,
+мускулистое, одинаковой ширины в плечах и в бедрах. Грудь широкая, округлая и
+глубокая. Мощные, крепкие плечи. Полный округлый живот. Костяк от среднего до
+довольно тяжелого. </p><p><strong>Ноги: </strong>Короткие, крепкие, мускулистые, более
+толстые, чем у других пород, задние несколько длиннее передних. Кожа на ногах
+очень складчатая. Предпочтительна длина ног - 1/3 от высоты животного в холке,
+однако существуют Бамбино с ногами нормальной длины.</p><p><strong>Лапы:</strong> Овальной формы с длинными гибкими
+пальцами: по 5 на передних и по 4 на задних ногах. Направлены прямо вперед.
+Подушечки очень выпуклые, создается впечатление, что кошка стоит на довольно толстых
+подушках.</p><p><strong>Хвост: </strong>Длинный, пропорциональный по
+отношению к телу, гибкий, в основании довольно толстый, сужающийся к
+закругленному кончику.</p><p><strong>Шерсть (кожный покров):</strong> Бамбино выглядит абсолютно
+бесшерстной, однако короткие, нежные волоски могут присутствовать на ногах,
+наружной стороне ушей, на хвосте и мошонке. Короткая шерсть присутствует на
+переносице. На остальных частях тела покров может как полностью отсутствовать
+(«резина» или «горячий воск», так и иметь вид мягкого пухового покрытия длиной
+не более 2 мм. При поглаживании создает ощущение замши или велюра. Кожа на
+ощупь очень приятная, нежная, но достаточно толстая, с хорошим слоем подкожного
+жира, складчатая, особенно вокруг мордочки, на шее, между ушами, вокруг плеч.
+Наибольшее количество «избыточной» кожи в виде многочисленных складок находится
+также на передних ногах. </p><p><strong>Окрасы:</strong> Любые, кроме характеризующихся
+зонарным распределением цвета по длине волоса.</p><p><strong>Недостатки:</strong> Чересчур короткие ноги; большее
+количество шерсти, чем допускается стандартом; тонкое, хрупкое телосложение,
+слабая мускулатура; впалый живот; тощий круп; узкая грудь; слишком компактное или восточного типа тело;
+сильно выступающие ключицы; выступающие в стороны локти; удлиненные ноги; «коровий»
+постав задних ног.</p><p><strong>Дисквалификация на выставках: </strong>Слабая задняя часть тела; заломы или иные дефекты
+хвоста.</p><p><strong>Дисквалификация всех пород: </strong>Ампутированные когти, крипторхизм, глухота.</p><h3>Особенности и характер </h3><p>Кошки породы Бамбино отличаются мягким
+и ласковым характером, любознательны, умны, общительны, дружелюбны и очень
+привязаны к членам семьи. Несмотря на короткие конечности, очень подвижны (в
+этом смысле их даже сравнивают с обезьянами), быстро передвигаются, напоминая
+своими движениями хорьков, и даже могут прыгать вверх, хотя и не слишком
+высоко. Чрезвычайно игривы, любят общаться с детьми. Обожают игрушки. Прекрасно
+ладят с другими домашними животными и даже птицами. Легко привыкают к новой
+обстановке, спокойно переносят путешествия, однако в дороге им особенно необходимо
+присутствие хозяина. <br/>
+Легко приспосабливаются к новым людям и новой обстановке. Любят путешествовать
+(лишь бы хозяин был рядом) и хорошо переносят поездки в любом транспорте.
+ Могут долго сидеть в позе кролика, внешне напоминая детенышей кенгуру.</p><h3>Содержание и уход</h3><p>Особых проблем со здоровьем у представителей данной породы нет, поэтому
+уход за бамбино несложен. Однако из-за отсутствия шерсти могут получить ожог
+кожи, если будут долго находиться под лучами солнца или, например, прислонятся
+к комнатному обогревателю. Поэтому за поведением бамбино необходимо следить. В
+холодную погоду будет уместным надеть на Бамбино теплый комбинезончик или даже укрыть
+одеялом.</p><h3>Кормление</h3><p>Необходима пища с высокой калорийностью, так как из-за ускоренного обмена
+веществ эти кошки отличаются повышенным аппетитом.</p><h3>Селекция</h3><p><strong>Допустимые
+скрещивания: </strong>Канадский
+сфинкс. Манчкин.</p><p><strong>Породы, созданные при участии Бамбино: </strong>В настоящее время не выявлены.<br/></p><h3>Другие и устаревшие названия породы</h3><p>Минскин. Dwarf
+cat.</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/1124">Shococats</a>, Москва
+                                                </li>
+<li>
+<a href="/catteries/1709">SHOCOCATS</a>, Москва
+                                                </li>
+<li>
+<a href="/catteries/1745">Tiramisu Trinity</a>, Могилев
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=142">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

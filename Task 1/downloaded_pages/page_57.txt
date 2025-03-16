@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Экзотическая длинношерстная порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, EXL, Экзотическая длинношерстная,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Экзотическая длинношерстная
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Экзотическая длинношерстная порода кошек фото" src="https://s3.webestudio.ru/topcat/breed_article_images/7/b/3/7b36d142539a701570a972113bd9675b.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Экзотическая длинношерстная
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>EXL</dd>
+<dt>Группа:</dt>
+<dd>Длинношерстная</dd>
+<dt>Категория:</dt>
+<dd>Экспериментальная</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3><strong>есто возникновения:</strong> США</h3><p><strong>Группа:</strong> длинношерстные</p><p><strong>Категория</strong>: экспериментальная</p><p><strong>Рекомендуется: </strong>для семей с маленькими детьми, большую часть времени находящихся дома.</p><h3>История породы</h3><p>С появлением и признанием экзотической короткошерстной породы встал  вопрос о статусе котят с длинной шерстью, которые периодически  появлялись в пометах экзотической короткошерстной и не подходили под  этот стандарт. CFA отнесла таких котят к «побочному» явлению  экзотической породы и дала им название «длинношерстная экзотическая». Такие кошки могут участвовать в выставках, но без получения титула. Другие  фелинологические организации Европы (кроме GCCF в Англии) и США  регистрируют экзотов с длинной шерстью как персов.</p><h3>Внешний вид</h3><p>Экзотическая длинношерстная кошка отличается средними размерами и пропорциональным сложением. Вес взрослого животного - 3,5-6 кг. Она практически не отличима от персидской  кошки. По характеру она более активна и открыта, чем персидская кошка.</p><p><strong>Голова:</strong> Широкая, массивная. Щеки округлые, скулы высокие. Подушечки усов выдающиеся. Нос короткий, курносый, с явно выраженным стопом. </p><p><strong>Глаза:</strong> Круглые, выпуклые. </p><p><strong>Уши:</strong>  Небольшие, с широким основанием и с закругленными кончиками широко расставлены и немного наклонены вперед. </p><p><strong>Шея:</strong> Короткая и мускулистая.</p><p><strong>Тело:</strong> Крупное, коренастое, с хорошо развитой мускулатурой.</p><p><strong>Ноги:</strong> Сильные, недлинные.</p><p><strong>Лапы:</strong> Круглой формы.</p><p><strong>Хвост:</strong> Довольно короткий, сильно опушенный. </p><p><strong>Шерсть:</strong> Длинная, густая, неплотно прилегающая к телу.</p><p><strong>Окрасы:</strong> Могут быть любыми как по виду, так и по цвету.</p><p><strong>Недостатки:</strong> </p><p><strong>Дисквалификация на выставках: </strong></p><p><strong>Дисквалификация всех пород: </strong>Ампутированные когти, крипторхизм, глухота.</p><p><strong>Особенности и характер</strong> </p><p>Экзотическая длинношерстная – кошка с мягким, открытым и активным характером. От персов "по наследству" ей досталась некоторая флегматичность. Но при этом  кошка довольно резвая, игривая, и остается такой в зрелом возрасте. Любопытна, сообразительна, доброжелательна. Спокойна,  нежна и ласкова, но не навязчива. Не сопротивляется, если ее хватают,  прижимают, целуют, не проявляет агрессивности. Практически не царапается. Хорошо уживается с кошками и другими домашними животными. Очень привязчива по отношению к хозяевам. Не любит часто оставаться в одиночестве, обидчива.Мяукает очень редко.</p><p><strong>Содержание и уход</strong></p><p>Шерсть экзотической длинношерстной кошки необходимо вычесывать специальной щеткой, чтобы избежать сваливания и скатывания в колтуны. Купание следует практиковать по мере необходимости, с  использованием специальных шампуней и бальзамов. Особое внимание нужно  уделять глазам питомца, регулярно протирая их. Важно  также следить за носом и ушами кошки и систематически их протирать и  чистить. Средняя продолжительность жизни длинношерстного экзота - 15 лет. Для этой породы характерны стоматологические заболевания, проблемы с дыханием, глазами, почками, сердцем.</p><p> <strong></strong></p><p><strong>Кормление</strong> </p><p>Необходим сбалансированный рацион. </p><p><strong>Селекция</strong></p><p>Допустимые скрещивания: нет</p><p><strong>Породы, созданные при участии Длинношерстных экзотических: </strong>нет</p><p><strong>Другие и устаревшие названия породы:</strong> нет</p><p><strong>Неофициальные (сленговые) названия:</strong></p><p>Длинношерстный экзот</p><p><br/></p><p><a class="external" href="http://top-cat.org/catteries?breed_ids=33" rel="nofollow"></a></p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/541">Colorolla</a>, Северодвинск
+                                                </li>
+<li>
+<a href="/catteries/2250">Murrrlyca</a>, Бишкек
+                                                </li>
+<li>
+<a href="/catteries/2705">Ban Maew</a>, Samut Prakan
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=88">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

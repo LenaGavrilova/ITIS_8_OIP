@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Калифорнийская крапчатая (сияющая) порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, CSP, Калифорнийская крапчатая (сияющая),
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Калифорнийская крапчатая (сияющая)
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Калифорнийская крапчатая (сияющая) порода кошек фото" src="https://s3.webestudio.ru/topcat/breed_article_images/e/4/7/e4756699c2ff2ab559ac4e4969e2b743.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Калифорнийская крапчатая (сияющая)
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>CSP</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Развивающаяся</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                США
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей, живущих в просторном доме</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы</h3><p>Эта порода, как явствует из ее названия, выведена в штате Калифорния.
+Инициатором ее создания выступил голливудский сценарист и шоумен Пол Кейси (Paul Casey), а
+задачей селекции было получение кошки, похожей на дикую – внешностью, но не
+нравом («с видом леопарда и характером ягненка»). Эта мысль пришла ему в голову
+после путешествия по Танзании, где Кейси пришлось увидеть, как безжалостно
+убивают леопардов ради их ценного меха. Домашняя кошка с ласковым<img alt="" src="https://s3.webestudio.ru/topcat/editor_images/31/6f/20/4d/20/ad/13/5d/07/77/02/c3/93/2b/7b/40/cd97473ff64485e6695cbf71815aabfc.jpeg" style="width: 387px; float: right; margin: 0px 0px 10px 10px;"/>характером,
+но при этом напоминающая дикого зверя, должна была, по задумке мистера Кейси,
+стать живым напоминанием о недопустимости жестокого обращения с животными
+редких и исчезающих видов. Другими словами, люди не должны
+стремиться носить шубы, похожие на их любимых домашних питомцев. Для того чтобы выполнить
+эту задачу, селекционеры изначально решили обойтись без скрещивания с дикими
+кошками. Начиная с 1971 года, для выведения породы использовали
+самых разных кошек: абиссинских, сиамских, британских и американских
+короткошерстных, манскую, персидскую, а также африканских (египетских) и
+азиатских бродячих кошек. Потребовалось 10 лет и 11 поколений животных, чтобы
+получить кошек, мех которых напоминал мех королевского леопарда. Некоторые
+источники утверждают, что темные пятна на шкурке этих кошек напоминают внешний
+вид оперения птиц, и называют данную породу калифорнийской в блестках. Первые
+калифорнийские крапчатые кошки были официально зарегистрированы в 1987 году.
+Несколько позже, в 1993 году стандарт породы был принят первой международной фелинологической
+системой - TICA.
+Имеющая американское происхождение, эта порода крайне редко встречается в
+Европе.</p><h3>Внешний
+вид</h3><p>Сильная и ловкая кошка, средних или крупных размеров, вес взрослого
+животного достигает 4 – 8 кг. Тело и ноги длинные, мускулистые.г Несмотря на ее происхожение, тело мау имеет
+не типичное восточное строение - едением еще в конце 50-х годов выставки. аира:
+к Локтевой угол составляет 90 градусов, отчего кажется, что передние
+ноги отведены назад. Крадущаяся, стелющаясяпоходка создает впечатление низко расположенного тела. В целом кошка
+имеет вид дикого зверя. Наиболее характерный признак породы – рисунок окраса
+шерсти, напоминающий специфическую расцветку южноамериканских кошачьих –
+оцелота, маргая, ягуара.</p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/b0/95/b8/fa/33/2a/b5/58/4e/dd/8d/08/22/d6/b1/dc/fa0ab70bdb55cf94b6ac10b1aa838f1a.jpeg" style="width: 437px; float: left; margin: 0px 10px 10px 0px;"/></p><p><strong>Голова: </strong>Красивая, точеной формы, среднего размера.
+Череп с округленными контурами, лоб слегка выпуклый, скулы заметные, высокие,
+выпуклые. Слабо выражен переход ото лба к мордочке. Мордочка овально-тупоугольная,
+полная, хорошо развитая средней длины. Подбородок крепкий, хорошо развитые
+челюсти.</p><p><strong>Глаза: </strong>Большие, миндалевидные, немного раскосые,
+широко поставленные, зачастую с темными ободками. Цвет глаз должен
+гармонировать с окрасом шерсти: от золотистого до коричневого, у кошек окраса
+снежный барс – голубой.</p><p><strong>Уши: </strong>Среднего размера, прямостоячие, высоко
+поставленные, немного смещенные назад, с закругленными кончиками.</p><p><strong>Шея: </strong>Средней длины и размера, мускулистая,
+цилиндрической формы.</p><p><strong>Тело: </strong>Довольно длинное, стройное,
+мускулистое. Крепкие бедра. Костяк солидный.</p><p><strong>Ноги: </strong>Длинные, сильные. Локтевой угол
+составляет 90 градусов, что создает впечатление, будто бы передние конечности
+отведены назад и тело, соответственно, располагается низко.</p><p><strong>Лапы: </strong>Среднего размера, компактные, круглые.</p><p><strong>Хвост: </strong>Достаточно длинный, одинаковой
+ширины от своего основания до кончика. По всей длине хвоста – темные кольца,
+кончик тоже темный. </p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/83/b2/bf/96/3e/46/c7/b1/98/55/04/84/45/ed/f1/b0/c3cfe4129e63ead1d5aa0fb25b42ce8e.jpeg" style="width: 340px; float: right; margin: 0px 0px 10px 10px;"/></p><p><strong>Шерсть:</strong>
+Короткая,
+за исключением живота и хвоста, где она чуть длиннее, шелковистая, на ощупь,
+густая, двойная, неплотно прилегает к телу.</p><p><strong>Окрасы:</strong> Пятнистый табби, а также снежный барс. Пятнистый
+рисунок покрывает спину и бока. От черепа полосы расходятся к плечам. Пятна на
+спине и боках могут быть круглыми, квадратными, треугольными. Они должны быть
+четко отделены друг от друга. Имеются также пятна на голове, груди, ногах и
+хвосте. Существует 8 классических разновидностей цвета окраса: черная,
+коричневая, голубая, бронзовая, серо-антрацитовая (угольная), рыжая (красная),
+золотистая, серебристая. У снежного барса с черными пятнами голубые глаза. </p><p><strong>Недостатки:</strong> Слишком
+массивное тело; недостаточно крепкий костяк и мускулатура; чрезмерно круглая
+голова; узкая мордочка; заостренные уши; зеленый цвет глаз; белые пятна на
+пальцах; слишком длинная шерсть; отсутствие окраса табби; четкого рисунка пятен;
+цветового контраста; светлая шерсть на конце хвоста.</p><p><strong>Дисквалификация
+на выставках: </strong>Пятна в виде полумесяца или рыбьей кости.</p><p><strong>Дисквалификация
+всех пород: </strong>Ампутированные когти, крипторхизм, глухота.</p><h3>Особенности
+и характер </h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/c3/b5/fc/2f/2d/44/18/67/64/28/16/2b/54/2e/57/c6/fed1e258d719f6b4a6a85506191d33a8.jpeg" style="width: 375px; float: right; margin: 0px 0px 10px 10px;"/></p><h3></h3><p>Как и у многих современных пород, вид дикой кошки не
+соответствует ее смирному, сдержанному характеру. Калифорнийская крапчатая –
+кошка добрая, общительная и энергичная. Отличается активностью и подвижностью,
+очень любит охотиться, но без всякой агрессивности. Ей нужны большие физические
+нагрузки, чтобы находиться в оптимальной форме, поэтому ей лучше предоставить
+доступ в сад или вообще на свежий воздух. Нежная и чувствительная, ладит с
+другими животными, охотно принимает общество других кошек. Легко переносит
+одиночество.</p><h3>Содержание
+и уход </h3><h3></h3><p><strong></strong>Обладая короткой шерстью, калифорнийская крапчатая кошка не требует
+какого-либо особенного ухода. Достаточно изредка расчесывать ее пятнистую
+шубку. <strong></strong></p><h3>Кормление</h3><p>Сбалансированный
+рацион</p><h3>Селекция</h3><p><strong>Допустимые скрещивания:</strong> нет</p><p><strong>Породы, созданные при участии Калифорнийских сияющих</strong></p><h3>Другие и устаревшие названия
+породы</h3><p>Калифорнийская крапчатая </p><p>Калифорнийская пятнистая;</p><p>Калифорнийская в блестках; </p><p>Американская калифорнийская; </p><p>Кошка в блестках</p><p>Неофициальное
+(сленговое) название породы на русском языке </p><p>калифорнийка</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Петерболд порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, PBD, Петерболд,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Петерболд
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Петерболд порода кошек фото" src="https://s3.webestudio.ru/topcat/breed_article_images/5/c/9/5c9d319a78c1cdbbe482c1968938b317.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Петерболд
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>PBD</dd>
+<dt>Группа:</dt>
+<dd>Бесшерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Россия
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для людей, имеющих аллергию на кошачью шерсть</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы</h3><p>Второе название этой породы – Петербургский сфинкс – напрямую отсылает
+нас к месту ее возникновения – Санкт-Петербургу.</p><img alt="" src="http://s3.webestudio.ru/topcat/editor_images/b5/53/9a/08/34/91/2e/7b/6e/13/56/84/1d/55/ae/cc/d415c74fe1dce9d8eb7c4bfa4ab9f289.jpeg" style="width: 327px; float: right; margin: 0px 0px 10px 10px;"/><p>Именно там в начале 90-х годов
+прошлого века и появились первые бесшерстные котята новой породы – дети
+донского сфинкса Афиногена Миф и ориентальной короткошерстной кошки
+черепахового окраса, чемпионки мира по имени Радма фон Ягерхоф
+(Radma von Jagerhof). За разведение новой породы, желая создать элегантную и утонченную «голую»
+кошку восточного облика на основе ориентальной и сиамской пород
+современного типа, взялись российские фелинологи. Четыре котенка-петерболда,
+появившиеся на свет в двух первых пометах – Мандарин, Мускат, Неженка и Ноктюрн
+– и считаются родоначальниками новой породы.</p><p>Первый предварительный стандарт породы был принят на конференции СФФ-ФАР
+в 1994 году. Первой мировой системой, признавшей данную породу, была TICA (1997 год). Официальное признание петерболдов со стороны WCF последовало в 2003 году. Несмотря на относительную молодость породы, эти
+кошки уже достаточно популярны как в Европе, так и в Америке. </p><h3>Внешний
+вид</h3><p>Высокая, элегантная, длинноногая кошка с вытянутым телом и длинным
+хвостом, похожим на хлыст. Главный отличительный признак породы – характерное
+для всех сфинксов отсутствие шерсти. Существует
+3 типа петербургских сфинкосв: <strong>голые</strong> с рождения, на ощупь
+«резиновые», рождаются с открытыми глазами; <strong>флок – </strong>рождаются с
+лысинкой на голове, почти «призрачной» прозрачной кудрявой шерстью, которую в
+основном теряют примерно к 2 месяцам. К
+2-м годам становятся абсолютно голыми. Лапки, мордочка, иногда кончик хвоста на
+ощупь напоминают бархат или велюр; и <strong>браш</strong> – кошки с остаточной
+редкой, извитой шерстью, с участками облысения.Такие кошки
+могут участвовать на выставках, но, как правило, не получают титулов. Исключение
+составляют брашпойнты (браши), которые активно используются в селекционной
+работе, особенно приветствуется скрещивание с абсолютно голыми петербургскими
+сфинксами. Как и донской, петербургский сфинкс имеет повышенную температуру поверхности тела.</p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/34/4d/bf/bc/e0/3b/4c/7f/51/bf/52/e8/5b/50/30/d2/a365842236ab4b8408d9f1011effe6c2.jpeg" style="float: right; margin: 0px 0px 10px 10px;"/><p><strong>Голова: </strong>Небольшого размера, изящная, клиновидной формы. Профиль практически прямой, без подчёркнутого перехода от черепной части к лицевой. Нос прямой и длинный. Лоб не плоский и не сильно выпуклый. Скулы высокие и плоские. Мордочка в виде мягкого клина, достаточно узкая, с хорошо очерченными подусниками, без пинча. Подбородок достаточно плотный и глубокий. Лучше заметный у флоковой вариэты.</p><p><strong>Глаза: </strong>Большие, миндалевидной формы, раскосые. Расставлены довольно широко. Цвет, как правило, зелёный, оливковый или голубой (у пойнтовых окрасов). </p> <strong>Уши: </strong>Очень большие, широкие в основании, поставлены широко и разведённые в стороны, Наружные линии ушей продолжают линию клина из под плоских щёк, создавая впечатление равностороннего треугольника, углы которого совпадают с кончиками ушей и мочкой носа.<p><br/><strong>Шея:</strong> Длинная, грациозная, с развитой мускулатурой.<br/></p><p><strong>Тело:</strong> Среднего размера, тубообразное, по форме утонченное, изящное, стройное.</p><p><strong>Конечности: </strong>Длинные, прямые, довольно тонкие, но крепкие.
+Мускулатура развита. </p><p><strong>Лапы: </strong>Крупные, овальной формы, упругие. Подушечки
+толстые. Пальцы вытянутые, подвижные.</p><p><strong>Хвост: </strong>Длинный, упругий, на вид напоминает хлыст. Очень
+прямой: недопустимы крючки, заломы и т.п.</p> <strong>Шерсть:</strong> В выставках допускаются к участию только 2 вида Петерболдов по шерсти: 100% бесшерстные и браш-пойнты. У бесшерстных вариет мягкая, теплая, тонкая и эластичная кожа, ощущение которой варьируется от абсолютно «раздетого» до «шелковисто-персикового». Так как бесшерстность может варьироваться от 100% отсутствия волос до минимально заметных крошечных волосиков. У браш-пойнтов остаточные волосики наличествуют лишь частично: у основания ушей, на мордочке, лапах и хвосте. На коже может наблюдаться только редкий, тонкий пушок. Тонкая, «пуховая» шерсть может расти на мордочке, хвосте и ногах. (которая сезонно может «исчезать») <br/><br/><strong>Окрасы:</strong>
+Окрас петерболда может быть любым. Ценными
+считаются редкие окрасы - лиловый, голубой, шоколадный, кремовый и колорпойнт.
+Возможны, но не характерны биколорные варианты окраса.<br/><br/><p><strong>Недостатки:</strong>  Короткая, круглая голова; уши маленького размера, слишком высоко посаженные; заметная остаточная или извитая шерсть на всем теле; слабый подбородок.<span></span></p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/33/2f/95/8c/c5/47/bc/80/30/9f/6d/49/42/38/34/3c/96fc34c274423de08913d31b6340fea6.jpeg" style="float: right; margin: 0px 0px 10px 10px;"/><p><strong>Дисквалификация на выставках: </strong>Недокус/перекус более 2-х мм при
+смыкании клыков «в замок»; заворот век; крючковатый или изломанный хвост.</p><p><strong>Дисквалификация
+всех пород: </strong>Ампутированные когти, крипторхизм, глухота. Заметные костные деформации.</p><p>Котята с обычной прямой шерстью, выщепляющиеся в помётах даже от абсолютно бесшерстных родителей, называются - прямошерстными и могут оцениваться как сиамские или ориентальные кошки в соответствии с имеющимся окрасом, в некоторых международных системах.</p><h3>Особенности
+и характер </h3><p>Петерболд – очень подвижная, общительная и привязчивая
+кошка. Любит проявлять ласку и хочет того же в ответ, требует внимания, весьма
+игрива. Неплохо уживается с кошками и другими домашними животными. Умна,
+сообразительна, хорошо поддается обучению. Терпеть не может одиночества.
+Очень любит тепло. Неподтвержденным остается факт о том, что эти кошки гипоаллергенны из-за отсутствия шерсти.<br/></p><h3>Содержание
+и уход</h3><p>Как и другие представители бесшерстных пород, петерболды
+очень чувствительны к низким температурам, сквознякам и высокой влажности в
+помещении. Поэтому нужно следить, чтобы помещении, где живет такая кошка, было
+очень тепло.  Загорают и обгорают на солнце, поэтому целесообразно создавать укрытия от прямых солнечных лучей. <span></span>В холодное время петерболдов принято одевать в специальную одежду
+для кошек. Как и другим сфинксам, петерболду свойственно потеть, поэтому их
+тело необходимо каждый день протирать влажной губкой. Их также можно купать в
+теплой воде со специальным кошачьим шампунем.</p><h3>Кормление</h3><p>Питание должно быть усиленным, так как из-за особенностей
+теплообмена сфинксы имеют повышенный аппетит. Допустимы только
+высококачественные корма.</p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/1c/be/89/3d/dc/13/8b/68/c0/13/90/6a/5e/31/6f/bf/60b438c8bdd4550be7b46ac895ce09fe.jpeg" style="float: right; margin: 0px 0px 10px 10px;"/></p><h3>Селекция</h3><p><strong>Допустимые скрещивания</strong></p><p><strong>Породы, созданные при участии Петерболдов</strong></p><h3>Другие
+и устаревшие названия породы</h3><p>Петербургский сфинкс - действующие название в России</p><h3>Неофициальное
+(сленговое) название породы на русском языке </h3><p>петрик, питерец, питерцы</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/36">Bastet Ural</a>, Екатеринбург
+                                                </li>
+<li>
+<a href="/catteries/277">Plamya Vostoka</a>, Смоленск
+                                                </li>
+<li>
+<a href="/catteries/318">Neva perlina</a>, Красноярск
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=77">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

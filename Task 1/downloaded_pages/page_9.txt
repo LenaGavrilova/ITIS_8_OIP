@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Британская короткошерстная порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, BRI, Британская короткошерстная,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Британская короткошерстная
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Британская короткошерстная порода кошек фото" src="https://s3.webestudio.ru/topcat/cat_images/c/d/7/cd7ca1b4a28fef9d801f661e5a8e97a6.jpg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Британская короткошерстная
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>BRI</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Великобритания
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для любых семей</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы</h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/79/45/0e/87/3f/f9/be/b5/ac/34/1c/c3/eb/d3/47/35/7e6202e23c693eeda327c5b050455155.jpeg" style="width: 338px; float: right; margin: 0px 0px 10px 10px;"/></p><p>Человечество впервые познакомилось с этой породой кошек еще…
+до ее возникновения. В 1865 году на одной из иллюстраций к знаменитой сказке
+Льюиса Кэрролла «Алиса в стране чудес» можно было увидетьЧеширского кота, сильно напоминавшего
+британца окраса табби. Между тем, английские селекционеры в это время еще
+только занимались отбором самых красивых комнатных, уличных и фермерских кошек,
+с тем, чтобы путем целенаправленных вязок закрепить лучшие качества этих
+животных. На Британских островах за несколько столетий успел сложиться тип
+домашней кошки с яркими округлыми глазами и короткой, «плюшевой» шерстью.
+Несмотря на то, что эти кошки, по сути, были беспородными, их отличали крепкое
+здоровье, аристократичность характера, выносливость, коммуникабельность и отменные
+охотничьи качества. Именно эти кошки и стали основой для выведения новой
+породы. В 1871 году на выставке в Лондоне впервые были представлены кошки,
+которых, дабы отличить их от азиатских кошек и длинношерстных кошек типа
+ангорской, стали называть британскими короткошерстными. Первоначально для этой
+породы признавался только голубой окрас. Однако после второй мировой войны была
+предпринята попытка не только восстановить почти исчезнувшую породу, но и
+улучшить ее генофонд. В результате скрещивания британцев с такими породами, как
+домашняя короткошерстная, русская голубая, шартрез, и особенно – персидскими
+кошками, были получены новые окрасы. Очень популярная порода кошек, в том
+числе, в России.</p><h3>Внешний
+вид</h3><p>Крупная (4-8
+ кг) кошка, приземистая, с тяжелой круглой головой и
+широкой грудью, толстыми щеками и большими яркими глазами. Отличительный
+признак этой породы – оригинальное строение мордочки, из-за которого кошка
+имеет особое, нетипичное выражение «лица». Кроме того, признаком породы может
+считаться и характерная «плюшевая» шерсть.</p><p><strong>Голова:</strong> Круглая, широкая, массивная. Мордочка крупная, четкой формы с закругленными
+контурами и характерным «выражением лица». Нос широкий, короткий, прямой, слегка загнутый вверх. Небольшой изгиб
+у основания, но резкого перехода ко лбу нет. Подбородок крепкий,
+перпендикулярен линии носа.</p><p><strong>Глаза: </strong>Большие, круглые, широко
+поставленные. Цвет глаз соответствует цвету шерсти и может быть медным,
+темно-оранжевым, голубым, зеленым, желтым или двухцветным<strong>. </strong></p><p><strong>Уши: </strong>Небольшого размера, широкие у основания,
+на кончиках закругленные. Расставлены широко<strong>. </strong></p><p><strong>Шея: </strong>Короткая, широкая, мускулистая<strong>.</strong></p><p><strong>Тело: </strong>Крепкое, компактное, коренастое,
+мощное, с широкой грудной клеткой. Плечи и бедра также широкие. Мускулатура
+хорошо развита<strong>.</strong></p><p><strong>Ноги: </strong>Короткие и массивные, сильные, костяк
+и мускулатура крепкие<strong>.</strong></p><p><strong>Лапы: </strong>Компактные, круглой формы<strong>.</strong></p><p><strong>Хвост: </strong>Длиной 2/3 длины туловища, толстый у
+основания, постепенно суживается к закругленному кончику<strong>. </strong></p><p><strong>Шерсть:</strong>
+Короткая, густая и стоячая, «плюшевая», с обильным подшерстком, на ощупь
+создающая впечатление естественного защитного покрова. </p><p><strong>Окрасы:</strong> Допускается более ста. Тем не менее,
+классическим цветом окраса считается голубой и лиловый.</p><p><strong>Недостатки:</strong> Слишком плоская голова; плоские щеки; глаза восточного типа; тонкий костяк; слишком
+длинная шерсть; отсутствие подшерстка.</p><p><strong>Дисквалификация на выставках: </strong>Медальоны и белые отметины на шерстном покрове.</p><p><strong>Дисквалификация
+всех пород: </strong>Ампутированные когти, крипторхизм, глухота. Заметные костные деформации.</p><h3>Особенности
+и характер </h3><h3></h3><p>Британская
+короткошерстная кошка напоминает любимую детскую игрушку – плюшевого мишку. И
+характер у нее под стать внешнему облику: кошка мирная, терпеливая,
+ненавязчивая, веселая, уравновешенная, без лишних эмоций. Отличается спокойным
+поведением, поэтому рядом с ней легко жить. Неприхотлива, легко
+приспосабливается к любым условиям, может с комфортом обосноваться и в
+городской квартире, и в доме. Однако попадая, например, в сад, легко
+превращается в грозную охотницу. Любит общаться с другими кошками и даже
+собаками, становится с ними веселой и игривой. Охотно принимает на воспитание
+чужих котят. Кошка очень нежная, добродушная, однако никому «не лезет в душу»,
+и даже не всегда идет на руки. Британской
+кошке необходимо 2-3 года, чтобы набрать вес. Половое развитие тоже
+относительно позднее.</p><h3>Содержание
+и уход</h3><p>В обычное время для ухода за шерстью животного достаточно
+раз в неделю расчесывать кошку щеткой и гребнем. Однако в период линьки такую
+процедуру необходимо проводить ежедневно. Линька у британцев обильна. </p><h3>Кормление</h3><p>Необходим
+сбалансированный рацион.</p><h3>Селекция</h3><p><strong>Допустимые скрещивания:</strong> НЕТ.</p><h3></h3><p><strong>Породы, созданные при участии Британских
+короткошерстных: </strong>Селкирк рекс</p><h3>Другие
+и устаревшие названия породы</h3><p>Британская; </p><p>Британская голубая.</p><h3>Неофициальное
+(сленговое) название породы на русском языке </h3><p>британец, британ,
+бритиш.   </p><h3>Ссылки:</h3><p><a class="external" href="http://ru.top-cat.org/newsletters/35fa0be7-1a0b-c39d-86e5-aa520e897faf" rel="nofollow">Журнал TopCat, посвященный породе</a></p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший в породе
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/510158" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/c/d/7/cd7ca1b4a28fef9d801f661e5a8e97a6.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/510158" target="_blank">
+                                                    Fanfan FairyZews
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#BRI">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший взрослый
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/508702" target="_blank">
+<img src="/styles/public/images/default_avatars/cat.png"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/508702" target="_blank">
+                                                    Banburu Plush Fillimon
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#BRI">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший котенок
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/513262" target="_blank">
+<img src="/styles/public/images/default_avatars/cat.png"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/513262" target="_blank">
+                                                    Ping Gai Er
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#BRI">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший юниор
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/513265" target="_blank">
+<img src="/styles/public/images/default_avatars/cat.png"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/513265" target="_blank">
+                                                    Lan Hu
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#BRI">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший ветеран
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/510158" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/c/d/7/cd7ca1b4a28fef9d801f661e5a8e97a6.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/510158" target="_blank">
+                                                    Fanfan FairyZews
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#BRI">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/7654">Moveon *RU</a>, Пенза
+                                                </li>
+<li>
+<a href="/catteries/32">Okean Udachi</a>, Смоленск
+                                                </li>
+<li>
+<a href="/catteries/33">Leven Dee</a>, Смоленск
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=44">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

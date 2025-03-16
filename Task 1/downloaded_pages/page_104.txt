@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Девон рекс порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, DRX, Девон рекс,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Девон рекс
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Девон рекс порода кошек фото" src="https://s3.webestudio.ru/topcat/cat_images/5/c/b/5cb1fbf13750b9bfbe7f83b4007b494f.jpg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Девон рекс
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>DRX</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Великобритания
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей, большую часть времени проводящих дома; для семей, у членов которой аллергия на кошек</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История породы </h3><h3></h3><h3></h3><p>Название этой породы имеет географические корни: именно в английском
+графстве Девоншир в 1960 был найден беспородный серый кот с курчавой шерстью. Новая
+хозяйка животного, некая мисс Берилл Кокс, подобрала его возле заброшенной каменоломни
+в Бакфестлеге в выводке диких котят. Кот
+был такой симпатичный, что мисс Кокс решила получить от него потомство, для
+чего скрестила с трехцветной кошкой. Коту с завитой шерстью, который родился в
+результате этого скрещивания, хозяйка дала имя Кирли (от английского «curly» – кудрявый). Однако дальше все складывалось не так
+удачно, как хотелось бы селекционерам. В результате вязки Кирли с самкой
+корниш-рекса у них родились котята с… абсолютно прямыми волосами! Это означало,
+что у обеих этих кошек гены, отвечающие за мутацию, оказались различными и
+рецессивными. Впрочем, девон рекс и в целом не имеет ничего общего с кошками
+других
+</p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/73/af/5a/e0/d4/69/a9/52/f8/a3/2b/45/83/58/24/bd/a2de9bd16f7c6caad3f6d0c6ab9d9722.jpeg" style="width: 397px; float: right; margin: 0px 0px 10px 10px;"/>рексовых пород. Поэтому, пытаясь сохранить породу с вьющейся шерстью,
+селекционеры производили кровосмесительные вязки: следующее
+поколение девон рексов происходило от скрещивания Кирли с его матерью и ее
+дочерьми от других котов. Так легендарный Кирли из Девоншира стал прародителем
+всех девон рексов, но такой селекционный прием, к сожалению, привел и к
+серьезной проблеме: в некоторых пометах возникла наследственная смертельная болезнь (spasticity - эпилепсия). Это оказалось препятствием для
+немедленного признания породы, и отстоять ее удалось лишь совместными усилиями
+английских, французских и американских селекционеров. Прежде,
+чем девон рексы были официально признаны ведущими фелинологическими
+организациями мира, прошли многие годы. Сначала порода получила признание в
+Европе. Первой оказалась GCCF (Фелинологическая организация Англии). Дальше
+последовало признание другими фелинологическими организациями, в том числе в
+1967 году - FIFe (Международной федерацией европейских любителей кошек). Девон рексов
+стали разводить не только в Европе, но и в Австралии, Новой Зеландии, и даже в
+Южной Африке и Колумбии. В США эти кошки впервые оказались в 1968 году. Однако
+CFA признала породу только в 1979 году, последней из крупнейших организаций
+мира. Вплоть до этого момента в Америке не разделяли девон рексов и корниш-рексов,
+считая их одной породой. Класс Чемпионов
+был открыт лишь в 1983 году. В 1988 году усилиями TICA был разработан первый стандарт породы девон рекс.
+</p><h3>Внешний
+вид
+</h3><p>Девон рексов часто называют эльфами или инопланетянами из-за
+их нестандартной внешности. Это, прежде всего, необычно большие уши, посаженные
+низко по краям широкой плоской головы, очень большие глаза и слегка загнутый
+вверх нос. В отличие от других кошек, имеют очень короткие и сильно завитые
+усики, из-за чего может показаться, что усики у них вовсе отсутствуют. Длинные
+и крепкие лапы, маленькие и круглые подушечки — благодаря этому могут
+совершать длинные и высокие прыжки. Это кошки среднего размера и среднего формата, вес – 2,5
+– 4 кг.
+Характерным признаком породы является шерсть - короткая,
+мягкая, тонкая, волнистая или курчавая, с подшерстком. В отличие от других
+рексовых пород, девон рексы имеют очень крепкое и мускулистое тело, а ноги у
+них длинные и тонкие.
+</p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/bd/32/60/6c/32/da/98/34/6e/8e/16/01/bc/6f/47/d8/ceb5528b0cc844d7990998049707e811.jpeg" style="float: right; margin: 0px 0px 10px 10px;"/>
+</p><p><strong>Голова: </strong>Достаточно маленькая, в форме
+тупого клина, короткая, угловатая. Череп плоский, лоб выпуклый, щеки полные,
+скулы выступающие. Мордочка короткая, клиновидная, с высокими скулами. Нос
+короткий, переход ото лба к носу с ярко выраженным «стопом» (TICA). Подбородок крепкий, четкий
+переход к щекам. Усы и брови загибающиеся, скорее жесткие, средней длины.
+</p><p><strong>Глаза: </strong>Большие, овальные, широко поставленные,
+расположены наискосок к внешнему краю уха. Цвет яркий, ясный, чистый;
+гармонирует с окрасом шерсти.
+</p><p><strong>Уши: </strong>Очень большие, очень широкие у
+основания, в форме конуса, с заостренными кончиками. Размещены очень низко,
+покрыты тонкой и редкой шерстью. На кончиках ушных раковин – рысьи кисточки.
+</p><img alt="" src="http://s3.webestudio.ru/topcat/editor_images/da/94/0f/70/fc/8e/9d/3e/8c/66/43/7b/88/93/24/c6/059240eba7ca46cdc8b0831ceb3ae7e8.jpeg" style="float: left; margin: 0px 10px 10px 0px;"/><p><strong>Шея: </strong>Средней длины, тонкая, слегка
+выгнутая.
+</p><p><strong>Тело: </strong>Среднего размера и длины, изящно
+сложенное, стройное, но плотное. Грудь широкая. Костяк может быть как тонким,
+так и средним, мускулатура хорошо развита.
+</p><p><strong>Ноги: </strong>Длинные, тонкие, высокие. Задние
+заметно длиннее передних.
+</p><p><strong>Лапы: </strong>Маленькие, овальной формы.
+</p><p><strong>Хвост: </strong>Длинный, тонкий, суживающийся к
+кончику, гибкий. Весь густо покрыт шерстью, но не пушистый.
+</p><p><strong>Шерсть:</strong> Короткая, мягкая, тонкая, волнистая или
+курчавая, с подшерстком. Остевой волос может отсутствовать, шерсть не столь
+упорядоченная, как у корниш-рекса, и немного напоминает шерстный покров пуделя
+или овцы. У некоторых девон рексов на животе может быть только пушок (FIFe). Как и у корниш-рексов,
+волосы растут медленно, но свой окончательный
+вид шерстный покров обретает уже к 6-месячному возрасту.
+</p><img alt="" src="http://s3.webestudio.ru/topcat/editor_images/4a/bb/e9/81/fb/9e/14/2a/91/53/ce/e9/58/83/8b/aa/7f9bed8597208760bb196ad84aaf30f7.jpeg" style="float: right; margin: 0px 0px 10px 10px;"/><p><strong>Окрасы:</strong>
+	В окрасах разрешаются
+все цвета и рисунки; белый цвет может как преобладать, так и вовсе
+отсутствовать.
+</p><p><strong>Недостатки:</strong> Узкая
+голова восточного типа или широкая – британского; маленькие и/или высоко
+поставленные ушки; маленькие глаза
+</p><p>; крепко сбитое, короткое тело; короткий,
+лохматый или голый хвост.
+</p><p><strong>Дисквалификация на выставках: </strong>Невьющаяся, жесткая,
+гладкая шерсть; заплешины.
+</p><p><strong>Дисквалификация
+всех пород: 
+	</strong>Ампутированные когти, крипторхизм, глухота.
+</p><h3>Особенности
+и характер
+</h3><p>Уникальный внешний
+вид этой кошки сочетается с особенным характером: она невероятно ласкова,
+нуждается в постоянном общении с человеком, без которого она, по определению,
+не смогла бы выжить.
+</p><p>Девонская кошка очень любит физический контакт с
+человеком, за которым она следует буквально повсюду – например,
+</p><p>устроившись у
+него на плечах, или с себе подобными - они часто дремлют друг на друге. В целом
+же, это очень активная, живая, игривая, жизнерадостная кошка. У нее счастливый
+характер – независимый, но в тоже время очень дружелюбный по отношению к другим
+кошкам, а также собакам. Легко приспосабливается к жизни в любых помещениях, в
+том числе, на очень ограниченном пространстве, отлично чувствует себя в
+квартире. Это приятный товарищ с нежным, тихим голосом. Когда всем девонская
+кошка довольна, она машет хвостом, как собака.
+</p><img alt="" src="http://s3.webestudio.ru/topcat/editor_images/15/49/14/ce/de/26/09/db/e4/93/7c/77/b5/ec/e9/dd/e2c9f83c3c65178ce68e32cdbe7dfc14.jpeg" style="float: right; width: 418px; margin: 0px 0px 10px 10px;"/><h3>Содержание
+и уход
+</h3><p>Прежде всего, необходимо следить за здоровьем девон рекса: в
+зрелом возрасте оно обычно крепкое, но котята часто бывают слабенькими. Во
+избежание риска наследственных болезней следует тщательно изучать родословную.
+Редкая шерсть делает котят очень уязвимыми, поэтому им лучше находиться в
+помещении с высокой и постоянной температурой, без высокой влажности и
+сквозняков. Если нужно куда-то перемещать этих кошек в холодные дни, лучше
+укрывать их шерстяным трикотажем. Уход за шерстью несложен; очень полезны
+поглаживания по направлению роста волос, купания (кстати, к воде девон-рекс
+быстро привыкает). В ушных раковинах образуется много серы, поэтому их
+необходимо чистить при помощи ватного тампона и специальной жидкости против
+ушной серы. Эта порода обладает таким ценным качеством, как гипоалергенность.
+Согласно данным американских заводчиков, 50-70% людей, страдающих аллергией на
+кошек, могут без ущерба для своего здоровья держать в доме девон рекса.
+</p><h3>Кормление</h3><p>Сбалансированный
+рацион.
+</p><h3>Селекция</h3><p><strong>Допустимые скрещивания:</strong> нет
+</p><p><strong>Породы, созданные при участии Девон рексов: </strong>Пуделькет
+</p><h3>Другие
+и устаревшие названия породы 
+</h3><h3></h3><p>Девонширский рекс;
+</p><p>Девонская кошка
+</p><p><strong></strong>
+</p><h3>Неофициальное
+(сленговое) название породы на русском языке 
+</h3><p>девон
+</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший в породе
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/493975" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/5/c/b/5cb1fbf13750b9bfbe7f83b4007b494f.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/493975" target="_blank">
+                                                    Luxury Cat *RU Iris
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#DRX">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший взрослый
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/493975" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/5/c/b/5cb1fbf13750b9bfbe7f83b4007b494f.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/493975" target="_blank">
+                                                    Luxury Cat *RU Iris
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#DRX">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший взрослый противоположного пола
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/506658" target="_blank">
+<img src="/styles/public/images/default_avatars/cat.png"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/506658" target="_blank">
+                                                    Orlandocats Qian Duo Duo
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#DRX">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший котенок
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/493975" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/5/c/b/5cb1fbf13750b9bfbe7f83b4007b494f.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/493975" target="_blank">
+                                                    Luxury Cat *RU Iris
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#DRX">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший котенок противоположного пола
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/513270" target="_blank">
+<img src="/styles/public/images/default_avatars/cat.png"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/513270" target="_blank">
+                                                    Pu Tao
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#DRX">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший юниор
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/506657" target="_blank">
+<img src="/styles/public/images/default_avatars/cat.png"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/506657" target="_blank">
+                                                    Peppa
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#DRX">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/4660">Idel</a>, Нижний Новгород
+                                                </li>
+<li>
+<a href="/catteries/5">Golden Elf</a>, Самара
+                                                </li>
+<li>
+<a href="/catteries/93">Big Cullinan</a>, Киров
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=51">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

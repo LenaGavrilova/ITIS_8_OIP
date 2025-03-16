@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Герман рекс порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, GRX, Герман рекс,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Герман рекс
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Герман рекс порода кошек фото" src="https://s3.webestudio.ru/topcat/breed_article_images/0/4/1/041d1b2462d1839dd3fcba3ba050c1ca.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Герман рекс
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>GRX</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Германия
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей с детьми; для людей, страдающих аллергией на кошачью шерсть</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы </h3><h3></h3><p>Самая старая из «курчавых» и очень редкая порода кошек, ведущая свое
+происхождение от корниш-рексов, однако существенно отличающаяся от них по
+внешнему виду. Уже из названия явствует, что эти кошки впервые появились в
+Германии. Согласно одной из версий, примерно в 1951 году немецкие селекционеры
+скрестили корниш-рекса с котом неизвестного происхождения, найденным на улице.
+Родившиеся котята были курчавыми, поскольку оба родителя обладали общим геном,
+ответственным за подобную мутацию. Есть и другая версия происхождения породы,
+по которой первые упоминание о герман-рексах датируется 1930 годом. Во всяком
+случае, сохранилась сделанная в конце 20-х годов фотография кота по имени Мунк
+(Munk), принадлежавшего семье Эрны Шнайдер, жившей в деревне неподалеку от
+Кенигсберга (Восточная Пруссия). На фото есть пометка о том, что это животное
+именно породы герман-рекс. Известно, что родителями Мунка были русский голубой
+кот и турецкая ангора табачного цвета. Конечно, семья Эрны Шнайдер не
+занималась селекцией потомков кота Мунка специально, котята размножались как
+придется, но все они имели волнистую шерсть. Вторая мировая война внесла свои
+коррективы в развитие породы - большинство ее представителей погибли. Порода
+была спасена благодаря доктору Rose Scheuer-Karpin, которая нашла черную кошку
+с волнистой шерстью, назвала ее Лэммхен (Lämmchen), и вновь занялась племенным
+разведением герман-рексов в начале 50-х годов. Некоторые источники утверждают,
+что Лэммхен была потомком уже известного нам Мунка, и в 1947 году ее привезли в
+Берлин специально ради разведения. Именно эта кошка и стала прародительницей
+современных рексов. Кстати, поначалу пометы Лэммхен давали потомство с прямой
+шерстью. Заводчики решили спарить кошку с ее же сыном, после чего котята с
+кудрявой шерстью стали появляться на свет постоянно. Позже, в 1969 году, в
+Кельне родился еще один котенок с кудрявой шерстью. Эти кошки продолжили род
+современных герман-рексов. Для формирования породы изначально использовались кошки
+различных пород, в том числе корниш- и девон- рексы. Есть, правда,
+предположение, что корниш-рексы появились при участии герман-рексов, но
+доказательств этому нет. Поначалу порода была признана как Европейская
+короткошерстная, и это произошло в 1970-х годах. Как герман-рексов FIFе
+официально признала породу в 1983 году. В то время ее представляли кошки двух
+типов: с римским профилем носа и с заметным переходом ото лба к морде.
+Постепенно второй вариант стал считаться более предпочтительным. Сегодня данную
+породу признают уже несколько систем. В то же время некоторые системы, в
+частности, Ассоциация любителей кошек (CFA) не отличают ее от корниш-рекса и девон-рекса. <br/>
+В настоящее крупные питомники герман-рексов находятся в Германии, Швейцарии и
+Финляндии.</p><h3>Внешний
+вид</h3><p>Животное среднего размера, атлетического сложения,
+мускулистое, сильное. Главным отличительным признаком породы является завитая шерсть.</p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/ee/f7/15/8c/23/02/02/1b/4d/e9/56/0b/e1/ef/63/79/a7bd3c404e5d20990a2f39b9826b4df7.jpeg" style="float: right; margin: 0px 0px 10px 10px;"/></p><p><strong>Голова: </strong>Округлая, с плавными очертаниями и
+большим расстоянием между ушами. Щеки хорошо развитые. В профиль заметно легкое
+углубление на переходе ото лба к носу. Мордочка короче и шире, чем у
+корниш-рекса. Подбородок сильный, массивный, крепкий. Усы короче обычных,
+загибающиеся.</p><p><strong>Глаза: </strong>Средних размеров, округлые, широко и
+слегка косо поставленные, широко раскрытые. Они должны быть обязательно
+однотонными, яркими, блестящими и гармонировать с окрасом шерсти.</p><p><strong>Уши: </strong>Средних размеров, широкие у основания,
+со слегка закругленными кончиками, относительно низко поставлены. Внешний край
+покрыт густой и тонкой шерстью, нижний край с легким пушком.</p><p><strong>Шея: </strong>Средней длины.</p><p><strong>Тело: </strong>Среднего размера, атлетическое, крепкое,
+мускулистое, но не массивное и не тяжелое. Грудь закругленная и мощная. Спина
+прямая от плеч до крупа.</p><p><strong>Ноги: </strong>Мускулистые, средней длины.</p><p><strong>Лапы: </strong>Хорошо развитые, слегка овальной (WCF), округленной (FIFe) формы.</p><p><strong>Хвост: </strong>Средней длины, крепкий у основания,
+постепенно суживается к закругленному кончику. Шерсть на нем обильная и
+вьющаяся. </p><p><strong>Шерсть:</strong> Короткая, мягкая, шелковистая и бархатистая. Завитая или волнистая по всему телу. Она более длинная, чем у Корниш Рекса, и более торчащая. Густота шерстяного покрова варьируется от тонкой и мягкой до очень густой. Характерная черта породы - отсутствие остевого волоса.</p><p><strong>Окрасы:</strong> <br/>WCF: Не признаны окрасы: шоколадный, циннамон, лиловый, фавн и колорпойнт. (и их комбинации с белым). Остальные окрасы признаны. Любое количество белого.<br/>FIFe: Признаны все окрасы и их комбинации с любым количеством белого.</p><p><strong>Недостатки:</strong> Слишком
+длинная или заостренная голова, маленькие уши, короткий и голый хвост.</p><p><strong>Дисквалификация
+на выставках: </strong>Всклокоченная и не особенно волнистая шерсть, а также участки
+без волос.</p><p><strong>Дисквалификация
+всех пород: </strong>Ампутированные когти, крипторхизм, глухота. Любые костные деформации.</p><h3>Особенности
+и характер </h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/6a/55/47/8f/8a/fb/ba/ad/90/27/6b/c8/fb/d5/f3/2f/627dcc21b2facfb08256cb0a62b02dd6.jpeg" style="width: 351px; float: right; margin: 0px 0px 10px 10px;"/></p><h3></h3><p>Герман-рекс -
+активное, но очень терпеливое животное, всегда с ровным настроением,
+общительное с себе подобными и очень ласковое с хозяином.<strong> </strong>Удивительно,
+но эти неутомимые, энергичные, отзывчивые, игривые кошки обожают порядок. Они
+даже способны убирать за собой игрушки, чтобы заслужить похвалу хозяина.
+Сообразительны и находчивы, любознательны, любят участвовать в любых видах
+деятельности вместе с хозяином. Прекрасно ладят с детьми. Когда они счастливы и
+всем довольны, то машут хвостом, как собаки.</p><h3>Содержание
+и уход</h3><p>Курчавую шерсть герман-рексов
+рекомендуется регулярно расчесывать мягкой щеткой. Сухая чистка с помощью пудры
+нежелательна. Кошки данной породы, как и другие рексы, не мерзнут, они отлично
+приспособлены к среднеевропейскому климату и могут обходиться без защитного
+остевого волоса. Во время роста шерсти рекомендуют комплекс витаминов группы В.
+Отсутствие подшерстка делает породу доступной для людей, страдающих
+аллергией на шерсть. </p><h3>Кормление</h3><p>Для того чтобы шерсть кошек этой и других рексовых пород была плотной и густой,
+необходимо внимательно следить за качеством питания и наличием витаминов в
+рационе животного.<strong> </strong>Важно также, чтобы рацион герман-рекса
+содержал достаточное количество жиров: это необходимо, так как недостаток
+покровного волоса приводит к непрерывной потере тепла, которое должно
+возвращаться посредством высококалорийной диеты. </p><h3>Селекция</h3><p><strong>Допустимые скрещивания:</strong> нет</p><p><strong>Породы, созданные при участии Герман-рексов</strong></p><h3>Другие
+и устаревшие названия породы </h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/cb/86/77/36/72/79/9d/ab/cb/cc/ab/65/6e/8d/c8/b3/4c36da6e253131304a741245e158ab13.jpeg" style="width: 333px; float: right; margin: 0px 0px 10px 10px;"/></p><h3></h3><p>Немецкий рекс; </p><p>Прусский рекс.</p><h3>Неофициальное
+(сленговое) название породы на русском языке</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

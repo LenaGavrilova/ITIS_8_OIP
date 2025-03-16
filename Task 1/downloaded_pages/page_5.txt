@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Австралийская дымчатая порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, AUM, Австралийская дымчатая,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Австралийская дымчатая
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Австралийская дымчатая порода кошек фото" src="https://s3.webestudio.ru/topcat/breed_article_images/8/7/9/879117aeb92e66db2e5de45136742412.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Австралийская дымчатая
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>AUM</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Австралия
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>семьям с детьми; людям, которые подолгу не бывают дома.</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/14/d6/c8/8f/30/8f/69/26/58/42/6e/3a/8d/fe/a3/7e/8aa31c948e4615708dc3e6a40a34d49a.jpeg" style="width: 192px; float: right; margin: 0px 0px 10px 10px;"/></p><h3>История
+породы </h3><p>Родиной данной породы, как явствует из ее названия, является
+Австралия – континент далекий,
+загадочный, наполненный необычными животными, которых не встретишь в других
+местах Земли. Не вполне обычной и даже загадочной является и порода
+Австралийская дымчатая, что подчеркивается ее вторым названием – мист (от англ.
+<em>Mist</em> - туман). Она была выведена искусственным путем
+специально для того, чтобы получить животное редкой красоты, по внешнему облику
+напоминающее Бурманскую кошку, но с характерным пятнистым окрасом. За
+выполнение этой весьма нетривиальной задачи взялась заводчица из Сиднея Труда
+Стрит, которая использовала в бридинге Бурманских, Абиссинских, Сиамских, а также обычных домашних кошек окраса табби. От первых Австралийские дымчатые кошки взяли
+телосложение, общительный характер и четыре из шести возможных окрасов шерсти,
+от вторых – еще два окраса, тикинг и жизнерадостность, от третьих –
+великолепные, с поволокой, глаза цвета ультрамарин. И, наконец, от «дворянок»
+новая порода унаследовала крепкое здоровье, раннее половое созревание и,
+собственно, пятнистый рисунок на шерсти. Целенаправленная селекционная
+программа стартовала в 1975 году, а первые котята появились на свет в январе
+1980-го.</p><p>Новая порода получила первое официальное признание в 1986
+году – разумеется, это были австралийские фелинологичесике организации. Первой
+из мировых систем Австралийскую мист признала WCF. До 1998 года порода носила название
+пятнисто-дымчатая, несколько позже стала называться так, как сейчас. В
+настоящее время порода остается чрезвычайно редкой. Распространена она в
+Австралии, несколько меньше – в США. А вот встретить представителей этой породы
+в странах бывшего СССР практически нереально.</p><h3>Внешний
+вид </h3><p>Кошка среднего размера, слегка восточного типа. Имеет
+мягкую, неплотно прилегающую, но обильную, с подшерстком, шерсть. Отличительный
+признак породы – ее окрас: пятнистый или мраморно-пятнистый, с общим
+тикированным фоном. При этом основной окрас шерсти может быть голубым (blue),
+бурым (brown), шоколадным (chocolate), золотым (gold), карамельным (caramel),
+лиловым (lilac) или персиковым (peach). Нижние части тела кошки обычно немного
+светлее, создавая впечатление «невидимой мантии» - дымки (мист). Это и придает
+австралийской дымчатой кошке необычайный шарм. </p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/73/f6/eb/56/09/cf/ef/ea/83/85/97/22/c6/c3/3b/cb/9940ae80f2c0379f5d089b660703a202.jpeg" style="width: 310px; float: right; margin: 0px 0px 10px 10px;"/></p><p><strong>Голова: </strong>Имеет форму широкого, тупого,
+клина с широким расстоянием между ушами и слегка округленными контурами. Выраженные
+подушечки вибрисс. Нос<strong> </strong>слегка выделяется в профиль, без стопа, широкий у
+мочки, одинаковый по длине с выпуклым лбом. Мордочка тупоугольная, с
+мягкими обводками, клиновидно сходящимися к подбородку. Подбородок крепкий.</p><p><strong>Глаза: </strong>Большие, блестящие, немного
+раскосые, миндалевидной формы. Цвет – любые оттенки зеленого, возможен очень
+красивый ультрамариновый оттенок.</p><p><strong>Уши: </strong>От<strong> </strong>среднего до крупного размера,
+широкие у основания, со специфически закругленными кончиками, поставлены прямо
+или несколько отведены вперед. Внешняя линия уха продолжает контуры головы.</p><p><strong>Тело: </strong>Среднего размера, твердое, с хорошо развитой
+мускулатурой. Грудь широкая, в профиль округлая. </p><p><strong>Ноги: </strong>Средней длины, не тонкие, имеют характерные
+темные полосы.</p><p><strong>Лапы: </strong>Небольшие, округлые.</p><p><strong></strong><strong>Хвост:</strong><span class="apple-converted-space"><strong> </strong></span>Толстый, в пропорции к телу, минимально заостренный.</p><p><strong></strong><strong>Шерсть:</strong>Короткая, мягкая, неплотно прилегающая, но при этом обильная, с умеренным подшерстком, блестящая, лоснящаяся.</p><p><strong>Окрасы:</strong> Насыщенные и теплые, с тоном «руфизма» на спинке носа, щеках и ушах; «руфизм» присутствует даже у самых светлых окрасов. Внутренняя сторона тела гораздо светлее, создавая впечатление «невидимой мантии» на теле – «мист». Такие окрасы, как: шоколадный, лиловый, карамель, циннамон, фавн довольно долго развиваются и кошки этих окрасов достаточно долгое время (до 2х лет) выглядят намного светлее. Окрасы имеют «руфированный» подшерсток и «мантию-дымку» из-за генетического «наследия» окраса Австралийской дымчатой (отголоски Бурманской и Абиссинской пород, соответственно) <br/> Окрасы бывают только пятнистыми или мраморными. Пятнистый рисунок, достаточно, редкий, с пятнами любого размера и формы, часто даже розетчатый. Основной тон\подшерсток светлее рисунка; рисунок достаточно светлый, но отличимый от основного тона. Рисунок, как будто, покрыт вуалью; это вызвано обильным тиккингом на рисунке. </p><p><strong>Недостатки:</strong> Мелкий
+костяк, слабый тонус мышц, наличие пинча, длинный или плоский череп, маленькие
+или высокого постава уши, маленькие или круглые глаза, слишком гладкая шерсть.</p><p><strong>Дисквалификация
+на выставках: </strong>Какой-либо иной цвет глаз, кроме зеленого у взрослых животных,
+отсутствие тикинга.</p><p><strong></strong><strong>Дисквалификация всех пород: </strong>Ампутированные когти, крипторхизм, глухота. Заметные костные деформации.</p><h3>Особенности
+и характер </h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/84/84/d2/08/8a/c8/55/c9/7e/e0/a3/d3/57/35/4c/cc/63a12704bb65a544bf662d681360c6ad.jpeg" style="width: 276px; float: right; margin: 0px 0px 10px 10px;"/></p><h3></h3><p>Австралийская
+дымчатая кошка обладает покладистым характером, не назойлива, добра, терпелива,
+с незнакомыми людьми приветлива и дружелюбна. Охотно играет и общается с
+детьми, хорошо ладит с другими домашними животными. Самостоятельна. Домосед,
+может спокойно обходиться без прогулок и подолгу проводить время в закрытых
+помещениях.</p><h3>Содержание
+и уход</h3><p>Австралийская мист – чрезвычайно
+чистоплотная кошка, она самостоятельно и с удовольствием ухаживает за своей
+шерсткой. Расчесывать ее следует не столько с целью ухода, сколько для
+установления еще более тесного контакта и для ее (и собственного) удовольствия.
+Купать следует только в самых крайних случаях.<strong></strong></p><h3>Кормление
+</h3><p>Необходимо тщательно следить за
+питанием этой кошки: ее пищеварительная система весьма чувствительна к несвежим
+продуктам. Кроме того, коты склонны к полноте, поэтому их ни в коем случае
+нельзя перекармливать. </p><h3>Селекция</h3><p> <strong>Допустимые скрещивания: </strong><strong></strong>скрещивание не допускается.<strong></strong><strong><br/> </strong> </p><p> <strong>Породы, созданные при участии Австралийских дымчатых кошек: </strong>в настоящее время не выявлены. </p><h3>Другие
+и устаревшие названия породы</h3><p>Австралийская мист. Пятнисто-дымчатая.<strong></strong></p><h3>Неофициальное (сленговое)
+название породы на русском языке: </h3><p>Мист.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

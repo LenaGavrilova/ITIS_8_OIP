@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Балинезийская (Балийская) порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, BAL, Балинезийская (Балийская),
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Балинезийская (Балийская)
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Балинезийская (Балийская) порода кошек фото" src="/styles/public/images/default_avatars/cat.png">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Балинезийская (Балийская)
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>BAL</dd>
+<dt>Группа:</dt>
+<dd>Сиамо-ориентальная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                США
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей с детьми, большую часть времени проводящих дома</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы</h3><img alt="" src="http://s3.webestudio.ru/topcat/editor_images/96/bd/6c/11/49/e1/a1/b1/53/1e/2d/a3/7d/21/8b/71/85e5ba11e2f05b63ba1ed5195f81787e.jpeg" style="width: 299px; float: right; margin: 0px 0px 10px 10px;"/><p>Название этой породы лишь на
+первый взгляд имеет «географические» корни – на самом же деле родиной балийских
+(балинезийских) кошек являются США. Впрочем, возможно, название все же служит
+напоминанием о происхождении этих животных, однако более распространенной
+является другая версия: балийская порода кошек получила свое название в честь
+танцовщиц с острова Бали, грациозных, как… кошки. Поначалу же этих животных
+называли иначе – длинношерстными сиамскими, поскольку они ведут свое
+происхождение именно от сиамских кошек. На рубеже 20-х и 30-х годов XX столетия американские
+селекционеры обратили свои взоры на сиамских кошек с полудлиной шерстью. Откуда
+у кошек этой породы появилась длинная шерсть, в точности неизвестно. Скорее
+всего, это результат спонтанной мутации, довольно широко распространенной у
+всех видов домашних животных. Первый зарегистрированный длинношерстный котенок
+у пары сиамской породы родился в 1928 году. Вначале такие «волосатые» котята
+считались браком, однако после второй мировой войны Элен Смит из Нью-Йорка,
+питомник «MerryMews», и Марион Дорсей из Калифорнии, питомник «Rai-Mar»,
+занялись целенаправленным разведением таких животных. Несколько позже Сильвия Холлэнд
+(питомник «Hollands Farm Cattery») увлеклась разведением балинезийских кошек и
+взялась заобъединение энтузиастов данной породы, создав ассоциацию The Balinese Breeders and Fans of
+America (B.B.F.A.). На выставках балинезы впервые появились в 1963 году
+под именем сиамских длинношерстных. Однако в связи с протестами заводчиков
+сиамских кошек приблизительно пять лет спустя утвердилось название
+«балинезийские» («балийские»).</p><p>В 1965 году порода была
+зарегистрирована, в 1970 признана – уже как «балийская» – в CFA и TICA. FIFe
+признала породу в 1972 году, а в 1984 году внесла ее в свои каталоги. Первый
+стандарт балинезов был уточнен в 1967. В Европе балийская порода кошек
+появилась только в 1970-х годах. На территорию бывшего СССР первый балинез был
+завезен в 1988 году из Чехословакии. Однако из-за сложностей в разведении
+порода остается достаточно редкой. </p><h3>Внешний
+вид</h3><p>Кошка среднего размера, вес составляет примерно 2,5-5 кг. Очень изящная,
+грациозная, гибкая, стройная, элегантная, легкая при хорошо развитой
+мускулатуре. В сущности, это та же сиамская кошка, только с длинной шерстью.</p><p><strong>Голова: </strong>Имеет вид
+узкого, длинного, ровного клина, среднего размера, с прямым профилем. Мордашка
+тонкая, «аристократичная» - узкая, длинная, треугольная, изящных очертаний, у
+светлых окрасов с заметными полосами на лбу. Нет ни резкого перехода ото лба к
+мордочке, не четко очерченных границ щек. Плавно-выпуклый узкий череп мягким
+выступом переходит в длинную, высоко поставленную шею. Нос длинный, прямой. Подбородок среднего размера, крепкий.</p><p><strong>Глаза: </strong>Среднего размера,<strong> </strong>слегка
+миндалевидные, чуть раскосые, широко поставленные. Цвет их варьируется от
+светло-голубого до темно-синего. Предпочтительны наиболее насыщенные тона.</p><p><strong>Уши: </strong>Большие, широкие у
+основания, с заостренными кончиками, покрытые шерстью, желательно с пучком
+волос на конце. Поставлены таким образом, что </p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/ba/b6/ad/e3/a5/f7/e1/8c/d0/b5/7d/0f/2c/a1/e2/db/c3b8b076e223bdc435b2127897ba3767.jpeg" style="width: 335px; float: right; margin: 0px 0px 10px 10px;"/></p><p>продолжают боковые линии клина,
+образуя при взгляде анфас равносторонний треугольник.<strong></strong></p><p><strong>Шея: </strong>Длинная, тонкая,
+изящная, высоко поставленная.</p><p><strong>Тело: </strong>Среднего
+размера, удлиненное, стройное, восточного типа. Очень грациозное, с изящными
+очертаниями. Остов тонкий, мускулатура крепкая.</p><p><strong>Ноги: </strong>Стройные, длинные, пропорциональны
+туловищу, но при этом крепкие.</p><p><strong>Лапы: </strong>Маленькие,
+овальной формы, с пучками волос между пальцами. Подушечки часто имеют цвет
+отметин на шерсти.</p><p><strong>Хвост: </strong>Красивый,<strong> </strong>очень длинный,
+тонкий, суживающийся к заостряющемуся кончику, с характерным опушением по типу
+«страусово перо». </p><p><strong>Шерсть: </strong>Полудлинная,
+тонкая, на ощупь шелковистая, «атласная», без пушистого подшерстка. На
+туловище, животе и хвосте шерсть длиннее, длина волосков увеличивается от
+лопаток к хвосту и «штанишкам» на задних ногах. Самая длинная шерсть на хвосте.</p><p><strong>Окрасы: </strong>Характерный
+окрас балийской породы - колор-пойнт. По стандарту CFA это могут быть только чёрный пойнтовый (сил-пойнтовый), шоколадный пойнтовый, голубой пойнтовый и лиловый пойнтовый. Уши, «маска» на голове, нижняя часть
+конечностей, хвост имеют яркий насыщенный цвет. Все остальные участки тела
+должны быть максимально светлыми и отчетливо контрастными по отношению к
+пойнтам. На туловище допустим легкий оттенок в тон окрасу пойнтов. «Маска» на
+голове должна закрывать всю мордочку целиком, включая подушечки усов, и
+соприкасаться с ушами, но при этом не сливаться с ними. «Маска» не должна
+превращаться в «капюшон» и переходить на затылочную часть головы. Отметины на
+всех участках тела должны быть прокрашены равномерно и иметь одинаковый цвет.
+На пойнтах ни в коем случае не должно быть никаких белых пятен или отдельных
+белых волосков. У балинезов старшего возраста есть тенденция к общему
+потемнению всего тела. Это допустимо. Характерным признаком породы являются
+голубые (синие) глаза.</p><p><strong>Недостатки: </strong>Круглая
+или широкая голова; короткая или широкая морда; маленькие и без косого наклона
+глаза; короткое массивное туловище, короткие конечности, массивный костяк; слишком
+короткая или грубая шерсть.</p><p><strong>Дисквалификация на
+выставках: </strong>Любой цвет глаз,<strong> </strong>кроме голубого.</p><p><strong>Дисквалификация всех
+пород: </strong>Ампутированные когти, крипторхизм, глухота.</p><h3>Особенности
+и характер </h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/f3/67/4e/f9/fd/5a/7f/80/43/48/a2/f7/d7/ef/8c/82/9b33541c2ce9e4f5e308aba6d3accd37.jpeg"/></p><p>Балинезы обладают высоким интеллектом и поистине
+удивительным характером. Это очень
+активная и общительная кошка, любопытная, дружелюбная и чрезвычайно игривая.
+Любит прыгать. Однако иногда может вести себя и настороженно, с опаской. Более
+уравновешенная и спокойная, нежели сиамская, и голосок у нее более нежный и
+мягкий. Очень «разговорчива», может «разговаривать» даже сама с собой.
+Обожает общество, терпеть не может одиночества и легко вырывается на свободу –
+способна даже открыть дверцу клетки. Требует много внимания и ласки, с
+удовольствием разделит общество другой столь же подвижной кошки, хорошо
+знакомой собаки, другого животного. Прекрасно ладит с детьми. К хозяину питает
+самую искреннюю любовь и привязанность.</p><h3>Содержание
+и уход</h3><p>О балинезах легко заботиться. Их длинная, прилегающая к телу
+шелковистая шерсть лишена подшерстка. Все, что требуется такой кошке – это
+иногда пройтись по шерстке гребешком или обычной щеткой. Даже в период линьки
+волос выпадает не очень много.</p><p>Хорошее питание и много движения – и ваш балинез всегда
+будет в идеальном состоянии. Чтобы балийская кошка могла удовлетворить свою
+жажду движения, стоит выпускать ее в сад.</p><h3>Кормление</h3><p>Питание балинезов должно быть сбалансированным.</p><h3>Селекция</h3><p><strong>Допустимые скрещивания: </strong>Сиамская; Ориентальная короткошерстная</p><p><strong>Породы, созданные при участии Балинезийских кошек: </strong>Ориентальная длинношерстная</p><h3>Другие
+и устаревшие названия породы</h3><p>Балийская. Балинез. Балийская традиционная. Длинношерстная сиамская. Полудлинношерстная сиамская. </p><h3>Неофициальные
+(«сленговые») названия породы на русском языке</h3><p>Балиец.  Балийка.</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/9">Dragoste</a>, Екатеринбург
+                                                </li>
+<li>
+<a href="/catteries/36">Bastet Ural</a>, Екатеринбург
+                                                </li>
+<li>
+<a href="/catteries/3486">Orobie Diva's</a>, Clusone
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=4">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

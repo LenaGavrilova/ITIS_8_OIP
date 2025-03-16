@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Бенгальская порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, BEN, Бенгальская,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Бенгальская
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Бенгальская порода кошек фото" src="https://s3.webestudio.ru/topcat/cat_images/7/2/d/72d770f2157b3573c15dbc0e12ed57c8.jpg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Бенгальская
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>BEN</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                США
+
+                                        </dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы</h3><p>Практика показывает, что
+домашние кошки могут скрещиваться с дикими кошачьими, однако их потомство, как
+правило, отличается бесплодием и слишком диким характером. Однако в истории с Бенгальской кошкой все обстояло иначе. Эта порода поистине уникальна, ибо
+возникла она в результате целенаправленного скрещивания дикого азиатского
+леопардового кота с домашними кошками. В 1963 году в США калифорнийская
+заводчица Джин Сагден-Милл приобрела дикую бенгальскую кошку Felisprionailurusbengalensisт (ALС). Эту миниатюрную «пантеру» в
+пятнистой шубке, умеющую отлично плавать и ловить рыбу, Джин решила скрестить с
+кошкой Американской короткошерстной породы. Цель, которую преследовала миссис
+Милл, была благородной: она полагала, что люди прекратят варварское истребление
+прекрасного дикого животного, если перед глазами у них будет его «домашняя
+копия». Эксперимент удался: котята, родившиеся в </p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/79/fd/69/75/23/82/22/c9/94/c2/eb/3f/4a/1f/a0/8f/d789813efd5f3a96f1f9cd83d9586301.jpeg" style="width: 383px; float: right; margin: 0px 0px 10px 10px;"/></p><p>результате скрещивания, оказались
+вполне плодовитыми. Позже их скрещивали с отцом-производителем, отчего на свет
+появились несколько пометов удивительных животных – пятнистых кошек. Новую
+породу назвали в честь «прародителей» - Бенгальской. Известно, что врач и
+генетик Уильям Сентеруолл изучал иммунную систему Бенгальских кошек. Зачем он
+это делал? Принято считать, что это животное не подвержено кошачьей лейкемии, и
+для того чтобы испытать силу сопротивляемости организма кошки этому
+заболеванию, д-р Сентеруолл проводил многочисленные скрещивания Felisbengalensis с американскими
+домашними кошками. Восьмерых гибридных животных он передал г-же Сагден-Милл,
+которая продолжила программу по разведению и селекции породы. Скрещивание с
+беспородными кошками позволило улучшить изначально нервозный характер Бенгальских кошек; для получения леопардового окраса использовались индийские
+уличные кошки и Египетские мау. На раннем этапе формирования породы кошкам
+ввели гены снижения интенсивности окраса, длинной шерсти и пятнистого окраса;
+появился и ген окраса колорпойнт, ставший причиной возникновения необычных
+«снежных» окрасов Бенгальских кошек. </p><p>Первое животное породы по кличке
+Милвуд Файнали Фаунд было зарегистрировано TICA в 1983 году, на выставке бенгалы
+впервые появились в 1985, а официальное признание породы состоялось в 1991
+году. В настоящее время признана практически всеми системами. Однако, несмотря
+на необыкновенную внешнюю привлекательность и факт признания всеми
+фелинологическими системами, Бенгальская порода по-прежнему остается достаточно
+редкой, в том числе, и в России.</p><h3>Внешний
+вид </h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/67/69/3f/9e/b6/a6/a7/45/2d/69/4c/85/83/78/03/85/53ac8f6a2d01ea33b5be10f3c1ed5708.jpeg" style="width: 379px; float: right; margin: 0px 0px 10px 10px;"/></p><p>Отличительным признаком и, собственно, главным критерием принадлежности к породе является сходство всего облика и окраса бенгала с его диким предком. Это кошка от среднего до крупного размера; вес варьируется от 5,5 до 9 кг, крепкого сложения, с длинным мускулистым телом и стремительной походкой. Каждый представитель бенгальской породы несет в себе гены своих предков-леопардов. И потому бенгалы отличаются некоторыми совершенно уникальными качествами: это особое строение головы (так называемый «дикий» тип»), любовь к воде, необыкновенная, свойственная только диким кошачьим, пластика и грация и фантастически красивый окрас.</p> <p><strong>Голова: </strong>Относительно небольшого размера в пропорции к голове, но не экстремально маленькая. В форме широкого модифицированного клина, со скругленными, мягкими контурами, более длинная, чем широкая. <br/> Линия затылочной части черепа слегка закруглена и продолжает линию шеи.<br/> Стандарт американских и европейских фелинологических организаций отличается в описании линии профиля.<br/> Если в европейских стандартах заявлен практически прямой профиль, с возможным небольшим изгибом на переходе ото лба к носу, то, согласно  американским, профиль должен быть прямым, идущий единой дугой от уровня надбровий. <br/> Нос широкий и крупный, с немного «вздутой» мочкой носа, обведенной темным ободком.<br/> Подушечки вибрисс и подбородок наполненные, округлых очертаний, с плавными переходами; скулы высокие, выступающие. У взрослых котов допускаются достаточно развитые щеки.</p> <p><strong>Глаза: </strong>Большие, овальные, широко расставленные и слегка косо поставленные. Цвет может быть любым: возможны вариации от светло-зеленого до ярко-желтого, часто орехового или зеленоватого оттенка. У «снежных» бенгалов глаза синие или ярко-голубые у пойнтовых и аквамариновые у минк окрасов. </p> <p><strong>Уши: </strong>Относительно маленькие, широкие у основания, на кончиках закругленные, расположены на самой «высокой» точке головы, слегка разведены в стороны, продолжая линию клина, и направлены вперед. Рысьи кисточки нежелательны. </p> <p><strong>Шея: </strong>Длинная, толстая, мускулистая, мощная, пропорциональная туловищу.</p><img alt="" src="http://en.s3.webestudio.ru/topcat/editor_images/48/6c/df/25/5b/cc/b3/c1/57/ef/f2/d8/ab/59/db/8c/d509de42c5a7862b1af197c1bc7430c4.jpeg" style="width: 337px; float: right; margin: 0px 0px 10px 10px;"/> <p><strong>Тело: </strong>Крупное, хорошо развитое, мускулистое, длинное, но не восточного типа. Костяк крепкий, грудь широкая.</p> <p><strong>Ноги: </strong>Средней длины, сильные, широкие в кости со столь же развитой мускулатурой, что и на теле. Задние ноги слегка длиннее передних. </p> <p><strong>Лапы: </strong>Большие, круглые. </p> <p><strong>Хвост: </strong>Не очень длинный, толстый, равномерно суживающийся к закругленному кончику. </p> <p><strong>Шерсть: </strong>Короткая (у котят чуть длиннее), густая, прилегающая, необычно шелковистая на ощупь, с характерным окрасом дикой кошки, специфичным именно для этой породы – это как раз то, за что особенно ценят бенгалов. </p> <p><strong>Окрасы: </strong>Окрас бенгалов специфический. Отличается яркими, контрастными рисунками (пятнистый и мраморный) черного, шоколадного, оранжевого цвета или цвета корицы на теплом фоне – от золотисто-оранжевого до цвета слоновой кости. Рисунок может быть в виде пятен или мраморным, все его удлиненные элементы должны быть ориентированы горизонтально, без тенденции к вертикальным полосам. Пятна могут иметь любую величину и форму (например, раковина устрицы, крылья бабочки и т.д.), причем, сложные пятна предпочтительнее простых одинарных. Контраст с фоном должен быть максимальным, дающим четкий рисунок с резкими очертаниями. По возможности желателен светлый тон живота. У бенгалов окраса колорпойнт, сепия и минк корпус имеет цвет слоновой кости, с достаточно четким (розетка или мрамор) рисунком коричневого (разного оттенка) тона. <br/> Черные серебристые бенгалы имеют светлый, практически белый подшерсток и темно-серый или черный рисунок по телу.<br/> При этом каждому, кто желает стать владельцем котенка бенгальской породы, следует помнить о таком явлении, как фаззинг (от англ. fuzzy – неясный). Это свойство, которое бенгалы унаследовали от своих леопардовых предков, позволяло живущим в дикой природе животным маскировать своих детенышей от враждебной среды. Таким образом, 3-4 недель от роду очаровательный и родившийся ярким котенок-бенгал может временно превратиться в «гадкого утенка», выглядящего серенько и обыденно. Фон окраса тускнеет, а пятна становятся блеклыми. Однако бояться этого не следует: уже к трем месяцам к малышу начнет возвращаться его былая привлекательность. В целом же окончательный окрас кошек бенгальской породы устанавливается не ранее 8-10 месяцев.</p> <p><strong>Недостатки: </strong>Соединенные пятна, образующие полосы, отсутствие черной шерсти на кончике хвоста, любые отчетливые белые пятна-«медальоны» на шее, груди, животе или любом другом месте, розовые или обесцвеченные подушечки лапок.</p> <p><strong>Дисквалификация на выставках: </strong>Отсутствие пятен на животе; агрессивное поведение бенгальской кошки.</p> <p><strong></strong><strong>Дисквалификация всех пород: </strong>Ампутированные когти, крипторхизм, глухота. Заметные костные деформации. </p><h3>Особенности
+и характер</h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/6a/14/b2/e3/81/17/d2/bd/a3/e0/3c/f0/6e/59/ae/94/407eb6f4636fe927087067846be7a256.jpeg" style="width: 392px; float: right; margin: 0px 0px 10px 10px;"/>Несмотря на
+многочисленные добродетели, эта кошка сохранила инстинкт охотницы, ее
+энергетика и подвижность гораздо выше среднего. Котята иногда причиняют немало
+беспокойства. Вообще, уравновешенный характер, делающий приятным совместное
+проживание с бенгалом, возможен лишь при условии, что животное принадлежит как
+минимум к 4 - 7 поколению после скрещивания с азиатской
+кошкой-леопардом. Кошка, принадлежащая к новому поколению, любопытна,
+дружелюбна, привязчива, но, как правило, только к одному человеку. Отличается
+хорошей памятью, легко усваивает все, чему ее учат, быстро привыкает к новому
+жилью. Считается, что коты намного ласковее кошек, «дамы» чересчур независимы,
+к тому же, не знают меры ни в проявлениях недовольства, ни в проявлениях
+нежности. С другими кошками и собаками общается охотно, но иногда может
+проявлять «вспышки дикости». Подвижна, активна, любит играть, обожает воду и
+даже может самостоятельно «принять ванну». Нуждается в ласке, сама охотно идет
+к хозяину на руки или на плечи, но не терпит, когда ее насильно удерживают на
+руках. Голос тихий.</p><h3>Содержание
+и уход</h3><p>Несмотря на экзотическую внешность, бенгалы не требуют
+никакого особенно трудоемкого или затратного ухода. Нет необходимости
+бесконечно расчесывать их короткую и гладкую шерсть, достаточно иногда
+приглаживать ее специальной резиновой щеткой. Кроме того, бенгалы сами по себе
+чистоплотны и отличаются крепким здоровьем, а любовь кошек этой породы к воде
+позволяет не только без проблем и качественно купать животных, но и превратить
+этот процесс в удовольствие и для самой кошки, и для хозяина. </p><h3>Кормление</h3><p>Ни в коем случае не следует смешивать профессиональные корма
+с натуральной пищей. Оптимальным рационом являются готовые корма, сухие или
+влажные, максимально сбалансированные, содержащие все необходимые для
+нормального развития витамины и минералы. Изредка кошку можно побаловать сырым
+мясом: говядиной, олениной, крольчатиной. Бенгальские кошки любят пить
+проточную воду, поэтому следует купить специальный фонтанчик.</p><h3>Селекция</h3><p><strong>Допустимые скрещивания: </strong>Нет.</p><p><strong>Породы, созданные при участии Бенгальских кошек:</strong> Саванна. Тойгер. Пантеретта.</p><h3>Другие и устаревшие названия породы</h3><p>Кошка из Бенгалии. Леопардик.</p><h3>Неофициальные («сленговые») названия породы</h3><p>Бенгал.</p><h3>Ссылки:</h3><p><a class="external" href="http://ru.top-cat.org/newsletters/e7e286c3-777b-44aa-18ec-7d77681c4006" rel="nofollow">Журнал TopCat, посвященный породе</a></p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший в породе
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/476063" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/7/2/d/72d770f2157b3573c15dbc0e12ed57c8.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/476063" target="_blank">
+                                                    Joanbengal Amour
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#BEN">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший взрослый
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/476063" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/7/2/d/72d770f2157b3573c15dbc0e12ed57c8.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/476063" target="_blank">
+                                                    Joanbengal Amour
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#BEN">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший котенок
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/511566" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/1/9/d/19dc32a11e6af651557078408174502a.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/511566" target="_blank">
+                                                    LasLeo Daykiri
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#BEN">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший юниор
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/510468" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/b/3/f/b3fd4367a5c1933b6ef6a43fe2c122cf.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/510468" target="_blank">
+                                                    Idel Pinki
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#BEN">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший юниор противоположного пола
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/489116" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/c/e/0/ce08cb15d894ccc2bb50e3080806bf0a.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/489116" target="_blank">
+<span class="cat-title" data-toggle="tooltip" title="Юниор-Чемпион">WCF J.Ch.</span> Eestilinna *RU Tolento
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#BEN">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/4660">Idel</a>, Нижний Новгород
+                                                </li>
+<li>
+<a href="/catteries/74">Exclusive Cats</a>, Уфа
+                                                </li>
+<li>
+<a href="/catteries/261">Glam Shine</a>, Самара
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=41">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

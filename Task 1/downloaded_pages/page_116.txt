@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Американская бурманская порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, AMB, Американская бурманская,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Американская бурманская
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Американская бурманская порода кошек фото" src="/styles/public/images/default_avatars/cat.png">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Американская бурманская
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>AMB</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Рекомендуется:</dt>
+<dd>Семейным парам, одиноким людям, семьям с детьми, людям пожилого возраста</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>стория породы </h3><p><br/></p><p>Бурма – одна из самых харизматичных пород кошек, известная своим «золотым» характером. История этой породы уходит своими корнями на Восток, тесно переплетаясь с историей Таиланда. Первое упоминание о Бурманских кошках относится к XV веку. В те времена её называли «медной кошкой» и описывали так: «Черты характера, которыми обладают медные кошки, превосходят те, что имеют все существующие породы. Цвет их меха яркий, как медь, их глаза светятся как полуденное солнце. Благодаря этим кошкам всё опасное и злое исчезает навсегда…» И действительно, этих кошек держали в самых богатых домах и храмах: считалось, что они приносят счастье и богатство.</p><p>Как самостоятельная порода Бурма сложилась фактически случайно. В 1930 году отставному врачу американского флота доктору Джозефу Томпсону, живущему в Сан-Франциско (Калифорния, США), подарили кошку по кличке Вонг Мау, привезенную с Востока. Она так поразила доктора своей внешностью, резко отличающейся от всех известных кошек, что он решил создать новую породу и привлек к разработке программы разведения группу ученых из местного университета.</p><p>И уже в 1934 году первые представители Бурманской породы и предварительный стандарт были представлены CFA (комитет по породам и стандартам Американской ассоциации любителей кошек), а спустя еще два года Бурманская порода получила официальный статус. Для породы, разведение которой было начато только в 1930 году, это был ошеломляющий прогресс. Популярность кошек Бурманской породы в Америке росла столь стремительно, что спрос на котят во много раз превышал предложение.</p><p>В 1949 году три кошки Бурманской породы были привезены в Англию - и это стало началом развития "европейской линии" бурм. <br/>А оставшиеся на северо-американском континенте представители этой породы положили начало "американской линии" бурм.</p><p>На сегодняшний день нет единства в стандартах и внешнем виде Бурманской породы в международных системах. Стандарты "американской" (признанной в CFA и TICA системах) Бурмы сильно отличаются от стандартов "европейской" Бурмы (признанной в европейских системах: WCF, FIFe, GCCF). Можно даже говорить о 3-м "типе" Бурм - австралийской Бурманской. </p><p>Каждая система называет "свою" породу  Бурманской. Но целесообразно выделять именно о Американскую Бурманскую, Европейскую Бурманскую и Австралийскую Бурманскую породы.</p><p>Итак, Американская Бурманская порода. Какая она?</p><h3>Внешний вид</h3><p>Это - компактная кошка среднего размера (3,5 - 6кг), крепкого телосложения, с отлично развитой мускулатурой, причем, неожиданного веса по сравнению с размерами тела. С блестящей, прилегающей и чрезвычайно шелковистой шерстью, практически без подшерстка. Округлая, наполненная голова. Большие, выразительные, яркого желтого цвета глаза. Необыкновенно выразительное выражение "лица". Бурмы - кошки, которые всегда находятся в отличном тонусе; обладая довольно плотным телосложением, они не должны быть рыхлыми. Бурмы, как хорошие атлеты, всегда находятся в прекрасном мышечном тонусе. Им не свойственны вяло развитые мышцы и висящие дряблые пузики :).</p><p><strong>Голова: </strong>Округлая, без плоских поверхностей. Скулы наполненные, подчеркнутые и широкие. Широкое расстояние между глаз. Профиль с четким переходом на уровне внутреннего угла глаза. Допустима небольшая горбинка по спинке носа. Сильный подбородок и нижняя челюсть. Правильный прикус.</p><p><strong>Глаза:</strong> Большие, широко расставленные, округлой формы. Находятся на одной линии с основания уха. Цвет глаз – от желтого до янтарного.</p><p><strong>Уши:</strong> Среднего размера, поставлены широко, с легким наклоном вперед. Широкие у основания, кончики закруглены. Внешние очертания ушей продолжают контуры верха лицевой части головы.</p><p><strong>Тело:</strong> Среднего размера, компактное. На ощупь крепче и тяжелее, чем кажется на первый взгляд. Грудная клетка мощная, при взгляде в профиль округлая. Спина прямая от плеч до крупа.</p><p><br/></p><p><strong>Ноги:</strong> Крепкие пропорциональные.</p><p><strong>Лапы:</strong> Изящные, округлые.</p><p><strong>Хвост:</strong> Прямой, средней длины, с нешироким основанием, сужающийся к слегка округлому кончику.</p><p><strong>Шерсть:</strong> Очень короткая, тонкая, блестящая. Плотно прилегающая, почти без подшерстка.</p><p><strong>Окрасы:</strong> При всех окрасах нижняя часть туловища чуть светлее, чем спина и конечности. У котят и молодых животных возможен тигровый муар и чуть более светлый цвет туловища. Отметины имеют слабый контраст, в целом равномерны по цвету. Все окрасы без каких-либо полос и муара. По цвету: <strong>Коричневый/seal или соболиный/</strong><strong>seal</strong><strong>: </strong>основной цвет шерсти коричневый с легким золотистым отливом, отметины темно-коричневые, мочка носа тоже коричневая, а подушечки лап могут быть коричневыми. <strong>Голубой/blue: </strong>шерсть серая, отметины серо-голубого цвета, мочка носа и подушечки лап серые. <strong>Шоколадный/chocolate или champagne/шампань</strong>: шерсть сливочно-бежевая, отметины шоколадно-коричневого цвета, а кончик носа и подушечки лап могут быть цвета корицы. <strong>Лиловый/lilac или платиновый/platinu</strong>: шерсть платинового цвета, отметины серые, мочка носа и подушечки лап розовые с лавандовым отливом. <strong>Red (красный): </strong>ярко-оранжевый - лучшее определение этого цвета, кончик носа и подушечки лап должны быть розовыми. <strong>Cream (кремовый):</strong>шерсть цвета светлых сгущеных сливок, кончик носа и подушечки лап бледно-розовые.<strong></strong></p><p>В CFA признаны только 4 окраса: <strong>Коричневый/seal или sable/соболиный</strong><strong>; Шоколадный/c</strong><strong>hocolate у CFA champagne/шампань; Голубой/Blue; Lilac/лиловый или platinum/платиновый.</strong></p><p><strong></strong>В TICA признаны все окрасы, включая черепаховые.</p><p><strong>Недостатки:</strong> Слишком легкий костяк, слишком длинный и тонкий хвост, плоский лоб, неприлегающая или слишком густая или слишком длинная шерсть.</p><p><strong>Недостатки, не позволяющие получить САС: </strong>Зелёные глаза; белые пятна на шерсти, неправильный прикус.</p><p><strong>Дисквалификация всех пород: </strong>Ампутированные когти, крипторхизм, глухота и пр.</p><h3>Особенности и характер</h3><p>Бурма отличается активным и энергичным темпераментом, дружелюбием и преданностью хозяину, поэтому её часто называют кошкой с характером собаки. Бурма – сама элегантность, грация и тактичность. Её безграничная любовь, нежное и трогательное отношение к человеку поражают и удивляют. Бурма очень любознательна и нетерпелива. Не выпускает когти, не царапается и не проявляет агрессии к людям. Может часами не отходить от хозяина, сидеть на руках или просто лежать рядом. Бурма не любит одиночества, поэтому она безмерно счастлива, если дома у неё есть приятель, с которым можно порезвиться. Это может быть и ребёнок, и кошка, и собака. В связи с этим часто рекомендуют приобретать сразу двух "бурмят". Котятам будет не скучно, когда вы на работе, да и наблюдать за их играми сплошное удовольствие. Самое интересное, что взрослые кошки играют, пожалуй, даже более самозабвенно, чем маленькие котята. Такое игривое настроение сохраняется до самой старости, а живут Бурманские кошки до 16 лет.</p><h3>Содержание и уход</h3><p>Уход за такими кошками легок, достаточно лишь раз в неделю расчесывать бурму щеткой и гребешком.</p><h3>Кормление</h3><p>Питание обязательно должно быть сбалансированным, чтобы поддерживать надлежащий мышечный тонус и блеск шерсти.</p><h3>Селекция</h3><p><strong>Допустимые скрещивания: </strong>в настоящее время не выявлены.<br/></p><p><strong>Породы, созданные при участии Бурманских кошек: </strong>Бурмалайская; Азиатская; Австралийская дымчатая; Австралийская тиффани; Бенгальская; Бомбейская; Сингапура; Тайский бобтейл; Тиффани.</p><h3>Другие и устаревшие названия породы</h3><p>Бурма. Купер. Супалек (Супилэк). Чонг донг – устаревшее тайское название. Малайская кошка - Бурманская кошка сплошного окраса, кроме шоколадного в Великобритании.</p><h3>Неофициальное (сленговое) название породы на русском языке </h3><p>Бурма.</p><h3></h3>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/542">Wildangel</a>, Екатеринбург
+                                                </li>
+<li>
+<a href="/catteries/643">BurMau</a>, Челябинск
+                                                </li>
+<li>
+<a href="/catteries/1636">Rangpurcat</a>, Самара
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=117">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

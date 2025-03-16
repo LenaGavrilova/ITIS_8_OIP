@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Экзотическая короткошерстная порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, EXO, Экзотическая короткошерстная,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Экзотическая короткошерстная
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Экзотическая короткошерстная порода кошек фото" src="/styles/public/images/default_avatars/cat.png">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Экзотическая короткошерстная
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>EXO</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                США
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей с детьми</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы
+</h3>
+<p>Появление кошек экзотической породы – результат целенаправленной
+программы по скрещиванию между персидскими кошками с одной стороны и
+американскими короткошерстными, русскими голубыми и бурманскими – с другой.
+Целью этой программы было получение кошки более привлекательного, нежели у
+американских короткошерстных, окраса, а также «утяжеление» ее силуэта.
+Программа была начата американскими заводчиками в 1966 году. В итоге в мире
+существует кошка, похожая на добродушного медвежонка с абсолютно спокойным
+характером и адекватным поведением. И не просто существует: в Америке эта
+порода занимает четвертое место по популярности. Создатели породы вначале
+хотели дать ей название «Стерлинг», но затем остановились на «экзотической». Впервые
+была официально признана CFA в 1967 году,
+международное признание относится к 1986 году (FIFe). Сегодня экзотическая короткошерстная признана практически во всем
+мире.
+</p>
+<h3>Внешний
+вид
+</h3>
+<p>Внешне экзот напоминает персидскую кошку, но<strong> </strong>с более короткой шерстью.
+Размер средний (3 – 6,5 кг),
+формат укороченный. Однако идеальная кошка-экзот должна
+производить впечатление тяжелого, крупного, хорошо сбалансированного животного
+с приятным, «сладким» выражением на мордочке и мягкими, округлыми линиями всего
+тела. Роскошный, «плюшевый» мех смягчает линии тела и подчеркивает массивность
+костяка.
+</p>
+<p><strong></strong><strong>Голова: </strong>Массивная, круглой формы, с очень широким
+черепом и закругленным лбом. Мордочка короткая, широкая, округлой формы с очень
+круглыми, плотными и полными щеками, за счет чего кошка имеет своеобразное
+«выражение лица». Широкие и мощные челюсти. Нос очень короткий,
+широкий, с резким «стопом».
+	<strong>
+</strong>Стандарт FIFe: широкие,
+облегчающие доступ воздуха ноздри. Подбородок крепкий, сильный.
+</p>
+<p><strong>Глаза: </strong>Большие или среднего размера, круглые,
+открытые, выпуклые. Расставлены широко. Цвет радужной оболочки гармонично
+сочетается с окрасом шерсти: чаще всего встречается золотисто-медный, при
+окрасе шиншилла и золотистом – зеленый; у белых кошек и колорпойнтов - голубой.
+</p>
+<p><strong>Уши: </strong>Небольшие, широкие и не слишком раскрытые у
+основания, закругленные на кончиках. Расставлены широко, немного наклонены
+вперед. Внутри длинные, довольно густые волоски.
+</p>
+<p><strong>Шея: </strong>Короткая, толстая, с хорошо развитой мускулатурой.
+</p>
+<p><strong></strong>
+</p>
+<p><strong>Тело: </strong>Крупное или среднего размера, коренастое,
+приземистое, с крепким мощным костяком и хорошо развитой мускулатурой. Грудь и
+плечи широкие.
+</p>
+<p><strong></strong>
+</p>
+<p><strong>Ноги: </strong>Короткие, толстые, прямые, довольно сильные.
+</p>
+<p><strong>Лапы: </strong>Большие, массивные, сильные, круглой формы.
+Стандарт предписывает наличие пучков волос между пальцами.
+</p>
+<p><strong>Хвост: </strong>Короткий, опушен густой шерстью, с
+закругленным кончиком. Постав низкий.
+</p>
+<p><strong>Шерсть:</strong>
+	Короткая,
+однако несколько длиннее обычного. Гутой и пушистый мех, неплотно прилегающий к
+телу.
+</p>
+<p><strong>Окрасы:</strong> Любые как по виду, так и по цвету. Допускаются все
+окрасы, характерные для персидской породы.
+</p>
+<p><strong>Недостатки:</strong> Неправильная форма головы:
+слишком длинная или слишком короткая; слишком длинный или «римский» нос;
+тонкая, короткая мордочка; недостаточно большие или раскосые глаза; «выцветший»,
+бледный цвет радужной оболочки; чрезмерно большие уши; узкие тело и грудь;
+длинное тело; длинные, тонкие ноги; лапы овальной формы; длинный хвост.
+</p>
+<p><strong>Дисквалификация на выставках: </strong>Пятна на шерсти однотонных
+окрасов.
+</p>
+<p><strong>Дисквалификация
+всех пород: 
+	</strong>Ампутированные когти, крипторхизм, глухота.
+</p>
+<h3>Особенности
+и характер 
+</h3>
+<p>Экзот - более активная кошка, чем персидская, игривая и любопытная.
+Вместе с тем, экзот отличается мирным нравом, уравновешенностью, прекрасно
+уживается с детьми, другими кошками, а также собаками. Привязывается к хозяину,
+очень любит ласку, терпеть не может находиться в одиночестве. Молчалива. Позднее
+взросление: только к 3 годам жизни. Половая зрелость наступает даже позже этого
+срока.
+</p>
+<h3>Содержание
+и уход
+</h3>
+<p>Достаточно расчесывать шерсть экзота раз в неделю, металлической расческой
+с закругленными зубцами, или щеткой из натуральной щетины, в направлении «по
+шерсти». В период линьки следует делать это ежедневно. Можно использовать
+чистящую пудру, но ее необходимо тщательно вычесывать. Необходимо ежедневно
+чистить глазки, так как они часто слезятся. Следует быть внимательным к
+состоянию носа кошки, так как из-за укороченного носа экзоты могут быть
+подвержены простудным заболеваниям.
+</p>
+<h3>Кормление</h3>
+<p>Сбалансированный
+рацион, только профессиональные корма высокого качества.
+</p>
+<h3>Селекция</h3>
+<p><strong>Допустимые скрещивания: </strong>Персидская
+</p>
+<p><strong>Породы, созданные при участии Экзотических
+короткошерстных
+	</strong>
+</p>
+<h3>Другие
+и устаревшие названия породы
+</h3>
+<p>Персидская короткошерстная
+</p>
+<h3>Неофициальное
+сленговое название породы на русском языке
+</h3>
+<p>экзот
+</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/4">Oxi Sable</a>, Ульяновск
+                                                </li>
+<li>
+<a href="/catteries/55">Mellowcherry</a>, Казань
+                                                </li>
+<li>
+<a href="/catteries/67">Sigel</a>, Самара
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=54">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

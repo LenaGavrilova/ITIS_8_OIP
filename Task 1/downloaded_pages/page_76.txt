@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Сноу-шу порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, SNO, Сноу-шу,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Сноу-шу
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Сноу-шу порода кошек фото" src="/styles/public/images/default_avatars/cat.png">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Сноу-шу
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>SNO</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                США
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей с детьми.</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История породы</h3><p>Название «Сноу-шу» переводят по-разному - от «снежная туфелька» до «снегоступ». Такое наименование породы отражает особенность окраса этих короткошерстных колорпойнтов - наличие симметричных белых отметин на лапках. Порода сноу-шу возникла в 50-х годах прошлого столетия благодаря попыткам заводчиков получить белолапую сиамскую кошку со спокойным, мягким характером. В 60-е американка Дороти Хиндс-Дагерти, заводчик сиамских кошек из Филадельфии, решила активно взяться за выведение новой породы, она же дала ей и оригинальное название «Сноу-шу» (Белая туфелька). Позже она сумела увлечь своей идеей Вики Оландер, владелицу питомника Furr-Lo в Норфолке. И уже усилиями Вики новая порода была признана и зарегистрирована как экспериментальная в CFF и ACA. Г-же Оландер также принадлежит заслуга в упорядочении стандартов, которые она сделала более ясными и точными. К 1982 году порода была официально зарегистрирована для участия в выставках с возможностью получения звания Чемпиона CFF. Вскоре TICA и ACFA признали новую породу как экспериментальную. Через семь лет стандарты породы вновь были пересмотрены, ACFA допустила сноу-шу к участию в борьбе за звание Чемпиона, и в мае 1990 года впервые кошка породы сноу-шу получила звание Чемпиона. <br/> Сегодня сноу-шу признана почти всеми международными ассоциациями любителей кошек, с разницей в количестве признанных окрасов.
+</p><h3>Внешний вид</h3><p>Сноу-шу – хорошо развитая крепкая мускулистая очень подвижная и гибкая кошка, пятнистая, с белыми отметинами на мордочке, груди, животе и лапах, достаточно крупного или среднего размера, с мускулистым телом, пропорционально сложенная. Телосложение элегантное, умеренно восточное, близкое к старотипному сиамскому. Производит впечатление крепкого, энергичного животного. Вес от 2,5 до 5,5 кг, выглядит, как правило, легче фактического веса. Характерными признаками породы являются выразительные и яркие блестящие голубые глаза, а также особый рисунок на мордочке, так называемая «маска одинокого странника». Однако главным породообразующим признаком считаются белые отметины в виде треугольника на морде, «перчаток» на передних и «сапожек» на задних конечностях. Из-за них порода сноу-шу получила своё второе название – «Белоножка».
+</p><p><strong>Голова:</strong> Слегка округлая, одинаковая по ширине и длине, среднего размера, хороших пропорций в сочетании с телом. Скулы высокие. Нос средней длины, не слишком широкий и не заостренный. В профиль выражен легкий изгиб на переходе от почти плоского лба к носу. Мордочка средней длины, мягко очерчена, подбородок сильный.
+</p><p><strong>Глаза:</strong> Большие, в форме грецкого ореха. Длина глаза больше, чем его ширина. Цвет - блестящий ярко-голубой, контрастирующий с общим окрасом животного.
+</p><p><strong>Уши:</strong> Средние по размеру, с мягко закругленными кончиками, широкие у основания. Чуть наклонены вперед.
+</p><p><strong>Шея:</strong> Средней длины, пропорциональна по отношению к голове и телу.
+</p><p><strong>Тело:</strong> Прямоугольной формы, среднего размера, несколько выражен половой диморфизм: кошки могут быть мельче котов, но при этом они не должны выглядеть хрупкими и слишком изнеженными.
+</p><p><strong>Н</strong><strong>оги</strong>: Достаточно длинные, пропорциональные телу.
+</p><p><strong>Лапы:</strong> Среднего размера, овальные. По пять пальцев на передних и четыре на задних лапках.
+</p><p><strong>Хвост:</strong> Тонкий у основания, постепенно еще более сужающийся к кончику. Средней длины, не меньше, чем длина тела, измеряется по линии задних лап.
+</p><p><strong>Шерсть:</strong> Короткая, тонкая, плотно прилегающая, без подшерстка.
+</p><p><strong>Окрасы:</strong> Сил пойнт, Блю пойнт. Должен наблюдаться четкий контраст между окрасом туловища, цветом пятен и участков с белым рисунком. Подбородок должен быть белым или пятнистым. Допускается белый нагрудник или воротник вокруг шеи. Нос может быть белым, в точках, розовым или пятнистым. Цвет шерсти должен быть того же оттенка, что и штриховки на плечах, боках и спине, более светлая штриховка допускается в районе груди и живота. Белый цвет на верхней части туловища, голове, в районе горла и вверху на внутренних частях бедер, как правило, присутствует, и за это животное не штрафуется на выставках. Более взрослые кошки могут быть более темного окраса, так как с возрастом кошки вообще темнеют. Обязательно должен быть виден контраст между окрасом туловища и отметинами. Котята, как правило, бывают более светлых окрасов. <br/> Маска расположена на всей мордочке (исключая участки с белым рисунком) и может продолжаться до ушек. Предпочтительный рисунок на мордочке – белый «намордник» в виде перевернутой V, идущей ото рта к бакенбардам и надбровным дугам. Предпочтительный рисунок на ногах – это четкие белые «сапожки» от лодыжки на передних ногах и до коленного сгиба на задних. Обязательно, чтобы белые пятна на обеих передних ногах были одной высоты, на задних – так же, то есть, должны быть две четкие симметричные пары. Нос и подушечки лап могут быть розовыми или пойнт, допустима и комбинация из этих цветов.
+</p><p><strong>Недостатки:</strong> Слишком длинная голова; маленькие закругленные уши; маленькие, округлые, косо поставленные глаза; чересчур вытянутое, хрупкое или наоборот, слишком короткое и/или массивное тело; тонкий хвост; кривые ноги; узкая кость; изломанный кончик хвоста.
+</p><p><strong>Дисквалификация на выставках: </strong>Длинная шерсть; не голубые глаза; белые пятна на темных отметинах; отсутствие одного или нескольких «носочков».<strong></strong>
+</p><p><strong>Дисквалификация всех пород: </strong>Ампутированные когти, крипторхизм, глухота.
+</p><h3>Особенности и характер </h3><p>Сноу-шу достаточно сложная для разведения порода кошек. Базовый рисунок является рецессивным, и будущую палитру окраса животного определяют сразу несколько генетических факторов. Большое количество проблем, возникающее из-за необходимости поддерживать строгие контуры рисунка, вызвало целую волну скрещиваний сноу-шу с другими породами. В большинстве случаев для скрещивания берут Сиамов старого типа, с круглой головой. Собственно, подавляющее большинство сноу-шу появилось в результате скрещивания старотипных Сиамов с домашними короткошерстными или помесными кошками, обладающими «правильной» расцветкой. Заводчики до сих пор борются с проблемами в рисунке, устраняя всевозможные пятна и «неправильные» окрасы в линиях Сноу-шу. По статистике, рождается около 25% котят совсем без белого и 25% котят со слишком большим количеством белого в окрасе, но количество кошек с «правильным» рисунком неизменно растет.
+</p><p>Что касается характера, то сноу-шу - идеальный компаньон. Дружелюбная, нежная, энергичная, умная кошка. Очень сообразительна, обладает нежным, приятным, мелодичным голосом. Прекрасно уживается со всеми членами семьи и другими домашними питомцами. Любит общество: обычно устраиваются там, где собираются все члены семьи. Ей нравится льющаяся вода, и иногда она может играть с ней или ловить брызги. Очень разговорчива: будет рассказывать вернувшемуся хозяину, как прошел ее день, когда вы вернетесь, мурлыкать что-то в ответ на слова человека, выговаривать ему, если чем-то недовольна; громко протяжно завывать или истошно орать, требуя еду.
+</p><h3>Продолжительность жизни: 9-15 лет, средний срок жизни – 12 лет
+<p> Содержание и уход
+</p></h3><p>Сноу-шу получили от американских короткошерстных крепкое здоровье и уравновешенный темперамент. Однако некоторые кровные линии являются носителями дефектов хвостов, унаследованных от сиамских предков. В настоящее время все животные - носители этого порока исключены из программы разведения. Шерсть сноу-шу проста в уходе: достаточно простого вычесывания отмерших волосков мягкой щеткой или специальной рукавицей. Будучи любителями поплавать, эти кошки с удовольствием принимают ванны.
+</p><h3>Кормление</h3><p>Необходим сбалансированный рацион.
+</p><h3>Селекция</h3><p><strong>Допустимые скрещивания: </strong>Американские короткошерстные
+</p><p><strong>Породы, созданные при участии Сноу-шу: </strong>
+</p><h3>Другие и устаревшие названия породы</h3><p>«Белоножка»
+</p><p>Сноу-Шу
+</p><p>Сноу шу.
+</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/3394">Cacholong</a>, Екатеринбург
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=71">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Ориентальная короткошерстная порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, OSH, Ориентальная короткошерстная,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Ориентальная короткошерстная
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Ориентальная короткошерстная порода кошек фото" src="https://s3.webestudio.ru/topcat/cat_images/7/4/f/74fe8cb10edb56a8c071c7727aff21cf.jpg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Ориентальная короткошерстная
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>OSH</dd>
+<dt>Группа:</dt>
+<dd>Сиамо-ориентальная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Великобритания
+
+                                                    ,
+                                                Таиланд
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей с маленькими детьми, большую часть времени находящихся дома</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История породы</h3><p>Ориентальная короткошерстная – «сестра по крови» сиамской кошки. По сути, это одна и та же порода, отличающаяся только окрасом и цветом глаз. Неслучайно некоторые мировые фелинологические системы, включая WCF, относят и тех и других к специальной группе – сиамо-ориентальной. Ничего удивительного: у сиамов и ориенталов общие предки – кошки, в конце XIX столетия вывезенные из Таиланда в Англию. Упоминание о полностью окрашенных (не колор-пойнт) сиамах встречается уже в 1903 году, в очередном издании Британики (Encyclopaedia Britannica). Однако споры о праве однотонных восточных кошек на существование, а главное – участие в выставках, продолжались еще добрых два десятка лет. И окончились они, увы, приговором. В 1923 году Британский клуб любителей сиамских кошек (Siamese Cat Club of Britain) с сожалением известил фелинологическую общественность о своем нежелании развивать и поддерживать никаких иных разновидностей породы, кроме «голубоглазых гималайского окраса» (с). Дальнейшая судьба ориенталов развивалась «окольными путями» - через создание породных вариаций, ныне считающихся самостоятельными породами. Речь идет о Гавана браун - восточных кошках шоколадного окраса, и Форинвайт – белых сиамах. После того как форинвайты в 1974, а гаваны в 1978 году получили окончательно утвержденные стандарты, американские заводчики решили, что иные однотонные окрасы ничем не хуже, и также имеют хорошие перспективы для развития. Первый предварительный стандарт будущей ориентальной породы разрабатывался еще в 1958 году, но в конце 70-х была развернута целая кампания за их признание. И она оказалась успешной: в 1977 году порода была официально признана. Еще два десятка лет потребовалось на то, чтобы присвоить законный статус ориенталам биколорных окрасов.
+</p><h3>Внешний вид</h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/c2/fc/3f/db/5d/69/3c/3b/eb/01/f1/9c/b2/6d/bf/f1/5cc7324cbb49496a6ede023dad2759b4.jpeg" style="width: 225px; float: right; margin: 0px 0px 10px 10px;"/>
+</p><p>Изящная, утонченная кошка с элегантным телом, длинными ногами и хвостом, красивой удлиненной мордочкой с большими ушами и большими, выразительными, «восточного разреза» глазами. Ее стандарт очень близок к стандарту сиамской породы, только слово «средний» в описании головы и корпуса заменено на «длинный».
+</p><p><strong>Голова: </strong>В<strong></strong> форме удлиненного сужающегося клина. Череп плоский, без заметных выпуклостей в области глаз и перехода ото лба к носу. Мордочка острая. Профиль ровный и прямой, без перехода ко лбу и «римского профиля». Нос (кончик) образует прямую вертикальную линию с кончиком подбородка. Подбородок средних размеров, крепкий, не скошенный и не массивный. Правильный прикус.
+</p><p><strong>Глаза: </strong>Миндалевидной формы, средних размеров, косо посажены и широко – расстояние между ними равно ширине глаза. Не глубоко и не на выкате. Косоглазие недопустимо. Цвет – зеленый, без вкраплений других цветов.
+</p><p><strong>Уши: </strong>Очень большие, низко и широко посаженные, они продолжают наружной частью линию скул (без пинча), образуя практически равносторонний треугольник.
+</p><p><strong>Шея</strong>: Длинная и стройная.
+</p><p><strong>Тело: </strong>Удлинённое, «трубообразное», стройное, с тонким костяком, но крепкой мускулатурой. Плечи немного шире, чем бёдра, живот подтянут.
+</p><p><strong>Ноги: </strong>Длинные, стройные, мускулистые, задние выше передних, что, однако, не нарушает общей пропорциональности сложения<strong>.</strong>
+</p><p><strong>Лапы: </strong>Маленькие, изящные, овальной формы.<strong></strong>
+</p><p><strong>Хвост: </strong>Очень длинный, тонкий в основании, сужающийся к заостренному кончику.
+</p><p><strong>Шерсть:</strong> Короткая, гладкая, прилегающая, блестящая, с эффектом атласа, без подшерстка, что еще более подчеркивает грацию этой кошки.
+</p><p><strong>Окрасы:</strong> Могут быть различными как по цвету (эбони, лиловый, голубой, циннамон, фавн, красный, кремовый), и виду (сплошной, затемненный, дымчатый, черепаховый, биколор, табби), так и по рисунку (мраморный, пятнистый, тигровый, тикированный). Цвет глаз при любом окрасе остается только зеленым!
+</p><p><strong>Недостатки, причины дисквалификации и анатомические пороки</strong>
+</p><p><strong>Недостатки:</strong> Слабый подбородок; неправильный прикус; слишком длинная; не прилегающая, грубой текстуры шерсть; не соответствующий стандарту или не сплошной цвет глаз.
+</p><p><strong>Дисквалификация на выставках: </strong>Не предусмотренные стандартом белые пятна; дефекты хвоста, любые выраженные признаки заболевания; слабые задние конечности; не зеленый цвет глаз; косоглазие; некорректное количество пальцев на лапах; перекус/недокус челюсти.<span class="redactor-invisible-space"></span>
+</p><p><strong>Дисквалификация всех пород: </strong>Ампутированные когти, крипторхизм, глухота. Любые костные деформации.
+</p><p><img alt="" src="http://s3.webestudio.ru/topcat/editor_images/20/56/83/23/db/20/5b/04/46/14/27/35/c5/36/0a/f1/67f435db107e88a09b975fc5a0a4b0c4.jpeg" style="width: 354px; float: right; margin: 0px 0px 10px 10px;"/>
+</p><h3>Особенности и характер</h3><p>Ориентальная кошка невероятно обаятельна. Она очень привязана к человеку, бесконечно предана хозяину, совершенно не выносит одиночества, постоянно требует к себе внимания. Из-за этого данную породу, как правило, рекомендуют держать только в семье, кто-то из членов которой постоянно находится дома. Очень эмоциональна, не скрывает своих чувств, выражая их мяуканьем и громким мурлыканьем. Существующее мнение о неприятном голосе сиамо-ориентальных кошек скорее следует считать особенностью отдельно взятых экземпляров животного. Интеллектуальна, общительна даже с незнакомыми, не проявляя испуга или агрессии к гостям дома. Очень игрива и активна до самой старости.
+</p><h3>Содержание и уход</h3><p>Ориентальные короткошерстные кошки не нуждаются в особенном уходе за шерстью, достаточно периодически расчесывать ее резиновой массажной щеткой или специальными перчатками, а затем протирать кусочком влажной махровой ткани или замши. Купать ориентала нужно нечасто, только при сильном загрязнении шерсти. Ориентальные кошки очень чувствительны к холоду, поэтому в помещении, где они живут, должно быть стабильно тепло.
+</p><h3>Кормление</h3><p><span style="font-weight: normal;">В кормлении не привер</span>едливы, однако могут быть склонны к излишнему весу, поэтому корм должен быть сбалансированным. Для сохранения качества шерсти
+</p><p><span style="font-weight: normal;">ориентальных кошек необходимо постоянно добавлять к их корму жиры, например, растопленное сливочное масло: 1-4 капли на порцию корма.</span>
+</p><h3><strong></strong>Другие и устаревшие названия породы<img alt="" src="http://s3.webestudio.ru/topcat/editor_images/3e/c8/d5/ba/dc/79/bc/8a/69/17/5e/34/84/e7/06/36/92ce0fb7874a5c5738aaa5ed46113ef2.jpeg"/></h3><p>Восточная короткошерстная;
+</p><p>Иностранная короткошерстная;
+</p><p>Кошачья борзая;
+</p><p>Кошачий курцхаар.
+</p><h3>Неофициальные (сленговые) названия</h3><p>ориентал;
+</p><p>орик.
+</p><p><em>Обозначения породы: </em><em>OSH; </em><em>ORS; </em><em>ORIN; </em><em>OS; </em><em>OKH. Признана </em><em>ACF, </em><em>ACFA, </em><em>ASSOLUX, </em><em>CFA, </em><em>CCCA, </em><em>CFF, </em><em>FIFe, </em><em>GCCF, </em><em>ICF, </em><em>NZCF, </em><em>PCA, </em><em>TICA, </em><em>WCF, </em><em>WFF. </em>
+</p><p><strong>Допустимые скрещивания:</strong> нет
+</p><p><strong>Породы, созданные при участии ориентальных короткошерстных:</strong> петерболд
+</p><h3>Ссылки:</h3><p><a class="external" href="http://ru.top-cat.org/newsletters/12a68ad2-c2fa-9271-15d4-bb50ab5670fa" rel="nofollow">Журнал TopCat, посвященный породе</a>
+</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший в породе
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/504890" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/7/4/f/74fe8cb10edb56a8c071c7727aff21cf.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/504890" target="_blank">
+                                                    ALF *RU Fenechka
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#OSH">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший юниор
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/504890" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/7/4/f/74fe8cb10edb56a8c071c7727aff21cf.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/504890" target="_blank">
+                                                    ALF *RU Fenechka
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#OSH">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший кастрат
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/221265" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/c/d/6/cd61b0147efb21b4c7ac37a95f3d04f2.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/221265" target="_blank">
+                                                    Faraon-Show Icon
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#OSH">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/9">Dragoste</a>, Екатеринбург
+                                                </li>
+<li>
+<a href="/catteries/13">Jubatus</a>, Новочебоксарск
+                                                </li>
+<li>
+<a href="/catteries/36">Bastet Ural</a>, Екатеринбург
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=78">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

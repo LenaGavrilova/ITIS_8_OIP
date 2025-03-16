@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Австралийская бомбейская порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, ABM, Австралийская бомбейская,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Австралийская бомбейская
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Австралийская бомбейская порода кошек фото" src="https://s3.webestudio.ru/topcat/breed_article_images/d/c/d/dcd6ec85e5a0abfefc45a9896e661352.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Австралийская бомбейская
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>ABM</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Австралия
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>Семьям, одиноким людям, людям приклонного возраста</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История породы</h3><p>Даже на первый взгляд нетрудно догадаться, что у кошек этой породы есть прообраз: шикарная героиня Редьярда Киплинга из сказок о Маугли. Черная пантера Багира, конечно же! Действительно, черное «одеяние» Бомбейской кошки придает ей абсолютное сходство с пантерой в миниатюре. Да и само название эта порода получила в честь своих предков – диких пантер, обитавших в Индии (в этой стране, в отличие от Европы, считается, что черная кошка приносит счастье и является знамением радости).</p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/6b/26/48/b0/21/c3/bb/0d/a8/e7/4d/d2/1d/34/05/e2/3d94b855fecca7b32b1f3f8ad705bf69.jpeg" style="width: 254px; float: right; margin: 0px 0px 10px 10px;"/></p><p>И если в США Бомбейскую породу получили путем скрещивания кошек пород: Бурманская и Американская короткошерстная (черного окраса) в 1958году, то в Австралии сравнительно недавно, в 1997 году, кошки породы Бомбей были получены от Бурманской и Бритаской короткошерстной пород (черного окраса). В этом и состоит отличие этих пород. Основательницей породы Австралийская бомбейская можно считать Хизер Браун (Heather Brown), которая в 1997 году представила в Cat Control Council of Australia программу по выведению Бомбейской породы, используя при этом Бурманскую и Британскую короткошерстную породы. <br/>Хизер Браун обосновала свою программу тем, что хотела вывести здоровых, лишенных наследственных генетических заболеваний кошек, которые были обнаружены в некоторых племенных линиях Бомбейской породы в США.</p><h3>Внешний вид</h3><p>Черная мерцающая шерсть и янтарно-желтые глаза - вот что бросается в глаза при первом знакомстве в породой. Бомбеи - это кошки средних размеров (от 3 до 5кг), достаточно компактные, но при этом грациозные. Из-за крепкой, хорошо развитой мускулатуры, они весят больше, чем можно было бы предположить по их внешнему виду. Округлые очертания головы, глаз, широкий постав ушей с округлыми кончиками достались им в наследство от британских "предков".</p><p><strong>Голова: </strong> Округлая, без плоских поверхностей и резких "углов". Наполненные скулы, широкая, округлая мордочка, которая гармонирует с общим контуром головы. Спинка носа широкая, нос достаточно короткий с видимым углублением по спинке носа между глаз; без "стопа". Крепкий подбородок. Правильный прикус. </p><p><strong>Глаза: </strong>Большие, широко поставленные. Сверкающие, живые, цвет – от медного до золотистого, причем, медный предпочтительнее. Постав слегка раскосый. Форма не ровно круглая и не миндалевидная. Верхнее веко имеет мягко округлую линию, в то время как нижнее более скруглено.</p><p><strong>Уши: </strong>Средних размеров, широкие у основания, широко расставленные, наклоненные вперед – «настороженные», кончики слегка закруглены. Внутри ушной раковины возможны "щеточки" (шерсть у основания уха).</p><p><strong>Шея: </strong>Толстая, короткая.</p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/72/0f/7f/5d/69/05/74/bb/9d/96/a2/41/9a/cf/35/8f/13178a5f0190b8d0fcc302c5b5e46c9b.jpeg" style="width: 320px; float: right; margin: 0px 0px 10px 10px;"/></p><p><strong>Тело: </strong>Среднего размера, плотное, не короткое (кобби) и не удлиненное. Плечи мощные, грудь широкая, хорошо развитая. Костяк массивный, мускулатура крепкая. Ровная, прямая спина от плечевого пояса до таза.</p><p><strong>Ноги: </strong>Средней длины, пропорциональные туловищу, крепкие. Кость широкая, с сильной мускулатурой.</p><p><strong>Лапы: </strong>Немного меньше среднего размера, круглые.</p><p><strong>Хвост: </strong>Средней длины, достаточно толстый, прямой, равномерно, почти незаметно суживающийся к округлому кончику. Пропорционален корпусу.</p><p><strong>Шерсть: </strong>Короткая, блестящая, прилегающая к телу настолько плотно, что кажется лакированной кожей. Является главной отличительной чертой данной породы. По своей текстуре она напоминает атлас. Подшерсток при этом практически отсутствует.</p><p><strong>Окрасы: </strong>Сплошного иссиня-черного цвета, кожа, мочка носа и подушечки лап также должны иметь черный цвет.</p><p><strong>Недостатки: </strong>Плоский череп, закругленные глаза, слишком тонкие костяк и хвост, восточный тип телосложения или, напротив, слишком тяжелый тип телосложения; слишком густая или отстающая от тела шерсть. Белые пятна или волоски (TICA не допускает наличия белых пятен или даже отдельных волосков). Слишком сильный, "заэкзоченный" стоп, слишком "навыкате" глаза.</p><p><strong>Дисквалификация на выставках: </strong>Неправильный прикус, зеленые глаза, не черные мочка носа и подушечки лап.</p><p><strong>Дисквалификация всех пород: </strong>Ампутированные когти, крипторхизм, глухота.</p><h3>Содержание и уход</h3><p>Бомбеи - одна из самых легких в уходе пород. Короткая, атласная шерсть и полное отсутствие подшерстка у взрослых кошек делает проблему разбросанной шерсти неактуальной даже во время линьки. Без особой необходимости не стоит мыть и чесать бомбеев: сами по себе они необычайно чистоплотны и вполне могут обойтись без помощи хозяина. Если же необходимость вымыть животное все же возникнет, следует применять для этого специальный шампунь для черной шерсти с кондиционером. После купания достаточно промокнуть кошку полотенцем и оставить в теплом месте для высыхания.Эти кошки любят, когда их расчесывают, да и прикасаться к их шерстке – настоящее удовольствие. Однако часто расчесывать бомбея не нужно, достаточно делать это раз в неделю, поглаживая руками, шерстяной тряпочкой или кусочком замши.</p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/01/1a/9f/63/9e/50/2f/6f/a5/74/a9/8a/47/2c/6b/80/91199fa0ccf9aae7062f6152a67238d7.jpeg" style="width: 229px; float: right; margin: 0px 0px 10px 10px;"/></p><h3>Кормление</h3><p>Бомбейские кошки обычно отличаются хорошим аппетитом, особенно котята. В то время как большинство кошек этой породы могут хорошо кушать и не набирать лишний вес, некоторым из них требуется низкокалорийная диета. Чтобы усилить блеск шерсти, в рацион следует включать небольшое количество пивных дрожжей.</p><h3>Селекция</h3><p><strong>Допустимые скрещивания: </strong>Бурманская (европейская) кошка соболиного окраса. Бомбейская (американская). Британская короткошерстная черного и лилового окраса.</p><p> <strong>Породы, созданные при участии Бомбейских кошек: </strong>В настоящее время не выявлены. </p><h3>Другие и устаревшие названия породы </h3><p> В настоящее время не выявлены.</p><h3>Неофициальные («сленговые») названия породы</h3>Бомбей.Бомбеец.
+                        </div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/6814">LegendBri</a>, Cần Thơ
+                                                </li>
+<li>
+<a href="/catteries/7466">Your Highness *TH</a>, Samut Prakan
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=116">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Хайленд фолд порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, SFL, Хайленд фолд,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Хайленд фолд
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Хайленд фолд порода кошек фото" src="https://s3.webestudio.ru/topcat/cat_images/e/8/5/e85299d4c24e765a5f1c44a3afb88cb6.jpg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Хайленд фолд
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>SFL</dd>
+<dt>Группа:</dt>
+<dd>Длинношерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                США
+
+                                                    ,
+                                                Шотландия
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей с детьми, часто отсутствующих дома</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы
+</h3><p>Эта порода отличается необычными сложенными, «висячими» ушками,
+придающим этим кошкам как бы всегда изумленный вид. Babyface - называют его профессионалы. О кошках с такими ушками,
+проживающих в Китае, известно давно. Эта особенность – результат проявления генной
+мутации. Первое письменное упоминание о белых
+длинношерстных кошках со сложенными (складчатыми) ушками датируется 1796 годом:
+о них упоминает «Всемирный журнал знаний и развлечений». Еще через 100 лет английский моряк, имени которого история не
+сохранила, привез такую кошку в Европу. Таким образом, ген, ответственный за
+сложенность уха, присутствует в крови домашних кошек как минимум 200 лет. А вот
+следующее документальное свидетельство существования вислоушек относится только
+к 1938 году, когда подобное животное было найдено вновь. Поначалу считалось,
+что редкая мутация сложенного уха характерна только для длинношерстных кошек
+белого окраса. Впрочем, кошка, положившая начало современной истории породы, тоже
+была белой. Это произошло в
+	<strong> </strong>1961 году в Шотландии.
+</p><p><img alt="" src="http://s3.webestudio.ru/topcat/editor_images/53/e6/32/f6/0c/62/37/79/dc/dc/67/35/71/3f/7a/97/7728b71f8f60b558d26bdafdc5528bac.jpeg" style="width: 329px; float: right; margin: 0px 0px 10px 10px;"/>
+</p><p>Родоначальницей породы
+считается белая кошечка Сьюзи (Susie), появившаяся на свет
+	<strong> </strong>на
+ферме семьи Мак Рае (McRae)
+около Coupar Angus в Тайсид (Tayside).
+	<strong> </strong>Котенок, родившийся от Сьюзи – тоже белая вислоухая
+кошечка по имени Снук – была скрещена с британским короткошерстным котом. В
+результате родился котенок Сноуболл, очевидно, получивший свое имя из-за белого
+цвета шерсти и «круглого» телосложения. Важно, что он унаследовал от матери не
+только цвет, но и загнутость ушей – это говорит о появлении новой породы.
+Первыми ее разведением занялись шотландцы Уильям и Мэри Росс – кстати, именно
+они заметили у своих соседей Мак Рае необычную кошку. В 1971 году миссис Росс
+отправила несколько выращенных ею скоттиш-фолдов в США, известному специалисту
+по генетике Нелли Тодд из штата Массачусетс. Это стало необходимым, поскольку
+внутрипородные скрещивания, как правило, приводили к серьезным проблемам:
+аномалиям в развитии скелета, особенно конечностей и суставов. Эта проблема
+была решена лишь после того, как под руководством Нелли Тодд были проведены
+целенаправленные скрещивания с британскими короткошерстными, короткошерстными
+американскими и экзотическими кошками.
+</p><p>В Америке шотландская вислоухая сразу стала
+пользоваться популярностью. Породу признали CFA и TICA. А вот в Европе первая
+кошка «обновленной» породы родилась лишь в 1982 году. Некоторые европейские
+системы до сих пор отказываются ее признать. Хайленд фолд (Скоттиш фолд длинношерстный) –
+результат дальнейшей селекционной работы, проводимой в США. Скрестив шотландцев
+с кошками персидской породы, селекционеры и получили длинношерстную
+разновидность породы – на этот раз появление вислоухих кошек с длинной шерстью
+стало результатом культурного разведения.
+</p><h3>Внешний
+вид
+</h3><p>Кошка от среднего до крупного размера, вес – от 2,5 до 6 кг, коренастая,
+невысокая. Ее отличают довольно необычные округлые формы и, конечно, висячие
+ушки, являющиеся характерным признаком породы, а также длинная или полудлинная шерсть.
+</p><p><strong>Голова: </strong>Круглая, с выпуклым лбом и закругленными
+щеками. Взрослые коты могут иметь обвислые щеки. Мордочка округленная, мягких
+очертаний. Подушечки вибрисс круглые. Нос широкий и короткий, возможен нерезкий
+«стоп». Подбородок крепкий.
+</p><p><img alt="" src="http://s3.webestudio.ru/topcat/editor_images/eb/ba/94/24/03/6f/7d/ea/ab/27/db/23/7a/30/4e/0d/1954691f6e56bec97262f15bfaedb01e.jpeg" style="width: 210px; float: right; margin: 0px 0px 10px 10px;"/>
+</p><p><strong>Глаза: </strong>Большие, круглой формы, расставлены довольно
+широко. Цвет должен гармонировать с окрасом шерсти.
+</p><p><strong>Уши:</strong> Среднего размера, со слегка заостренными кончиками,  умеренной ширины в основании. Расположены на голове так, что расстояние  между ушами не меньше высоты уха. Слегка наклонены вперед.
+</p><p><strong>Шея: </strong>Короткая, толстая, мускулистая.
+</p><p><strong>Тело:</strong><strong></strong> Среднего размера, достаточно растянутых пропорций, ровное от плеч до таза,  мощное, мускулистое, с хорошо развитыми плечами и грудной клеткой.
+</p><p><strong></strong>
+</p><p><strong>Ноги: </strong>Средней длины и толщины, пропорциональны
+длине тела. Костяк средний. Мускулатура хорошо развита.
+</p><p><strong>Лапы: </strong>Округлые, компактные, среднего размера.
+</p><p><strong>Хвост: </strong>Длинный. У основания широкий, постепенно суживающийся к закругленному
+кончику, очень подвижный, гибкий. Хорошо опушен.
+</p><p><strong>Шерсть:</strong> Шелковистая, с необильным подшерстком, с хорошо развитым "воротником" и "штанишками".
+</p><p><strong>Окрасы:</strong> Любой.
+</p><p><strong>Недостатки:</strong> Слишком
+тонкая или заостренная голова; плоский лоб, ярко выраженный «стоп».
+</p><p><strong>Дисквалификация на выставках: </strong>Короткий
+негибкий хвост.
+</p><p><strong>Дисквалификация
+всех пород: 
+	</strong>Ампутированные когти, крипторхизм, глухота.
+</p><h3>Особенности
+и характер 
+</h3><p>Этих кошек отличает миролюбивый, спокойный и ласковый
+характер. Она не стремится к лидерству, поэтому неплохо ладит с другими
+кошками, а также собаками. Игривая, подвижная, замечательно общается с детьми.
+Любит общество, предпочитает жить в семье. К хозяевам и посторонним людям относится
+одинаково доброжелательно. Ведет себя скромно, голос тихий. Крепкая,
+выносливая, отличная охотница.
+</p><p><img alt="" src="http://s3.webestudio.ru/topcat/editor_images/7e/96/d4/17/fe/97/40/72/60/81/31/f6/a6/a0/ba/00/aa876dd9fc9a94c63ef3d57384a10d82.jpeg" style="width: 315px; float: right; margin: 0px 0px 10px 10px;"/>
+</p><h3>Содержание
+и уход
+</h3><p>В обычное время достаточно расчесывать скоттиш фолда раз в
+неделю, во время линьки – ежедневно. Необходимо постоянно следить за состоянием
+ушек. Во избежание аномалий скелета у котят, нельзя вязать скоттиш фолдов друг
+с другом. Лучше выбирать для вязки кошек американской или британ
+</p><p>ской
+короткошерстной пород.
+</p><p><strong></strong>
+</p><h3>Кормление</h3><p>Сбалансированный
+рацион
+</p><h3>Селекция</h3><p><strong>Допустимые скрещивания: </strong>
+</p><p><strong>Породы, созданные при участии Хайленд фолдов: </strong><strong></strong>
+</p><h3>Другие и устаревшие названия породы</h3><p><strong></strong>Скоттиш фолд длинношерстный<strong></strong>
+</p><h3><strong>Неофициальное (сленговое) название породы на русском
+языке 
+</strong></h3><p>хайленд
+</p><h3>Ссылки:</h3><p><a class="external" href="http://ru.top-cat.org/newsletters/5d8ad0e5-39c1-3f18-9c89-a722ff3adf86" rel="nofollow">Журнал TopCat, посвященный породе</a>
+</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший в породе
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/434425" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/e/8/5/e85299d4c24e765a5f1c44a3afb88cb6.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/434425" target="_blank">
+                                                    Red Silk *RU Luntik
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#SFL">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший взрослый
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/434425" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/e/8/5/e85299d4c24e765a5f1c44a3afb88cb6.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/434425" target="_blank">
+                                                    Red Silk *RU Luntik
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#SFL">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/258">Volga Dawn's</a>, Самара
+                                                </li>
+<li>
+<a href="/catteries/62">Yaskrava Zirka</a>, Днепр
+                                                </li>
+<li>
+<a href="/catteries/72">Yellow Vanilla</a>, Северск
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=22">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

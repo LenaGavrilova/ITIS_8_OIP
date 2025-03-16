@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Шартрез порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, CHA, Шартрез,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Шартрез
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Шартрез порода кошек фото" src="https://s3.webestudio.ru/topcat/breed_article_images/e/8/b/e8bcfb8dfcb76d6ed391e943c7dc1782.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Шартрез
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>CHA</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Франция
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для людей, часто не бывающих дома</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы
+</h3>
+<p>Шартрез – любимая кошка французов, которая считается национальным
+достоянием этой страны. Ей даже посвящен роман писательницы Колет, который так
+и называется – «Кошка». Шартрезов очень любил французский президент Шарль де
+Голль. Это старинная порода, история которой насчитывает не одно столетие. Еще
+в XVIвеке французский поэт Жоашен
+дю Белле описывал свои чувства к ней в стихах на смерть любимой кошки по имени
+Бело. В Средние века нечистые на руку купцы частенько выдавали шкурки шартрезов
+(немного подкрашенные и подбритые) за ценный мех выдры. Да и сам по себе мех
+этих кошек ценился достаточно высоко вплоть до XIX века. Происхождение породы вызывает споры. Наиболее распространенная
+версия гласит, что этих кошек разводили картезианские монахи в монастыре
+Шартрез, отсюда и современные названия породы – «шартрез» («шартро») и
+«картезианская». В монастырь же кошки с серо-голубой шерстью были завезены из
+Южной Африки более 500 лет назад. По другой легенде, название породы происходит
+от piledesChartreux – пушистая шерстяная
+ткань высочайшего качества, завозимая из Испании во Францию. Так или иначе,
+предками шартрезов, возможно, были манул и египетская кошка, обитавшие в
+отличавшихся суровым климатом горных районах Сирии, Турции и Ирана. Именно там
+эти кошки могли «приобрести» свой густой, удивительно красивый мех. И вполне
+вероятно, что необычные животные приглянулись рыцарям-крестоносцам, которые и
+доставили их во Францию – в качестве трофеев. До XVIвека порода называлась «французской голубой»;
+в XVIIIвеке ученый Буффон в своем
+труде «История природы» называет ее «домашней голубой», а шведский натуралист
+Карл Линней в знаменитой SystemaNaturaeупотребил название «французская кошка». А
+впервые она упоминается в 1723 году, Савари де Брюслоном в «Универсальном
+словаре коммерции, природной истории искусств и ремесел». Еще с конца XIXвека шартрезы участвовали в выставках. Однако
+целенаправленные работы по разведению породы начались только после Первой
+мировой войны. В 1926 году сестры Кристина и Сюзанна Леже обнаружили колонию
+уникальных кошек на острове Бель Иль. По другим источникам, Бель-Иль – имя
+кошки пепельного окраса, ставшей основоположницей современной линии породы.
+Первое упоминание одного из современных названий породы – картезианская (Feliscattuscartusinorum)– датируется 1930 годом: так назвал кошку доктор
+Жюмо.
+</p>
+<p>На выставках шартрезы впервые были представлены в 1931 году, причем,
+кошка Миньон сразу же завоевала титул «Лучшей кошки соревнований». После Второй
+мировой войны порода оказалась на грани вымирания, и для ее спасения было
+предпринято множество скрещиваний с британской короткошерстной. В результате
+этого чистопородных шартрезов стало так мало, что FIFe в 1970 году даже пыталась объединить их в одну породу с британской
+короткошерстной. Лишь усилиями Клуба любителей кошек шартрез удалось отстоять
+старинную французскую породу. В настоящее время она признана практически всеми
+системами.
+</p>
+<p>Внешний
+вид
+</p>
+<p>Массивная, крепкая по сложению
+кошка от среднего до крупного размера (3 – 7,5 кг). Явно выражен
+половой диморфизм: коты значительно крупнее и массивнее кошек. Благодаря
+тяжелому мускулистому телу и широкой грудной клетке кошка вызывает ощущение
+мощи. При этом ее отличает особое «улыбчивое» выражение мордочки, являющееся
+отличительным признаком породы.
+</p>
+<p><strong>Голова: </strong>Широкая, по форме округлая, но
+скорее не сферической, а трапециевидной формы. Не выпуклый, немного
+закругленный череп, между ушами – плоский участок. Низкие, полные, круглые
+щеки, у котов более развитые. Нос широкий, прямой, не «курносый», темно-серого
+цвета. Переход ото лба к мордочке очень плавный, а еще лучше, если он будет
+совершенно отсутствовать. Мордочка по сравнению с головой гораздо уже,
+клиновидная, но не заостренная. У котов, начиная с возраста 2 месяцев, мощные
+челюсти. Благодаря выраженному переходу от мордочки к скулам создается
+впечатление, что шартрез всегда «улыбается».
+</p>
+<p><strong>Глаза: </strong>Большие, круглые, широко раскрытые, не
+раскосые, но внешний угол глаза чуть приподнят. Цвет радужной оболочки –
+золотистый или медно-желтый. Зеленый цвет и выцветшие оттенки не допускаются.
+</p>
+<p><strong>Уши: </strong>Маленькие или средние, прямые, узкие у основания,
+закругленные на кончиках. Постав высокий.
+</p>
+<p><strong>Шея: </strong>Короткая, плотная, сильная.
+</p>
+<p><strong>Тело: </strong>Среднего размера, массивное и мощное,
+особенно у котов. Крепкое, с хорошо развитой мускулатурой и сильным костяком.
+Грудь широкая, глубокая. Спина прямая.
+</p>
+<p><strong>Ноги: </strong>Прямые, средней длины или короткие, не
+тонкие, сильные, с хорошо развитой мускулатурой, но тонким костяком.
+</p>
+<p><strong>Лапы: </strong>Компактные, маленькие, круглые (TICA) или широкие (FIFe). Подушечки серые.
+</p>
+<p><strong>Хвост: </strong>Средней длины, у основания широкий,
+постепенно суживающийся к закругленному кончику.
+</p>
+<p><strong>Шерсть:</strong>
+	Короткая,
+очень плотная, густая, гладкая, обладающая водоотталкивающими свойствами. К
+телу прилегает не плотно: немного приподнята из-за густого, почти пушистого
+подшерстка.
+</p>
+<p><strong>Окрасы:</strong> Окрас сплошной по виду, голубой по цвету, что
+является главным характерным признаком породы. Оттенки от светлого до
+темно-серого. Наиболее ценным считается светло-серый. FIFe считает необходимым,
+чтобы цвет окраса обязательно был однотонным. По стандарту TICA мочка носа должна быть серо-голубой, а подушечки лапок – темно-розового.
+Кожа шартрезов имеет голубоватый оттенок. Котята рождаются с отметинами табби и
+серо-голубыми глазами. К трем месяцам радужная оболочка глаз приобретает
+оранжевый цвет, а к возрасту от шести месяцев до года отметины на шерсти
+исчезают.
+</p>
+<p><strong>Недостатки:</strong> Неправильная (загнутая)
+форма носа; слишком резкий переход ото лба к мордочке; слишком близко
+расставленные, зеленые или тусклые («выцветшие») глаза и / или их миндалевидная
+форма; белые волоски на шерсти, тени, кажущиеся пятна, типинг.
+</p>
+<p><strong>Дисквалификация на выставках: </strong>«Ржавый» - коричневый или
+рыжий – оттенок шерсти.
+</p>
+<p><strong>Дисквалификация
+всех пород: 
+	</strong>Ампутированные когти, крипторхизм, глухота.
+</p>
+<h3>Особенности
+и характер 
+</h3>
+<p>Шартрез отличается спокойным, уравновешенным характером. Она, как
+правило, молчалива, ведет себя дружелюбно и сдержанно. Неагрессивна. Легко
+приспосабливается к любой среде, прекрасно уживается с другими кошками. Крепко
+привязывается к хозяину, однако хорошо чувствует себя и в одиночестве. Отличная
+охотница, может «работать» крысоловом.
+</p>
+<h3>Содержание
+и уход
+</h3>
+<p>Следует разрешать шартрезу часто бывать на свежем воздухе: так кошка
+сможет реализовать свои охотничьи инстинкты, да и вид ее шерсти от этого
+становится лучше. Однако прямые солнечные лучи могут нанести вред окрасу
+шерсти, придав ему «ржавый» оттенок. Расчесывать следует еженедельно, кроме
+периода линьки (обильная). Половой зрелости шартрез достигает в 2 – 3 года.
+</p>
+<h3>Кормление</h3>
+<p>Только корма
+премиум-класса.
+</p>
+<h3>Селекция</h3>
+<p><strong>Допустимые скрещивания: </strong>нет
+</p>
+<p><strong>Породы, созданные при участии Шартрезов</strong>
+</p>
+<h3>Другие
+и устаревшие названия породы
+</h3>
+<p>Французская голубая;
+</p>
+<p>Домашняя голубая;
+</p>
+<p>Французская кошка;
+</p>
+<p>Картезианская кошка;
+</p>
+<p>Картузская;
+</p>
+<p>Шартро
+</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/5105">Silver Pearl</a>, Петрозаводск
+                                                </li>
+<li>
+<a href="/catteries/7295">Amis Bleu-gris</a>, Москва
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=48">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

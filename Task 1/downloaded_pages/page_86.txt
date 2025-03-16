@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Той-боб порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, TOB, Той-боб,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Той-боб
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Той-боб порода кошек фото" src="https://s3.webestudio.ru/topcat/cat_images/d/5/b/d5b63dd0453e893d99ae7f64f346d1ab.jpg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Той-боб
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>TOB</dd>
+<dt>Группа:</dt>
+<dd>Сиамо-ориентальная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Россия
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>Для семьи</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<p>Порода кошек Той-боб (Toy-bob) -относится к отечественным аборигенным породам.</p><p><strong> </strong></p><p>Эта порода кошек с укороченными хвостами и существует она в двух вариациях — короткошерстная(TBS)  и длинношерстная (TBL).</p><p><strong>История породы</strong></p> <p>В середине 1980-х гг. будущий создатель породы Е. А. Красниченко подобрала на улице Ростова-на-Дону сначала кота, а затем кошку сиамского окраса небольшого размера с укороченными хвостами. В 1988 у этой пары родился более мелкий, чем они сами, котёнок с коротким хвостом . Его назвали Куцый; он и стал родоначальником породы. Селекционный отбор мелких котят для дальнейшего разведения позволил сформировать устойчивые породные признаки, передаваемые из поколения в поколение. Название породы несколько раз менялось в течение 30 лет: от Скиф-тай-дон («Скиф» – название первого клуба любителей кошек, где они были зарегистрированы; «тай» – от сходства с тайскими кошками; «дон» – от названия реки) и Скиф-той-боб («той» - маленький, «боб» – от «бобтейл», признак укороченного хвоста). В 2015 стандарт породы признан в АСК (Ассоциации «СуперКэтс», РФ), окончательное название порода получила в 2016 после процедуры предварительного признания стандарта породы во Всемирной федерации кошек WCF. С этого времени все кошки данной породы регистрируются как Той-боб.</p><p><img alt="" height="292" src="https://s3.webestudio.ru/topcat/editor_images/1d/7d/03/08/b0/d2/5b/d7/ab/15/8e/3a/cd/0a/89/4c/1d7d0308b0d25bd7ab158e3acd0a894c.jpg" style="float: left; width: 439px; height: 292px; margin: 0px 10px 10px 0px;" width="439"/></p> <p><strong>Внешний вид </strong></p> <p>Небольшие, меньше среднего размера, кошки короткого и крепкого телосложения, с широкой грудной клеткой и короткой шеей. Мускулатура отлично развита. Предпочтительный вес взрослых кошек до 2 кг, коты могут быть чуть крупнее (кошки массой меньше 1 кг не способны к зачатию и рождению потомства, иными словами, не фертильны). Котята рождаются весом 35-55 г, что вдвое меньше веса новорождённых котят других пород. Полного развития животные достигают к полутора годам.</p> <p><strong>Голова: </strong>в форме короткой трапеции с мягко округлыми контурами. Лоб наполненный, никаких плоских площадок. Профиль с выраженным переходом ото лба к носу на уровне середины глаз. Явный стоп недопустим. Нос средней длины. Спинка носа слабовыпуклая. Подбородок сильный. Скулы средние, округлые, выраженные. Морда короткая, округлая; пинч недопустим.</p> <p><strong>Глаза:</strong> округлые,большие, широко открытые (будто удивленные), почти прямого широкого постава,очень выразительные, предпочтительно в форме слегка выступающей линзы. </p><p>Цвет в соответствии с окрасом. <br/> Предпочтителен интенсивный, насыщенно-голубой цвет у колор-поинтовых представителей. </p> <p><strong>Уши:</strong> среднего размера, с округлыми кончиками. Высокого постава. Слегка наклонены вперед. Расстояние между ушами не более ширины одного уха в основании.</p> <p><strong>Шея:</strong> короткая, мощная.</p> <p><strong>Тело:</strong> квадратного формата, меньше среднего размера, компактное, короткое, плотное, мускулистое. Грудная клетка широкая. Спина почти прямая. Диморфизм не ярко выражен.</p> <p><strong>Ноги:</strong> сильные, средней длины, задние чуть выше передних.</p> <p><strong>Лапы:</strong> овальные, с удлиненными пальцами на задних конечностях.</p> <p><strong>Хвост:</strong> подвижный, предпочтительно состоящий из нескольких заломов и
+изгибов в любых комбинациях, но может быть и прямым, доходящим до скакательных
+суставов. Видимая длина хвоста - не менее 3 см и не превышающая 1/3 длины
+туловища, (визуальная его длина, а не по линиям изгибов). </p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/23/85/3c/dd/aa/ab/dd/02/9f/2d/6e/87/a7/9b/c4/f5/23853cddaaabdd029f2d6e87a79bc4f5.jpg"/></p><p><strong>Шерсть:</strong> короткая, плотная, упругая, полуприлегающая, с достаточно выраженным подшерстком. Покровный волос почти одинаковой длины с подшерстком.<br/>У котят она может быть немного пушистая.</p> <p><strong>Окрасы:</strong> Все окрасы.<br/>Основной окрас – колор-поинт (сил-поинт, блю-поинт).<br/>Возможны белые пятна на пальчиках лап у колор-поинтовых представителей.<br/>У колор-поинтов равномерность окраса и контраст пойнтов гораздо важнее светлого окраса по корпусу.</p><p><strong>Недостатки:</strong> <br/></p><ul><li>Клиновидная или узкая голова, сглаженный профиль,плоский лоб.</li><li>Слабый подбородок.</li><li>Уши большие, острые, широко поставленные.</li><li>Угловатые линии.</li><li>Нехарактерная величина.</li><li>Непропорциональное телосложение.</li><li>Излишне элегантное, хрупкое или вытянутое тело.</li><li>Глаза миндалевидной формы. </li><li>Достаточно длинный хвост.</li></ul><p><strong>Дисквалификация на выставках: </strong>Косоглазие, наличие пинча,хвост менее 2 позвонков или полное его отсутствие, хвост полной длины без заломов и изгибов. </p><p><strong></strong></p> <p><strong>Дисквалификация всех пород: </strong>Ампутированные когти, крипторхизм, глухота. Заметные костные деформации </p> <p><strong>Особенности и характер </strong></p> <p>Подвижные, общительные, любопытные кошки со спокойным, уравновешенным нравом. Про характер Той-бобов можно говорить часами. Возьмите Той-боба на руки, и он будет лежать до тех пор, пока вам не надоест, ему же не надоест никогда. Эти кошки удивительно ласковы, доверчивы и дружелюбны: любое живое существо </p><p><img alt="" height="353" src="https://s3.webestudio.ru/topcat/editor_images/27/c3/9d/24/3e/72/da/15/d9/0e/27/bb/33/07/5e/41/27c39d243e72da15d90e27bb33075e41.jpg" style="float: right; width: 523px; height: 353px; margin: 0px 0px 10px 10px;" width="523"/></p><p>для них – друг, будь то взрослый человек, ребенок, собака, кошка, хомяк, морская свинка, попугай. Несмотря на небольшой размер, Той-бобы бесстрашны. Их легко научить выполнять простейшие команды, например, приносить игрушку. Маленькие котята могут издавать звуки, похожие на собачье «ав». Взрослые же особи достаточно молчаливы, разве что иногда могут заявить о своем присутствии хозяину. Очень любопытные, Той-бобы всегда встречают даже чужих людей, а если у гостя пакет или сумка, Той-боб непременно туда заглянет. Кошки этой породы буквально созданы для любви, поэтому хозяин должен проводить со своим питомцем как можно больше времени, гладить его и держать на руках. </p> <p><strong>Допустимые скрещивания: </strong>Любые скрещивания Той-бобов с кошками других пород могут приводить не только к изменениям во внешнем виде котят (увеличение размеров тела, уменьшение размеров глаз, изменение текстуры шерсти и др.), но и отражаться на их здоровье.<br/></p><p>С ННР,  подходящими по размеру, фенотипу и темпераменту.<br/></p><p><strong></strong></p> <p><strong>Другие и устаревшие названия породы</strong><br/></p> <p>Скиф-тай-дон. Скиф-той-боб.</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший в породе
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/475121" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/d/5/b/d5b63dd0453e893d99ae7f64f346d1ab.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/475121" target="_blank">
+                                                    Weeny Bob Yasper
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#TOB">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший взрослый
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/475121" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/d/5/b/d5b63dd0453e893d99ae7f64f346d1ab.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/475121" target="_blank">
+                                                    Weeny Bob Yasper
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#TOB">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший котенок
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/511574" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/a/3/5/a35ed48e593797cb696d34e37d815c6b.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/511574" target="_blank">
+                                                    Weeny Bob Nellie
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#TOB">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший юниор
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/499803" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/3/8/2/3820e2831425a887d27304364fac0a56.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/499803" target="_blank">
+                                                    Weeny Bob Hecuba
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#TOB">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/435">Forest Elite Line's</a>, Псков
+                                                </li>
+<li>
+<a href="/catteries/576">Aiko MariKos</a>, Екатеринбург
+                                                </li>
+<li>
+<a href="/catteries/607">Bel-Moor's</a>, Екатеринбург
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=147">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

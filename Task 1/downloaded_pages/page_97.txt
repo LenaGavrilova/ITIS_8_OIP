@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Сфинкс порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, SPH, Сфинкс,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Сфинкс
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Сфинкс порода кошек фото" src="https://s3.webestudio.ru/topcat/cat_images/1/9/3/193de47cef73935251ec67a6e73f34ef.jpg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Сфинкс
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>SPH</dd>
+<dt>Группа:</dt>
+<dd>Бесшерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Канада
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для людей, страдающих аллергией на кошачью шерсть</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы
+</h3><p>Эти кошки вызывают у людей диаметрально противоположные эмоции: одни их
+обожают, у других они вызывают отвращение. Так или иначе, сфинкс – редкая и
+ценная порода. Селекционная работа по ее созданию началась в 1966 году в
+Канаде, когда обычная домашняя кошка Элизабет, принадлежащая миссис Миклуэйт из
+Онтарио, родила котенка без шерсти. Собственно, это было результатом спонтанной
+мутации, и многие до сих пор считают сфинксов ошибкой природы. Однако некоторые
+селекционеры задумались о выведении породы, «адресованной» страдающим аллергией
+на шерсть людям. Кота назвали Прун, и позже скрестили с собственной матерью,
+отчего родились безволосые котята. Впрочем, эта линия прервалась в 1971 году.
+Племенная работа возобновилась в 1975 году в США, в Вадене,
+штат Миннесота, когда от обычной домашней короткошерстной кошки родился лысый
+кот, которому дали «говорящее» имя Эпидермис. Еще через год там же родилась
+бесшерстная кошка. Оба животных оказались в одном и том же питомнике, где и
+стали основателями элитных линий породы сфинксов. В
+	<strong> </strong>1978 в нее были вновь
+включены бесшерстные кошки, найденные в Канаде. Так началась современная линия.
+В создании породы канадский сфинкс использовали кошек разных пород, но чаще
+всего это были девон-рексы. Кстати, канадскими этих кошек называют только в
+России, дабы подчеркнуть существование двух других бесшерстных пород – донских
+и петербургских сфинксов.
+</p><p>В 1971 году CFA отказала этой породе в официальном признании. В качестве причины
+фигурировал ген безволосости, связанный, по мнению специалистов этой системы, с
+летальным геном. Однако один из «родоначальников» породы, черно-белый кот Бэмби
+из Онтарио прожил на свете более 18 лет, что говорит о крепком здоровье
+сфинксов. В Европе эти кошки появились в начале 80-х годов XXвека, и наибольшей популярностью пользуются
+во Франции и Голландии. Окончательное признание сфинксов (канадских) состоялось
+только в 2002 году, когда был принят стандарт породы.
+</p><h3>Внешний
+вид
+</h3><p>Сфинкс – самая необычная на вид кошка среднего формата, не слишком
+тяжелая – от 3,5 до 7 кг.
+Тело плотное, с хорошо развитой мускулатурой, практически без шерсти.
+Морщинистая кожа, как правило, покрыто лишь пушком. Однако на носу, за ушами, а
+также на кончике хвоста и лапах шерсть может сохраняться. Огромные уши, большие
+глаза в форме лимона, а главное – толстая кожа без шерсти придают сфинксу
+фантастический, «инопланетный» вид. Отсюда одно из устаревших названий породы – "Лунный кот".
+	<strong><br/></strong>
+</p><p><strong>Голова: </strong>Средняя по размеру, немного угловатая, форма приближается к треугольной.
+Длина больше ширины. Плоский лоб, выступающие, высокие скулы. Нос короткий.
+Переход ото лба к мордочке может быть как легким, так и достаточно четко
+выраженным. Мордочка закругленная, широкая и короткая. Границы щек выражены
+достаточно четко. Подбородок крепкий. Усы отсутствуют, а если и есть, то редкие
+и короткие.
+</p><p><strong>Глаза: </strong>Большие, широко раскрытые, в форме плода
+лимона. Расставлены широко, немного раскосые. Цвет должен гармонировать с
+цветом кожи.
+</p><p><strong>Уши: </strong>Очень большие, поставлены прямо. Основание очень
+широкое, кончики закруглены. Внутри ушной раковины шерсть полностью отсутствует,
+на задней поверхности может расти легкий пушок.
+</p><p><strong>Шея: </strong>Длинная, немного выгнутая. Мускулатура развита. У
+котов более мощная.
+</p><p><strong></strong>
+</p><p><strong>Тело: </strong>Размер средний, плотное, мускулистое. Очень
+широкая грудь, слегка выступающая брюшная полость, мощный крестец. Костяк может
+быть как тонким, так и средним.
+</p><p><strong>Ноги: </strong>Средней длины, средней толщины. Крепкие,
+мускулистые. По форме выгнутые. Задние заметно короче передних, за счет чего
+сфинксы отличаются довольно своеобразной походкой.
+</p><p><strong>Лапы: </strong>Крупные или среднего размера, овальные, с
+длинными, выгнутыми пальцами и очень плотными, толстыми подушечками.
+</p><p><strong>Хвост: </strong>Длинный, по форме напоминающий хлыст или
+крысиный хвост. Иногда на кончике могут сохраняться остатки шерсти – такая
+разновидность носит название «львиный хвост».
+</p><p><strong>Шерсть:</strong> Практически отсутствует. Однако на большей части
+тела может наблюдаться легкий пушок, тонкий и редкий. На мордочке, хвосте и
+яичках даже есть немного шерсти. На голове, туловище и лапах кожа морщинистая,
+в остальных местах – гладкая, натянутая. Котята появляются на свет с очень
+морщинистой кожей и шерстью вдоль хребта. Позже эта шерсть выпадает.
+</p><p><strong>Окрасы:</strong>
+	Любые.
+</p><p><strong>Недостатки:</strong> Недостаточно
+крепкое, плотное, слишком компактное или слишком длинное тело; слишком
+маленький размер; узкая голова; прямой профиль.
+</p><p><strong>Дисквалификация
+на выставках: 
+	</strong>Маленькие глаза; нерезкие границы щек; короткие пальцы лап; волоски,
+напоминающие шерсть корниш-рексов или девон-рексов в период их линьки; следы
+депиляции или бритья.
+</p><p><strong>Дисквалификация
+всех пород: 
+	</strong>Ампутированные когти, крипторхизм, глухота.
+</p><h3>Особенности
+и характер 
+</h3><p>Сфинкс - активная, озорная, очень общительная и игривая кошка, абсолютно
+не агрессивная и незлопамятная. Отлично ладит с кошками и другими домашними
+питомцами. Ласкова, и обожает, когда ласкают ее. Нуждается в постоянном
+внимании. Характер независимый, иногда проявляет признаки собственницы. Очень
+привязывается к хозяину. Хорошо приспособлена к жизни в обычной квартире. Не
+любит холода, жары и слишком высокой влажности. На ощупь очень теплая.
+Гипоаллергенна, поэтому может быть рекомендована людям с аллергией на кошачью
+шерсть. Течка у кошек бывает не чаще двух раз в год.
+</p><h3>Содержание
+и уход
+</h3><p>Требуется постоянный уход за кожей сфинкса, поскольку у этой кошки пот
+выделяется именно через кожу. Необходимо регулярно протирать кошку, а вот
+купать в ванночке не следует. В ушных раковинах образуется много серы, поэтому
+их необходимо регулярно чистить. Нельзя долго оставлять кошку на улице под
+прямыми солнечными лучами, во избежание ожогов.
+</p><h3>Кормление</h3><p>Зимой необходимо кормить сфинкса более калорийной пищей, для
+того, чтобы температура тела кошки превышала температуру окружающей среды
+(поддержание температурного баланса).
+</p><h3>Селекция</h3><p><strong>Допустимые скрещивания: </strong>нет
+</p><p><strong>Породы, созданные при участии Канадских сфинксов: </strong>Минскин; Сфинсксиамез –
+все гибриды окраса колорпойнт; Хемингуэй сфинкс, Полифинкс – гибрид с
+полидактильной кошкой; Минкс – гибрид сфинкса и манкса
+</p><h3>Другие
+и устаревшие названия породы
+</h3><p>Сфинкс;
+</p><p>Канадская безволосая;
+</p><p>Канадская лысая;
+</p><p>Лунный кот
+</p><p><strong></strong>
+</p><h3>Неофициальное
+(сленговое) название породы на русском языке 
+</h3><p>канадец
+</p><h3>Ссылки:</h3><p><a class="external" href="http://ru.top-cat.org/newsletters/448bd05a-14d6-e0ee-5dfa-5d14674c5945" rel="nofollow">Журнал TopCat, посвященный породе</a>
+</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший в породе
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/342598" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/1/9/3/193de47cef73935251ec67a6e73f34ef.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/342598" target="_blank">
+                                                    Aerobatic`s Great Son
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#SPH">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший взрослый
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/342598" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/1/9/3/193de47cef73935251ec67a6e73f34ef.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/342598" target="_blank">
+                                                    Aerobatic`s Great Son
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#SPH">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший юниор
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/506230" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/d/4/d/d4d5de7f68897d5aa548e23fcd69b59c.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/506230" target="_blank">
+                                                    Posh Ulan
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#SPH">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/56">UmariTerios</a>, Челябинск
+                                                </li>
+<li>
+<a href="/catteries/82">Posh</a>, Пенза
+                                                </li>
+<li>
+<a href="/catteries/121">Moon Grace</a>, Омск
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=73">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

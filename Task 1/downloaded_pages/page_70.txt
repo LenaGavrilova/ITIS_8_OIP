@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Корат порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, KOR, Корат,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Корат
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Корат порода кошек фото" src="https://s3.webestudio.ru/topcat/breed_article_images/c/4/2/c42ab47d3ef76a2c8bc981a4ff77831c.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Корат
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>KOR</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Таиланд
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для спокойных семей, без детей, большую часть времени проводящих дома</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы 
+</h3>
+<p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/6b/67/dd/c0/db/22/6c/f2/14/22/1b/b5/be/ed/56/fc/7d34bfd3fd268e18890f84bd251dc806.jpeg" style="width: 303px; float: right; margin: 0px 0px 10px 10px;"/>
+</p>
+<h3></h3>
+<p>Эта порода, возникшая естественным путем, известна в Таиланде с XIV века, где она высоко ценится на протяжении столетий. Очевидно потому,
+что кошки серебристо-серого цвета считаются в Индокитае талисманами. Местные
+жители полагают: серебряный цвет означает здоровье, голубой напоминает об
+облаках, приносящих дождь, а зеленый цвет глаз – это цвет незрелого риса,
+предвещающий богатый урожай. В Таиланде эта кошка носит имя «си-сават» - «на
+счастье». Кошки этой породы упомянуты в древней книге «Стихотворений о кошке»,
+созданной в королевстве Ауютия между 1350 и 1767 годами: «… шерсть, как шелк,
+кончики ее похожи на облака, а корни на серебро, глаза блестят подобно
+капелькам росы на листьях лотоса…» Название «корат» эти животные получили в
+честь тайской провинции Корат. В конце XIX века несколько кошек корат было
+привезено в Великобританию и представлено на выставке. Однако без особого
+успеха: необыкновенных животных посчитали разновидностью голубых сиамских
+кошек. Только в 1959 году американский селекционер Джин Джонсон занялась их
+разведением. Официальное признание породы состоялось в 1966 году (CFA). В Европе корат
+появилась в 1972 году и сразу получила признание FIFe. Популярна в США, в Европе мало
+распространена.
+</p>
+<h3>Внешний
+вид
+</h3>
+<p>Гибкая, элегантная кошка с мускулистым средних размеров телом (2,5 – 4,5 кг), немного выгнутой
+спиной и умеренно длинными конечностями.
+</p>
+<p><strong>Голова:</strong><strong> </strong>Анфас имеет сердцевидную форму. Лоб плоский,
+плавный переход ото лба к мордочке. Щеки крепкие и хорошо развитые. Мордочка
+большая, округлая, не заостренная и не квадратная. Нос длинный, слегка
+выпяченный на конце. Подбородок крепкий, хорошо развитый, челюсти сильные.
+</p>
+<p><strong>Глаза: </strong>Большие, круглые, яркие, широко поставленные,
+слегка раскосые. Цвет желателен ярко-зеленый. У молодых животных допускается
+янтарный цвет, но только системой FIFe. Окончательно цвет глаз
+устанавливается после двухлетнего возраста. Хорошо видны надбровные дуги.
+</p>
+<p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/f0/12/74/31/11/a9/f5/55/45/d2/c7/b5/fb/64/aa/3e/bd60ed95a1008282c96b9c1a883ecbbc.jpeg" style="width: 258px; float: left; margin: 0px 10px 10px 0px;"/>
+</p>
+<p><strong>Уши: </strong>Большие, широкие у основания, с закругленными
+кончиками. Расположены высоко на голове, чуть разведены в стороны. На внешней
+стороне ушных раковин легкое опушение.
+</p>
+<p><strong>Шея: </strong>Средней длины, мускулистая.
+</p>
+<p><strong>Тело: </strong>Среднего размера, не изящно
+удлиненное, не компактное, крепкое. Спина слегка выгнутая. Тело мускулистое,
+хорошо развитое, гибкое.
+</p>
+<p><strong>Ноги: </strong>Средней длины, крепкие. Задние слегка длиннее
+передних. Костяк средний или крепкий.
+</p>
+<p><strong>Лапы: </strong>Небольшие, овальные.
+</p>
+<p><strong>Хвост: </strong>Средней длины, в основании более
+широкий, суживающийся к закругленному кончику
+	<strong>. </strong>
+</p>
+<p><strong>Шерсть:</strong>
+	Короткая,
+тонкая, блестящая, плотная, прилегающая к телу. Подшерсток отсутствует. При движении
+шерсть часто поднимается вдоль хребта.
+</p>
+<p><strong>Окрасы:</strong> Характерный признак породы
+– сплошной
+	<strong> </strong>серо-голубой серебристый (CFA – голубой серебристый). Кончики
+волос серебристые. Серебристый крап придает блеск шерсти (TICA). Мочка носа темного серо-голубого
+цвета. Подушечки лап темно-голубые или бледно-лиловые с розовым оттенком (цвет
+лаванды).
+</p>
+<p><strong>Недостатки:</strong> Узкая голова; маленькие,
+узко поставленные глаза. Эксперты CFA считают недопустимыми желтые
+глаза.
+</p>
+<p><strong>Дисквалификация
+на выставках: 
+	</strong>Слишком длинный или слишком короткий нос; резко выраженная граница
+подбородка.
+</p>
+<p><strong>Дисквалификация
+всех пород: 
+	</strong>Ампутированные когти, крипторхизм, глухота.
+</p>
+<p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/e0/70/a9/1f/95/6d/2e/1c/17/e7/4a/45/ae/fb/0a/30/1d6cc82f2c9902ebea0b8ff1689c6e8f.jpeg" style="width: 339px; float: right; margin: 0px 0px 10px 10px;"/>
+</p>
+<h3>Особенности
+и характер 
+</h3>
+<h3></h3>
+<p>Жизнерадостная и одновременно очень впечатлительная кошка.
+Она молчалива, часто бывает настойчивой. Нуждается в постоянном внимании, любви
+и заботе хозяина, к котором относится с глубокой нежностью. А вот посторонних
+людей воспринимает сдержанно, однако никогда не ведет себя агрессивно. Плохо
+переносит общество других кошек и домашних животных. Предпочитает спокойную
+атмосферу. Голосок мелодичный.
+</p>
+<h3>Содержание
+и уход
+</h3>
+<p>Кошки породы корат считаются редкими и требующими особых условий
+содержания. Одна из причин – данная порода чрезвычайно чувствительна
+к холоду, поэтому необходимо оберегать корат от сквозняков и низких температур.
+А вот короткая шерсть не требует особого ухода.
+</p>
+<h3>Кормление</h3>
+<p>Сбалансированный
+рацион.
+</p>
+<h3>Селекция</h3>
+<p><strong>Допустимые скрещивания:</strong> нет
+</p>
+<p><strong>Породы, созданные при участии Корат</strong>
+</p>
+<h3>Другие
+и устаревшие названия породы 
+</h3>
+<p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/1e/56/b7/6f/c6/46/ce/48/47/2c/a1/97/24/00/8a/e2/1d300463a9349077a225fc6b8bc68728.jpeg" style="width: 475px; float: right; margin: 0px 0px 10px 10px;"/>
+</p>
+<h3></h3>
+<p>Си-сават
+</p>
+<h3>Неофициальное (сленговое) название породы на русском
+языке
+</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

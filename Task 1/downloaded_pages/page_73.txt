@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Оцикэт порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, OCI, Оцикэт,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Оцикэт
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Оцикэт порода кошек фото" src="/styles/public/images/default_avatars/cat.png">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Оцикэт
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>OCI</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                США
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей, живущих в просторном доме</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы</h3><p>Название данной породы неспроста напоминает слово «оцелот»: так
+называется дикое животное семейства кошьих с пятнистым окрасом шкуры, иначе
+называемое сервалом. Именно за эту особенность – пятнистую шерсть – порода и
+получила свое название, состоящее, собственно, из двух частей – «оце» и «кэт»,
+илипо-английски «cat» - кошка. История этой породы начинается с 1964 года, когда заводчица из
+штата Мичиган Вирджиния Дейли решила вывести сиамских кошек с окрасом пятнистый
+табби. Для этого были скрещены кошка, родителями которой были сиамская и
+абиссинская, и сиамский кот с пятнами шоколадного цвета на шерсти. В первом же
+помете родился один котенок желаемого вида, которого назвали Тонга, с шерстью
+кремового цвета и золотистыми отметинами. Однако потомства от Тонга не было, а
+американские селекционеры тем временем продолжили работу по выведению новой
+породы. В скрещивании принимали участие сиамские, абиссинские, восточные
+пятнистые, американские короткошерстные кошки и египетские мау. Результатом
+этих экспериментов и стали кошки породы оцикэт, внешне напоминающие маленьких
+диких кошек.</p><p>Официальное признание произошло в 1986 году CFA, а в 1988 году был разработан первый стандарт породы (TICA). Оцикэты популярны в США, а Европе порода известна мало.</p><h3>Внешний
+вид</h3><p>Довольно крупная кошка, имеющая вес от 2,5 до 6 кг, мощного сложения, с
+хорошо развитой мускулатурой. Наиболее характерным признаком породы является
+пятнистый окрас шерсти, напоминающий диких кошек.</p><p><strong></strong><strong>Голова: </strong>Клиновидная, близкая к треугольной, среднего
+размера. Ширина равна длине, линии плавные. Переход ото лба к мордочке плавный.
+Мордочка очерчена четко, довольно широкая, клиновидная. Обводы мягкие. Граница щек
+намечена легко, у взрослых котов щеки могут быть обвислыми. Подбородок сильный.</p><p><strong>Глаза: </strong>Большие, миндалевидной формы, немного
+раскосые, широко расставленные. Обведены темными ободками и светлыми «очками».
+Цвет может быть любым, кроме голубого, важно, чтобы он был ярким, интенсивным и
+ровным. Чаще всего встречаются кошки с золотистыми глазами. SCFF допускает голубой цвет глаз у колорпойнтов.</p><p><strong>Уши: </strong>Довольно большие, прямостоячие, достаточно широко
+расставленные. У основания широкие, с заостренными кончиками. Желательны
+«рысьи» кисточки.</p><p><strong>Шея: </strong>Вытянутая, выгнутая, красивая, изящная. </p><p><strong>Тело: </strong>Довольно крупное, длинное.
+Мощное, с хорошо развитой мускулатурой и в то же время изящное, полувосточного
+типа. Не производит впечатления массивного. Глубокая грудь.</p><p><strong>Ноги: </strong>Средней длины, хорошо развитые, мускулистые,
+сильные. </p><p><strong>Лапы: </strong>Компактные, овальные или округлые.</p><p><strong>Хвост: </strong>Довольно длинный и относительно
+тонкий, постепенно суживающийся к кончику. Кончик обязательно темный.</p><p><strong>Шерсть:</strong>
+Короткая, довольно тонкая, гладкая, на ощупь мягкая, шелковистая, слегка
+лоснится. На каждом волосе (кроме хвоста) имеется по несколько цветных полосок.</p><p><strong>Окрасы:</strong> Могут быть трех видов: табби,
+сплошной, дым. Цвет может быть черным, коричневым (светлым и темным),
+шоколадным, лиловым, голубым. Все эти окрасы могут быть также серебристыми.
+Самая светлая шерсть располагается на мордочке, подбородке и нижней челюсти.
+Пятна должны состоять из волосков с более темными полосками, нежели основной
+цвет шерсти, и иметь четкие очертания. Пятна на мордочке, ногах и хвосте
+темнее, чем на всем теле. На лбу располагается «М»-образное пятно, на щечках и
+около глаз – темные полосы.</p><p><strong>Недостатки:</strong> Слишком массивное или
+коренастое тело.</p><p><strong>Дисквалификация на выставках: </strong>Слабо выраженные, с
+нечеткими контурами пятна; наличие белого цвета. Голубой цвет глаз (FIFe).</p><p><strong>Дисквалификация
+всех пород: </strong>Ампутированные когти, крипторхизм, глухота.</p><h3>Особенности
+и характер </h3><p>Оцикэт - очень активная, живая, любопытная кошка. Очень
+игрива, общительна, ласкова, любит сидеть на руках. Несмотря на облик иповадки хищницы, отличается редким
+дружелюбием, причем, не только к хозяину. Хорошо поддается обучению. По
+отношению к детям терпелива и снисходительна, в обществе кошек ведет себя как
+лидер. Легко приспосабливается к любым условиям жизни, однако лучше чувствует
+себя в большом жизненном пространстве. </p><h3>Содержание
+и уход</h3><p>Содержание и уход не являются сложными, так как чаще
+всего это здоровая и неприхотливая кошка. За ее шерстью нетрудно ухаживать,
+достаточно раз в неделю расчесывать ее.</p><h3>Кормление</h3><p>Предпочтительнее
+натуральный рацион. Оцикет отличается отличным аппетитом.</p><h3>Селекция</h3><p><strong>Допустимые скрещивания: </strong>нет</p><p><strong>Породы, созданные при участии Оцикетов</strong></p><h3>Другие
+и устаревшие названия породы</h3><p>Оци,</p><p>Оцикат</p><h3>Неофициальное
+(сленговое) название породы на русском языке</h3><p><em>оци, оцик</em></p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/1563">Melange's</a>, Пермь
+                                                </li>
+<li>
+<a href="/catteries/6193">Candidu et Malysheva</a>, Петропавловск
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=67">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Американская короткошерстная порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, ASH, Американская короткошерстная,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Американская короткошерстная
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Американская короткошерстная порода кошек фото" src="https://s3.webestudio.ru/topcat/breed_article_images/b/3/5/b35be8144ecea6472f77cc498ca75b5d.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Американская короткошерстная
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>ASH</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                США
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей с детьми</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История породы</h3><h3></h3><p>Существует красивая легенда о
+том, что Христофор Колумб, отправляясь покорять Америку, дабы защититься от
+мышей, взял на каждый свой корабль по паре кошек. Если верить легенде, то
+предки Американских короткошерстных кошек попали на этот континент именно таким
+романтичным способом еще в XV веке. По
+другой версии, первые кошки Нового Света прибыли туда несколько позже - в 1620
+году, вместе с первой группой английских пуритан, обосновавшихся в Америке.
+Однако каким бы способом эти животные ни оказались за океаном, необходимость
+приспосабливаться к новым условиям жизни сделала их шерсть гуще и жестче, а по
+размерам они стали превосходить своих европейских предков. Итак, в Америке эту
+кошку можно было встретить повсюду - на ранчо, фермах, около домов или сараев,
+где она неутомимо боролась с мышами и другими грызунами. И, обитая в
+естественных условиях, приобретала черты крепкой, стабильной и здоровой породы.</p><p><img alt="" src="http://s3.webestudio.ru/topcat/editor_images/34/21/ef/59/14/4d/bf/96/fb/59/d7/5f/bc/40/87/b5/410f0d53f26ce5d24d16b997b01d66b0.jpeg" style="width: 293px; float: right; margin: 0px 0px 10px 10px;"/></p><p>Документированная история породы
+начинается лишь в начале XX
+столетия. В 1904 году Американской ассоциацией любителей кошек (CFA) был зарегистрирован черный дымчатый кот по
+кличке Бастер Браун, родословная которого прослеживалась от Британских короткошерстных
+кошек. Британцы, так же, как и другие кошки благородных кровей – бирманцы и
+персы – тоже в свое время перебрались через океан. В результате их скрещивания
+с обычной уличной кошкой и появилась Американская (первоначально –
+отечественная) короткошерстная порода. Именно в те времена для
+стабилизации Американской короткошерстной как породы, отличающейся от ее
+европейских предков, была разработана четкая программа разведения. К 1930 году
+стал заметен прогресс: за небольшое число поколений заводчикам удалось добиться
+множества расцветок – иными словами, можно было говорить о стабилизации породы. </p><p>В 1950-м году CFA издала первый
+каталог производителей домашней
+короткошерстной, в эту книгу вошли 50 представителей новой породы. Именно под таким названием в 1966 году эти кошки впервые появились на
+выставках, и с тех пор регулярно в них участвуют. Более того, в CFA кошки,
+внешне отвечающие стандарту Американской короткошерстной породы,
+регистрировались как домашние короткошерстные вплоть до 1985 года. В настоящее
+время в разведении американской короткошерстной кошки участвуют только
+чистокровные производители. Настоящей победой приверженцев этой породы стал
+высочайший титул CFA «Кот года», который в 1966 году был присужден шикарному
+коту окраса классический браун тэбби по кличке Шони Трейдмарк. Кот по имени
+Великий Американский Герой из Хеджвуда (Мистер Эйч для друзей) был удостоен
+столь же высокого титула в 1984, а Сол-Мер Шариф - в 1996 году. Тем не менее,
+Международная федерация европейских любителей кошек (FIFe) по сей день не признает этой породы. Американских короткошерстных кошек чаще можно встретить в
+Японии, нежели в Европе.</p><h3></h3><h3>
+Внешний вид</h3><p>Животное от среднего до крупного размера, вес колеблется от
+3,5 до 7 кг. Телосложение мощное, даже немного грубоватое, с крепким костяком.
+Коты, как правило, заметно крупнее кошек (выражен половой диморфизм).</p><h3></h3><h3></h3><h3></h3><h3></h3><h3></h3><h3></h3><h3></h3><h3></h3><p><strong>Голова:</strong><span class="apple-converted-space"><strong> </strong></span>Среднего размера, широкая, округленной формы. Скулы округлые, щеки очень полные и развитые у взрослых самцов. Четкий переход (со стопом) ото лба к мордочке – достаточно короткой, широкой, несколько угловатой, создающей впечатление квадрата. Нос средне-короткой длины. Подбородок «квадратный», полный, крепкий, сильные челюсти. </p> <strong>Глаза:</strong>Округлые, от среднего до большого размера, постав широкий и слегка раскосый. Цвет соответствует окрасу. Чистота цвета желательна.<p><br/><strong>Уши:</strong> Средних размеров, не слишком большие у основания, широко
+поставленные, покрытые короткой шерстью. Кончики закруглены.<br/></p><p><strong>Шея:</strong> В пропорции к телу, средне-короткая: не слишком короткая и толстая и не слишком длинная и тонкая, мускулистая и крепкая. </p><p><strong>Тело: </strong>Между средним и крупным, прямоугольного формата (в длину несколько больше, чем в высоту), очертания больше скругленные, чем растянутые; пропорционально сложено. Грудь, особенно у самцов, широкая. Хорошо развиты плечи. Остов обычный, но мускулатура мощная.</p><p>
+<strong></strong> <strong>Ноги: </strong>Мускулистые, средней длины в пропорции к телу, прямые. Весьма сильные.</p><p>
+<strong>Лапы:</strong> Плотные, небольшие, округлые.</p> <strong>Хвост:</strong>Средней длины, толстый у основания, постепенно суживающийся к тупому кончику (не слишком острому). Располагается на уровне спины, заломы не допускаются. <p>
+<strong>Шерсть:</strong> Короткая, густая, жесткая, гладкая, блестящая. Плотно
+прилегает к телу. Зимой вырастает густой подшерсток.</p><p>
+<strong></strong> <strong>Окрасы:</strong>Разнообразные: более 60 оттенков цветов, но одним из самых популярных является блестящий чёрный серебристый табби (мраморный, тигровый или пятнистый). Шоколадный и лиловый окрасы не допускаются. </p><h3></h3><p><strong>Недостатки:</strong> <br/> - cлишком длинные, заостренные или близко посаженные уши<br/> - серебристые окрасы (табби и солид) с не зелеными глазами<br/> - окрасы серии браун (табби и солид) с глазами не чистого золотистого оттенка<br/> - слишком короткая и толстая, или слишком длинная и тонкая шея<br/> - вытянутое, восточного типа или коренастое, короткое тело, круп не должен быть слабым<br/> - короткий и толстый, тонкий или загнутый (как у белки) к спине хвост<br/> - тонкая, длинная, шелковистая или, наоборот, плюшевая на ощупь шерсть</p><p>
+<strong>Дисквалификация на
+выставках: </strong>Наличие белых пятен.</p><p><strong>Дисквалификация всех пород: </strong>Ампутированные когти, крипторхизм, глухота. Заметные костные деформации.</p><h3></h3><h3>
+Особенности и
+характер
+	</h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/9e/b7/cb/66/e2/81/3a/2f/d4/a9/32/b8/f3/1e/d6/e0/b3a0caf366c4799d3438d79ed770a709.jpeg" style="width: 264px; float: right; margin: 0px 0px 10px 10px;"/></p><h3></h3><p>
+	Соответствуют гармоничной внешности Американской короткошерстной: эта кошка умеренно активна,
+уравновешена, спокойна, отличается легким характером и особой привязанностью к
+своему хозяину. Мало агрессивна, редко совершает непредсказуемые поступки.
+Общительная и независимая, она легко адаптируется к любым условиям жизни и
+окружению – людям, другим животным, птицам. Хорошо переносит путешествия. Такую
+кошку легко воспитывать, так как она отличается послушным нравом и
+понятливостью. Несколько ленива и малоподвижна: любит полежать, что может
+привести к ожирению. 
+	Половая зрелость наступает рано - в 7-8
+месяцев.</p><h3></h3><h3></h3><h3>Содержание и уход</h3><p>Достаточно еженедельного расчесывания резиновой щеткой, лишь
+в период линьки следует чесать кошку каждый день. </p><p>Если у нее есть доступ на
+улицу, или перед участием в выставках животное необходимо купать.</p><h3></h3><h3>Кормление </h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/79/d3/ac/8b/ef/52/e7/c4/de/99/2d/24/12/cf/1c/e9/1ccd33f4f4e9476af23091969d248f75.jpeg" style="width: 270px; float: right; margin: 0px 0px 10px 10px;"/></p><p>
+	Необходимо сбалансированное питание и строгий контроль за
+количеством и качеством пищи, так как кошки данной породы склонны к перееданию
+и, как следствие, ожирению.</p><h3></h3><h3>Селекция</h3><p><strong>Допустимые скрещивания:  </strong>Американская жесткошерстная.</p><p>
+<strong>Породы, созданные при
+участии Американских
+короткошерстных: </strong>Американская жесткошерстная.</p><h3>Другие и устаревшие названия породы</h3><p>Отечественная короткошерстная. Домашняя короткошерстная. Американский курцхаар.</p><h3>Неофициальные (сленговые) названия</h3><p> <strong></strong>Курцхаар.</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/184">Calluna*RU</a>, Пенза
+                                                </li>
+<li>
+<a href="/catteries/269">Rodonit</a>, Челябинск
+                                                </li>
+<li>
+<a href="/catteries/310">Rumfold</a>, Москва
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=37">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

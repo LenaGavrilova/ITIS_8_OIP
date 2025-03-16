@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Лаперм длинношерстный порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, LPL, Лаперм длинношерстный,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Лаперм длинношерстный
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Лаперм длинношерстный порода кошек фото" src="https://s3.webestudio.ru/topcat/breed_article_images/d/f/2/df215035e509d9abe4423e314701c98e.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Лаперм длинношерстный
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>LPL</dd>
+<dt>Группа:</dt>
+<dd>Полудлинношерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                США
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для людей, страдающих аллергией на кошачью шерсть</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История породы</h3>
+<p><strong></strong><strong></strong><strong></strong>Местом возникновения породы являются США, а ее первым представителем считается кошечка Курли, родившаяся от обычной домашней кошки в 1982 году в Далласе, штат Орегон. От пятерых своих братиков и сестричек Курли отличалась в корне: она родилась без шерстки. Но, на радость хозяйке Линде Коэль, уже через два месяца обросла шелковистой вьющейся шерстью. В потомстве этой кошки тоже рождались котята с такой шерстью. Именно из-за этой особенности – «завитых» волосков – порода и получила свое название: от всем известного парикмахерского термина «перманент» - постоянная, на длительный срок завивка волос. Официальное признание лаперм состоялось в 1996 году, тогда же TICA был разработан первый стандарт породы.
+</p>
+<p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/b7/0f/55/0c/78/15/d8/93/e1/ff/06/44/cd/7f/d4/ba/39339f41bdb353c143ed1b6cdb9d5060.jpeg" style="width: 377px; float: right; margin: 0px 0px 10px 10px;"/>
+</p>
+<h3>Внешний вид</h3>
+<p><strong></strong>Кошка среднего или крупного размера, неожиданно тяжелая для своего вида (3,5 – 5, 5 кг), причем, явно выражен половой диморфизм: коты обычно намного крупнее кошек. Отличается стройным телом, по строению близким к восточному типу.<strong></strong>
+</p>
+<p><strong>Голова: </strong>Средней величины, треугольно-клиновидная, с плавными очертаниями. Череп округлый. Переход ото лба к мордочке плавный. Скулы высокие. Подбородок сильный и крепкий. Нос средний по длине. Мордочка широкая, довольно резко очерченная. <strong></strong>Подушечки вибрисс развитые, выступающие. <strong></strong>
+</p>
+<p><strong>Глаза: </strong>Большие или средней величины, миндалевидные по форме, выразительные. Расставлены на среднее расстояние, слегка раскосые. Цвет глаз никак не связан с цветом шерсти.<strong></strong>
+</p>
+<p><strong>Уши: </strong><strong></strong>От среднего до большого размера, у основания широкие, с закругленными кончиками. Расставлены широко, внешний край ушка продолжает линию головы. Ушная раковина изнутри опушена, волосы вьющиеся. Желательны «кисточки» на концах и опушение около наружного края уха («муфты»).<strong></strong>
+</p>
+<p><strong>Шея: </strong>Средней длины, изящная, высокая.
+</p>
+<p><strong>Тело: </strong><strong></strong>Среднего размера, слегка вытянутое, с хорошо развитой мускулатурой. Высота в крупе не превышает высоту в холке. Остов развит.
+</p>
+<p><strong>Ноги: </strong><strong></strong>Средние по длине и толщине. Передние короче задних, мускулатура хорошо развита, остов средний. <strong></strong>
+</p>
+<p><strong>Лапы: </strong>Небольшие, компактные, по форме - круглые.
+</p>
+<p><strong>Хвост: </strong>Длинный, тонкий, суживающийся к кончику. Опушен вьющимися волосами, с «подвесом»<strong>.</strong>
+</p>
+<p><strong>Шерсть:</strong> <strong></strong>Отличительная особенность породы – длинная или полудлинная шерсть, курчавая (предпочтительнее) или вьющаяся. Очень мягкая на ощупь, с выраженным покровным и остевым волосом, с обильным подшерстком. У взрослых котов желателен воротник. На различных участках тела тип завитка может быть разным: в основании ушей и нижней стороне шеи это легкие завитки, а на боках – тугие колечки или длинные локоны в виде «штопора». Котята могут рождаться как с волнистой, так и с прямой шерстью, либо совсем без нее. В первые месяцы жизни они, как правило, совершенно теряют шерсть, а затем обрастают вновь, и теперь уже<strong></strong> становятся курчавыми. В первый год жизни такая метаморфоза может происходить с котятами лаперм не один раз.
+</p>
+<p><strong>Окрасы:</strong> Вид и цвет окраса могут быть любыми.
+</p>
+<p><strong>Недостатки:</strong> <strong></strong>Отсутствие волос в ушах и «муфт».<strong></strong>
+</p>
+<p><strong>Дисквалификация на выставках: </strong>Тонкое или квадратное тело и/ или короткие ноги.
+</p>
+<p><strong>Дисквалификация всех пород: </strong>Ампутированные когти, крипторхизм, глухота.
+</p>
+<h3>Особенности и характер <strong></strong></h3>
+<p>Лаперм кошка активная и дружелюбная, ласковая, но полностью привязывается только к одному хозяину. Прекрасная охотница, поэтому комфортно чувствует себя в сельской местности, однако приспособлена и к жизни в городской квартире. Весьма любопытна. Неплохо уживается с собаками. Голос у этой кошки негромкий, приятный. Отличается гипоаллергенностью, поэтому может быть рекомендована для семей, у членов которой есть аллергия на кошек.
+</p>
+<h3>Содержание и уход</h3>
+<p>Несмотря на необычность шерсти лаперма, за ней легко ухаживать: достаточно расчесывать один или два раза в неделю. Но так как шерсть очень тонкая и мягкая, необходимо тщательно выбрать щетку или расческу, чтобы она не повреждала волоски. Так как лаперм произошли от обычных короткошерстных домашних кошек, это очень здоровая порода, практически не имеющая генетических заболеваний.
+</p>
+<h3>Кормление</h3>
+<p>Необходим сбалансированный рацион, корма премиум-класса.
+</p>
+<h3>Селекция</h3>
+<p><strong>Допустимые скрещивания: </strong>с любыми другими породами, если нет «перенаселенности».
+</p>
+<p><strong>Породы, созданные при участии Лапермов длинношерстных: </strong>Ламерм (результат скрещивания лаперма и манчкина); Скоккум (то же самое, что и ламерм).<strong></strong>
+</p>
+<h3>Другие и устаревшие названия породы</h3>
+<p>Ла Перм;
+</p>
+<p>Далласский лаперм;
+</p>
+<p>Индейский рекс;
+</p>
+<p>Американский рекс;
+</p>
+<p>Альпака (устаревшее);
+</p>
+<p>Длинношерстный рекс (общее название всех рексовых пород с длинной шерстью).<strong></strong><strong></strong>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

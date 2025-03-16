@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Американский бобтейл длинношерстный порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, ABT, Американский бобтейл длинношерстный,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Американский бобтейл длинношерстный
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Американский бобтейл длинношерстный порода кошек фото" src="https://s3.webestudio.ru/topcat/breed_article_images/9/2/3/9231884dde778ff8b838538fa223aded.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Американский бобтейл длинношерстный
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>ABT</dd>
+<dt>Группа:</dt>
+<dd>Полудлинношерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                США
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей с детьми.</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы</h3><p>Порода американский бобтейл была создана заводчиками США в
+90-х годах XXвека на основе короткохвостых домашних кошек, встречающихся
+на территории этой страны (особенно – в Новой Англии). Кем были генетические
+предки бобтейлов – неизвестно. Возможно, это была рысь, или манкс, или японский
+бобтейл: в пометах всех этих кошек встречаются котята с короткими хвостами и
+даже совсем без них. Родоначальником породы американских бобтейлов считается
+котенок окраса табби по имени Йоди (Yodie). В
+1965 году его подобрали неподалеку от индейской резервации, в штате Аризона.
+Йоди отличался повадками дикого животного и необычайно коротким хвостом. Когда
+малыш подрос, хозяева, супруги Сандерс, подобрали ему подругу – сиамскую
+кошечку Миши. Родившийся от них котенок, тоже имеющий коротких хвостик, был
+скрещен с кошкой кремового окраса, и этот союз вновь принес короткохвостое
+потомство. Тогда и стало понятно, что речь идет о мутации, вызываемой
+доминантным геном, а значит – овозможности создания новой породы, чем и занялись фелинологии Минди Шульц и Шарлотта Бентли. Так в мире появились
+американские бобтейлы – поначалу только короткошерстные. В 80-х годах были
+предпринятые успешные попытки создания длинношерстной вариации породы. Она была
+создана путем скрещивания короткошерстных американских бобтейлов с гималайскими
+кошками (персидскими колор-пойнт). Первый стандарт породы был принят в 1970-м
+году, а в 1989 году ее признала первая международная фелинологическая
+организация – TICA. По
+сей день порода преимущественно распространена в США и Канаде.</p><h3>Внешний
+вид</h3><p>Животное от среднего до крупного размера, вес взрослых
+особей от 3 до 9 кг. Американские бобтейлымогут быть как низкорослыми и коренастыми, так и среднего формата, мощные,
+тяжелые, мускулистые. Главный отличительный признак – укороченный хвост,
+заканчивающийся чуть выше уровня пяток задних ног.</p><p><strong>Голова: </strong>В форме широкого модифицированного клина, без заметных плоских поверхностей или арок. В профиль заметен плавный изгиб при переходе ото лба к носу. Нос широкий, плавно изгогнут. У мордочки ширина чуть больше длины, выраженная и заметная мордочка имеет четкий переход к заметным скулам. Подбородок широкий и глубокий.</p><p><strong>Глаза: </strong>Большие, широкой миндалевидной формы, немного раскосые, поставленные по направлению к основанию уха, брови обычно густые. Развитые надбровные дуги придают внешности этих кошек несколько «суровое» выражение. Цвет глаз не связан с окрасом, кроме окрасов пойнт, минк и сепия.</p><p><strong>Уши: </strong>От среднего до умеренно большого размера, широкие у основания и закругленные на конце. Поставлены довольно высоко и прямо, продолжают линию клина головы. Уши могут казаться заостренными при наличии «рысьих» кисточек.</p><p><strong>Шея: </strong>Средней длины, мускулистая.<br/></p><p><strong>Тело: </strong>Прямоугольного формата, довольно длинное, мускулистое. Спина слегка приподнимается к бедрам, костяк плотный, грудная клетка широкая, круп практически такой же ширины, как грудная клетка, достаточно мощный. Мускулистого и атлетического вида.</p><p><strong>Ноги: </strong>Средней длины, сильные, тяжелые. Задние заметно длиннее передних.</p><p><strong>Лапы: </strong>Широкие, круглые, компактные.</p><p><strong>Хвост: </strong>Короткий, минимальная длина - 2,5см по позвонкам. Не длиннее 10см (не заходящий за скакательный сустав). Слегка изогнут.</p><p><strong>Шерсть:</strong> Полудлинная, густая, двойная, довольно жесткая на ощупь, с густым, очень плотным остевым волосом и умеренно развитым подшерстком. Она не прилегает плотно к телу и выглядит слегка косматой, за счет чего кошка визуально кажется больше, чем на самом деле. Самая длинная шерсть располагается на манишке и хвосте.</p><p><strong>Окрасы:</strong> Любые, включая голубой и красный табби. На пойнтовых окрасах желательны “остаточные" отметины по корпусу. Руфизм у окрасов с “серебром" допустим.<br/></p><p><strong>Недостатки:</strong> Слишком короткая мордочка; резкий переход ото лба к мордочке; слишком короткий (менее 2,5 см) или слишком длинный (более 10 см) хвост; слишком тонкий костяк.<br/></p><p><strong>Дисквалификация на выставках: </strong>Отсутствие хвоста, хвоcт нормальной длины. Хвост с длиной менее 2,5 см, сросшиеся позвонки и неподвижность у основания. </p><p><strong>Дисквалификация всех пород: </strong>Ампутированные когти, крипторхизм, глухота.</p><h3>Особенности
+и характер </h3><p>Короткохвостость
+никак не влияет на здоровье американских бобтейлов: они способны отлично
+прыгать и лазать. Кошка очень спокойная, терпеливая, добродушная, очень
+привязывается к своему хозяину. Любит общество других кошек, может взять «на
+воспитание» чужих котят, и даже к собакам относится терпимо. Не любит
+одиночества. Прекрасно поддается дрессировке, обучаема и умна. Прекрасная
+охотница, любит прогулки. Животные этой породы развиваются
+медленно. Окончательное формирование и полная зрелость наступают в 2-3 года.</p><h3>Содержание
+и уход</h3><p>Уход за кошками этой разновидности породы, конечно, должен
+быть более тщательным, нежели за их короткошерстными собратьями. Длинная шерсть
+американского бобтейла требует ухода, особенно если животное бывает на улице.
+Во время линьки необходимо регулярно вычесывать шерсть кошки специальной
+щеткой. Необходимо также постоянно следить за
+здоровьем кошки: являясь носителем мутации, бобтейл может иметь
+наследственные заболевания. </p><h3>Кормление</h3><p>Необходим сбалансированный рацион.<strong></strong></p><h3>Селекция</h3><p><strong>Допустимые скрещивания:</strong><strong></strong> Американская жесткошерстная.</p><p><strong>Породы, созданные при
+участии Американских бобтейлов: </strong>Си-боб –
+гибрид сиамских кошек с японскими или американскими бобтейлами.<strong><br/></strong></p><h3>Другие
+и устаревшие названия породы</h3><p>Янкибоб. Сноу-боб (вариант бобтейла, окрасом похожего на рысь Аляски).</p><h3>Неофициальные (сленговые) названия</h3><p> <strong></strong>Боб.<br/></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

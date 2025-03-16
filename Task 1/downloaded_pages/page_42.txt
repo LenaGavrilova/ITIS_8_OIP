@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Сиамская порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, SIA, Сиамская,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Сиамская
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Сиамская порода кошек фото" src="https://s3.webestudio.ru/topcat/cat_images/1/b/6/1b6df38ad2847f5d2f17f62dd13c117f.jpg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Сиамская
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>SIA</dd>
+<dt>Группа:</dt>
+<dd>Сиамо-ориентальная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Таиланд
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей, большую часть времени находящихся дома</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы</h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/81/a1/a8/9d/76/17/88/45/eb/80/8e/71/56/ee/ef/86/0829a33a3f45c209c784c31a276ec256.jpeg" style="float: right; width: 428px; margin: 0px 0px 10px 10px;"/></p><h3 style="text-align: justify;"></h3><p style="text-align: justify;">Одна из наиболее старинных пород: кошки, похожие на сиамских, обитали в
+Юго-Восточной Азии более 500 лет назад. Еще в средине XIV века изображение королевской сиамской кошки цвета слоновой кости с
+темными пойнтами появилось в манускрипте «Книга придворных художников», созданном
+в Аютии (Аюдхе) – столице Сиама (древнее название Таиланда). Такие кошки
+считались особо ценными, они жили во дворцах королей и храмах Сиама. Существует
+легенда о том, что тайские принцессы нанизывали кольца на загнутые хвосты своих
+кошек, а кошки загибали хвосты к спине, дабы не растерять драгоценности. По
+другому преданию, сиамские кошки охраняли ценнейшие вазы в древних храмах, где
+их приютили. Обмотав хвосты вокруг ваз, кошки не сводили с них пристального
+взгляда. От этого у них развились косоглазие и загнутый хвост – признаки,
+которые были характерны для первоначальных вариантов породы, в настоящее же
+время все это считается недостатками. В современной истории породы тоже
+фигурирует множество vip-персон. Так, в 1884 году
+английский посол в Таиланде сэр Оуэн Голд привез на родину двух сиамских
+кошечек Фо и Миа. Родившиеся от них котята стали первыми чемпионами на выставке
+1885 года. Среди французов первыми поклонниками сиамских кошек были дипломат
+Огюст Пэви и даже родная племянница президента Карно. Кстати, кошкам
+родственницы президента даже посвятили книгу: в 1893 году ее написал профессор
+французского Музея естествознания Устале. А первое в современной истории описание
+породы принадлежит члену Санкт-Петербургской академии наук Петеру Палласу,
+которые еще в 1793 году упомянул в своих
+рукописях белых кошек с темными конечностями, обитавших в Центральной Азии. </p><p style="text-align: justify;">На выставках сиамские кошки неизменно
+представляются с 1872 года – тогда в лондонском Кристалл-Паласе большим успехом
+пользовался сиамский кот, принадлежавший Дороти Невилл, которая, возможно, и
+была первой заводчицей этой породы. Первый стандарт породы разработан в 1892 году
+Французским центральным сообществом любителей кошек (SCFF), а первый клуб поклонников сиамских кошек создали в 1901 году
+англичане. В Америке первые сиамы появились в 1890-х годах, но по-настоящему
+популярными там стали четверть века спустя. <strong></strong></p><h3 style="text-align: justify;">Внешний
+вид</h3><p style="text-align: justify;">Сиамская кошка относится к сиамо-ориентальной группе,
+являясь самой распространенной короткошерстной породой в мире. Это кошка небольшого размера,
+вес оставляет от 2,5 до 5,5
+ кг. У нее удлиненное, гибкое, восточного типа тело с
+хорошо развитой мускулатурой. Шея и хвост тоже длинные, голова клиновидная, и в
+целом эта кошка выглядит изящно. Характерные признаки породы – короткая шерсть
+и окрас колор-пойнт. Существует несколько вариаций породы: американская – со
+«змеиной» головой, имеющей форму равнобедренного треугольника, узким черепом,
+очень узкими глазами, огромными ушами, очень длинными шеей и ногами и телом как
+«на шарнирах»; английская – с головой в форме равностороннего треугольника,
+большими ушами, не слишком удлиненным туловищем; AppleHead(«Яблочная голова») – тип,
+близкий к старинному, с более круглой головой, созданный американской
+Ассоциацией любителей традиционных кошек (TCA); Тхай – старинный тип с округленной головой, полученный немецкими
+селекционерами путем скрещивания сиамских кошек с британскими короткошерстными
+и европейскими одноцветными.</p><p><strong></strong></p><p style="text-align: justify;"><strong>Голова: </strong>Среднего размера, в форме
+удлиненного клина, образованного прямыми линиями от носа до верхнего края ушей.
+Существуют две разновидности: английский, с более тупыми углами клина, и
+удлиненный американский. Череп слегка выпуклый в профиль. Щеки плоские, кроме
+взрослых самцов, у которых они могут быть немного обвислыми; границы щек
+отсутствуют. Мордочка также в форме клина, удлиненная, узкая, но не слишком заостренная. Нос длинный,
+прямой, без резкого «стопа». Подбородок крепкий, расположенный строго на одной
+линии с мочкой носа.</p><p style="text-align: justify;"><strong>Глаза: </strong>Среднего размера, миндалевидной формы,
+раскосые. Цвет – строго голубой, интенсивный.</p><p style="text-align: justify;"><strong>Уши: </strong>Большие, у основания широкие, с острыми кончиками. Внешний
+край уха продолжает линию головы.</p><p style="text-align: justify;"><strong>Шея: </strong>Длинная, тонкая, слегка выгнутая, изящная.</p><p style="text-align: justify;"><strong>Тело: </strong>Среднего размера, удлиненной, вытянутой формы,
+гибкое, изящное. Плечи одинаковы по ширине с крупом. Костяк тонкий, мускулатура
+развита. </p><p><strong></strong></p><p style="text-align: justify;"><strong>Ноги: </strong>Длинные, стройные, тонкие. Задние длиннее
+передних. Костяк тонкий. </p><p style="text-align: justify;"><strong>Лапы: </strong>Маленькие или среднего размера, овальные.</p><p style="text-align: justify;"><strong>Хвост: </strong>Очень длинный, тонкий, у основания узкий, к
+кончику еще более суживающийся.</p><p style="text-align: justify;"><strong>Шерсть:</strong> Короткая, тонкая, плотная, блестящая на вид,
+шелковистая на ощупь, плотно прилегающая к телу. Подшерсток практически
+отсутствует.</p><p><strong>Окрасы:</strong> Вид окраса колорпойнт. Цвет: тело имеет светлый оттенок, а окрашенная шерсть только на пойнтах – ногах, хвосте, ушах, на мордочке - маска. Цвет окрашенных пойнтов должен быть ровным и четко контрастировать с основным окрасом. <br/>Классическими окрасами считаются: <br/>- сил пойнт: темно-коричневые отметины, основной окрас – теплый бежевый или цвета яичной скорлупы); <br/>- голубой пойнтовый (блю пойнт): фон голубовато-белый или цвета льда, отметины серовато-голубые); <br/>- шоколадный пойнтовый (чоколат-пойнт): основной фон цвета слоновой кости, отметины молочно-шоколадные); <br/>- лиловый пойнтовый (лайлак пойнт): основной фон белый с оттенком цвета слоновой кости (цвет магнолии), отметины коричнево-розовые). <br/>Кроме того, существуют такие окрасы как: <br/>- красный пойнтовый (ред-пойнт): фон белый с абрикосовым отливом, отметины рыжевато-золотистые; <br/>- кремовый пойнтовый (крем-пойнт): кремовые отметины на белом с кремовым отливом фоне); <br/>- пойнтовый с черепаховыми (парти-колор) отметинами различных вариантов <br/>- пойнтовый с табби (линкс) отметинами в различных вариантах окраса <br/>Первоначально был признан только окрас сил-пойнт, который и сегодня остается наиболее распространенным. В некоторых системах (CFA) для сиамской породы признаны только 4 основных окраса, остальные окрасы отнесены в другую породу - Короткошерстный Колорпойнт. <br/>Котята сиамской породы рождаются белыми, отметины начинают появляться на 5-й день. Окончательный цвет окраса устанавливается к 1 – 1,5 году, с возрастом пятна темнеют (особенно, у сил пойнтового окраса).<br/>Сиамский тип окраса имеет тенденцию к смене тона, насыщенности и оттенка в зависимости от температуры окружающей среды. Как правило, чем холоднее, тем темнее становится животное. Оптимальная температура для выставочной сиамской кошки – 25-28 °C.</p><p><strong>Недостатки:</strong> Бледный цвет глаз; ярко выраженные дефекты строения хвоста (заломы); стернум; не соответствующий окрасу шерсти цвет подушечек лап и зеркальца носа.</p><p><strong>Дисквалификация на выставках: </strong>любые выраженные признаки заболевания; слабые задние конечности; не голубые глаза; белые пятна на отметинах; четко выраженные пятна на животе; косоглазие, дыхание через нос из-за зауженных носовых проходов; белые подушечки лап; неправильный прикус; некорректное количество пальцев на лапах; перекус/недокус челюсти.</p><p style="text-align: justify;"><strong>Дисквалификация всех пород:</strong> Ампутированные когти, крипторхизм, глухота. Любые видимые костные деформации.<br/></p><h3 style="text-align: justify;">Особенности
+и характер </h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/33/ec/68/3d/51/a6/d8/ad/54/4f/57/23/29/91/63/72/3f1c5bff3d9b15e99604416a6e3824f9.jpeg" style="float: right; width: 404px; margin: 0px 0px 10px 10px;"/></p><h3 style="text-align: justify;"></h3><p style="text-align: justify;">Сиамская кошка очень активна, темпераментна, чрезвычайно
+общительна, ненавидит одиночество и не выносит равнодушия к себе. Если хозяин
+не замечает ее, она может впасть в депрессию. Капризна, настойчива,
+непредсказуема. Обладает довольно громким голосом с множеством интонаций,
+некоторые считают его довольно неприятным. Очень любит «поговорить»,
+привязчива. Игрива, нежна, любит играть с детьми. А вот с кошками и другими
+домашними животными ладит плохо, поскольку отличается весьма ревнивым
+характером. Обожает тепло и комфорт, поэтому прекрасно чувствует себя в
+квартире. Не любит холода и сырости. Половое созревание раннее, первые течки
+могут появляться уже к 5-му месяцу жизни. Далее они повторяются каждые 2
+недели, в любой сезон года. Плодовитость выше средней. Может страдать
+отсутствием аппетита и наоборот, ожирением, может проявлять признаки стресса.</p><h3 style="text-align: justify;">Содержание
+и уход</h3><p style="text-align: justify;">Благодаря короткой шерсти уход за сиамами считается
+легким, достаточно одной-двух чисток в неделю специальной рукавицей или даже
+просто влажной ладонью. Если кошка проявляет признаки нервозности, следует
+немедленно отвлечь ее игрушкой или едой и удалить внешние раздражители. Котят
+нельзя слишком рано отрывать от кормящей матери во избежание проявления вредных
+привычек (сосание шерсти).</p><h3 style="text-align: justify;">Кормление</h3><p style="text-align: justify;">Из-за того, что эта порода имеет склонность к избыточному
+весу, очень важно сбалансированное и полноценное питание. Допустимы только
+высококачественные сухие и консервированные корма. </p><h3 style="text-align: justify;">Селекция</h3><p style="text-align: justify;"><strong>Допустимые скрещивания: </strong>Балийская; Ориентальная
+короткошерстная; Ориентальная длинношерстная, Бурманская</p><p style="text-align: justify;"><strong>Породы, созданные при участии Сиамских кошек: </strong>Австралийская; Бурманская;
+Балийская; Гималайская; Джунгала; Калифорнийская крапчатая; Кхмерская; Оухи-боб;
+Оцикет; Саванна; Сиамская Сноу-шу; Сиа-фолд; Сноу-шу; Тонкинская; Яванская.</p><p style="text-align: justify;">Гибриды: Ванез – с турецким ванном золотого окраса; Манчемейз
+– с манчкином; Ориентальный фолд – гибрид скотиш-фолда и сиамской или
+ориентальной кошки; Персидская малайская – устаревшее название гибрида
+персидских и сиамских кошек; Саванна – устаревшее название гибрида бенгальских
+и сиамских кошек; Си-аби – с абиссинской кошкой; Сиа-кун – с мэйн-куном; Сиамолайн
+– с гималайской кошкой; Сиамали - с сомалийской кошкой; Сиамилла – с бурмиллой;
+Сианкс – с манксом; Си-бир – с бирманской кошкой; Си-боб – с японским бобтейлом;
+Сиаманкс – с манксом; Хемингуей тайский – гибрид сиамской и полидактильной
+кошки.</p><h3>Другие
+и устаревшие названия породы</h3><p><strong></strong>Королевская кошка Сиама; </p><p>Королевская кошка; </p><p>Королевская сиамская; </p><p>Бонданез – кошка более бледного окраса, возникающего за счет наличия гена
+альбиноса<strong></strong></p><h3>Неофициальное
+(сленговое) название породы на русском языке</h3><p><em>сиам; сиамец; сиамка</em></p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший в породе
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/482738" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/1/b/6/1b6df38ad2847f5d2f17f62dd13c117f.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/482738" target="_blank">
+                                                    Faraon-Show Dzen
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#SIA">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший взрослый
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/482738" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/1/b/6/1b6df38ad2847f5d2f17f62dd13c117f.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/482738" target="_blank">
+                                                    Faraon-Show Dzen
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#SIA">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/13">Jubatus</a>, Новочебоксарск
+                                                </li>
+<li>
+<a href="/catteries/36">Bastet Ural</a>, Екатеринбург
+                                                </li>
+<li>
+<a href="/catteries/107">Elforia</a>, Архангельск
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=80">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

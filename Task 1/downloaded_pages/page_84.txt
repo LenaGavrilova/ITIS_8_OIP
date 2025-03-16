@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Бурмилла длинношерстная порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, BML, Бурмилла длинношерстная,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Бурмилла длинношерстная
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Бурмилла длинношерстная порода кошек фото" src="https://s3.webestudio.ru/topcat/breed_article_images/5/5/8/5583d2c642c0598e67af210ef2681f8b.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Бурмилла длинношерстная
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>BML</dd>
+<dt>Группа:</dt>
+<dd>Полудлинношерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Австралия
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей, живущих в доме с садом</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы </h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/b6/e1/23/49/61/98/70/55/00/85/64/67/04/9b/d7/0c/b5e8f2aff4234fbf19110c754058aa26.jpeg" style="width: 445px; float: right; margin: 0px 0px 10px 10px;"/></p><h3></h3><h3></h3><p>Время появления на свет этой
+достаточно редкой породы – 90-е годы минувшего столетия. Она создана в
+результате скрещивания бурманских кошек и персидских шиншилл; собственно, слово
+«бурмилла» является симбиозом слов «бурма» и «шиншилла». Однако первоначально
+владельцы очаровательных длинношерстных котят, селекционеры из Сиднея
+(Австралия) Колин Уолтерс и Тина Тисдейл хотели назвать новую породу
+«астралийская тиффани». Свое нынешнее наименование порода обрела в 1999 году.
+На сегодняшний день бурмиллы длинношерстные являются весьма распространенной
+породой кошек на зеленом континенте, а вот в других частях света эти животные
+по-прежнему считаются очень редкими. В Англии в 1984 году был создан клуб
+любителей бурмилл. Годом раньше, после признания британской CatAssociationэти
+кошки начали принимать участие в выставках. Официальное признание породы со
+стороны CSFF произошло
+в 1989 году. В 1999 году была зарегистрирована в FA NSW, как австралийская тиффани. Однако международными организациями это название
+принято не было. FIFe
+не признает породу и под нынешним названием, а WCF признает длинношерстный
+вариант бурмиллы только как член WCC.</p><h3>Внешний
+вид</h3><p>От своих бурманских предков эти кошки унаследовали
+телосложение, а от персидских шиншилл – затененный окрас. Это животные среднего
+размера с удивительным для этих размеров весом – 4 – 7 кг. Кошка утяжеленного
+восточного типа, весьма элегантная. Имеет плотный костяк с хорошо развитой
+мускулатурой.</p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/84/47/68/de/8c/fb/4c/00/e4/f2/e4/dd/8a/7a/d0/44/e6cc5812302e2ea44254c90d174d05b7.jpeg" style="width: 333px; float: left; margin: 0px 10px 10px 0px;"/></p><p><strong></strong><strong>Голова:</strong><span class="apple-converted-space"><strong> </strong></span>Среднего размера, круглая, на уровне бровей достаточно широкая, с заметно округлым лбом. Постепенно сужается к хорошо заметной челюсти. Мордочка коротко-клиновидная, хорошо развитая, широкая, с мягкими и закругленными обводами. Нос с явным «стопом», кончик должен находиться на одной линии с подбородком, прикус правильный. Мочка носа не розовая, а красная, окруженная темным ободком. Между глазами есть более темная зона в форме буквы «М» - остаток тигровой окраски. Подбородок хорошо развитый. Выше надбровных дуг волосы редкие.</p><p><strong>Глаза: </strong>Большие, широко поставленные, слегка
+скошенные. Имеют форму полумесяца, окружены темным ободком. Допускаются все
+оттенки зеленого, однако предпочтительнее ярко-зеленый. У котят и животных до
+двухлетнего возраста разрешается наличие желтоватого оттенка. </p><p><strong>Уши: </strong>Средних или больших размеров, широкие
+у основания, с закругленными кончиками. Широко расставлены, слегка направлены
+вперед, покрыты короткой шерстью, внутри – более редкой.</p><p><strong>Шея: </strong>Короткая или средней длины, хорошо
+развитая. Допускаются неполные темные кольца.</p><p><strong>Тело: </strong>Среднего размера, достаточно
+компактное. Грудь широкая, закругленная, плечи и бедра одной ширины. Круп
+расположен выше плеч. Костяк очень крепкий, мускулатура мощная.</p><p><strong>Ноги: </strong>Средней длины, с крепкими костями.
+Задние чуть длиннее передних. Мускулатура мощная. Иногда имеется заметный
+агути-эффект.</p><p><strong>Лапы: </strong>Среднего размера, овальные.</p><p><strong>Хвост: </strong>Средней длины или длинный, суживающийся к закругленному кончику.</p><p><strong>Шерсть:</strong> Тонкая, шелковистая, имеет более выраженную
+густоту и длину в области хвоста, образуя шлейф. На ощупь кажется невесомой.</p><p><strong>Окрасы:</strong> Среди разновидностей окраса породы
+допускаются множество серебристых оттенков. Агути-эффект проявляется только на
+голове, лапах и хвосте, живот без агути-эффекта. Вид окраса – затененный, а
+цвет может быть черным, шоколадным, красным, голубым, лиловым, кремовым,
+карамельным, абрикосовым. Основной окрас подшерсткаобычно серебристый или золотистый, кончики
+волос – коричневые (соболек), голубые, шоколадные, лиловые, рыжие, кремовые.
+Ярко выраженный типинг. Спинка, маска и хвост должны быть более темными, чем
+живот.</p><p><strong></strong><strong>Недостатки:</strong>Слабый подбородок; наличие шишки на носу; недопустимая форма глаз: они не должны быть миндалевидные; слишком длинные ноги; излишне длинная или торчащая шерсть; табби рисунок на типпинге, полностью окрашенные волоски, неравномерный типпинг, руфизм. Окрашенные скакательные суставы у шиншилл. </p><p><strong></strong><strong>Дисквалификация на выставках:</strong> Неправильный цвет глаз у взрослых животных.<strong> </strong>Укороченное или слишком растянутое, ориентального типа туловище. Слишком обильный подшерсток. </p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/cf/2a/cc/1e/2a/10/f6/4c/42/bc/96/5c/71/13/e1/4a/4c0ece8f966e89500a7e5aabde0c1214.jpeg" style="width: 347px; float: right; margin: 0px 0px 10px 10px;"/></p><p><strong>Дисквалификация
+всех пород: </strong>Ампутированные когти, крипторхизм, глухота. Заметные костные деформации.</p><h3>Особенности
+и характер </h3><h3></h3><p>Длинношерстная бурмилла имеет достаточно покладистый
+характер. Она не агрессивна, спокойна, не конфликтует с другими домашними
+животными, но может ревновать к ним хозяина. Котята очень подвижны и игривы, с
+возрастом их поведение переходит в созерцательную форму. Кошка данной породы
+обожает прогулки на свежем воздухе, поэтому ей больше подойдет дом с садом,
+нежели обычная квартира. Обладает музыкальным слухом и чувством ритма.</p><h3>Содержание
+и уход</h3><p>В целом уход за кошками этой породы необременителен.
+Несмотря на длинную и обильную шерсть, бурмилл не нужно вычесывать ежедневно,
+можно проводить эти процедуры 2-3 раза в неделю. А вот в процессе линьки
+животного отмершую шерсть необходимо своевременно удалять, утром и вечером
+расчесывая гребнем и приглаживая кусочком замши. Также необходим постоянный
+контроль состояния ушей, глаз и зубов бурмилл. Купать этих кошек часто не
+нужно, достаточно делать это один раз в сезон или по мере загрязнения шерсти.</p><h3>Кормление</h3><p>Требуется сбалансированное питание без изобилия углеводов
+и жиров, так как бурмиллы склонны к избыточному весу.<strong></strong></p><h3>Селекция </h3><p><strong>Допустимые скрещивания: </strong>Бурманская; Тиффани
+(бурманская с полудлиной шерстью) – (FIFe). </p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/ff/41/e7/7d/97/ce/46/b6/10/c2/3a/63/b0/f2/b4/cf/c9fa56a5ce9ddf4bd3b6728901a07aea.jpeg" style="width: 377px; float: right; margin: 0px 0px 10px 10px;"/></p><p><strong>Породы, созданные при участии Бурмилл длинношерстных</strong></p><h3>Другие
+и устаревшие названия породы</h3><p>Бурманская серебристая</p><h3>Неофициальное (сленговое) название породы на
+русском языке</h3>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/5199">Lucky Owl</a>, Stabio
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=105">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

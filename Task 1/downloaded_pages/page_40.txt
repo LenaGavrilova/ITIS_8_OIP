@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Уральский рекс длинношерстный порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, URL, Уральский рекс длинношерстный,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Уральский рекс длинношерстный
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Уральский рекс длинношерстный порода кошек фото" src="/styles/public/images/default_avatars/cat.png">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Уральский рекс длинношерстный
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>URL</dd>
+<dt>Группа:</dt>
+<dd>Полудлинношерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Россия
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для людей, часто находящихся дома</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История породы</h3><p>Одна из русских аборигенных пород кошек, однако, в отличие  от сибирской, далеко не столь многочисленная и известная. О кошках с  курчавой (рексовой) шерстью, обитавших в деревнях и городах Урала, было  известно еще с 30-40-х годов прошлого века. Вероятно, они рождались в  пометах обычных домашних кошек в результате спонтанной мутации шерсти.  Во время Великой Отечественной войны их популяция сократилась настолько  сильно, что их считали полностью исчезнувшими. Обрывочные сведения о  похожих животных вновь всплывали приблизительно в 60-х годах, однако о  создании породы тогда нигде официально не заявлялось.</p><p>Точкой  отсчета в истории породы следует считать 1988 год, когда в городе  Заречный Свердловской области, у г-жи Подуровской Людмилы Семеновны, от  обычной дворовой, причем, прямошерстной кошки родился курчавый кот по  имени Василий. Когда Василий немного подрос, кудряшки стали  слабовыраженными, а вот к наступлению взрослого возраста его курчавая  шубка вернулась. Все ныне зарегистрированные представители породы ведут  свое происхождение именно от этого животного. Ген рексовости у этих  кошек иной, нежели у корниш-рексов, он получил название по названию  породы и месту возникновения. «Родоначальник» рексов с Урала кот Василий   имел короткую, плотно прилегающую шерсть. В 1994 году он был скрещен  со своей матерью, в результате чего на свет появились Барс и Мурка –  животные, заложившие племенную базу оригинальной местной породы.</p><p>  За 18 лет на основе этих кудрявых кошек заводчиками УРОФО «Грация», под  руководством Елены Борисовны Федоренко, создана новая порода кошек –  уральский рекс. Порода, берущая начало из естественной среды, сейчас уже  приближена к заводской. Такая возможность появилась в результате  целенаправленной работы энтузиастов в Екатеринбурге, на родине Уральских  Рексов.</p><p>Впервые уральские кошки с рексовой шерстью были описаны  российским фелинологом Ольгой Мироновой в 1991 году. В 1994 году СФФ и  ФАР приняли предварительный стандарт породы. Первое официальное  признание уральских рексов со стороны мировой системы – ею стала WCF –  последовало в 2006 году. Признания большинства систем не получено до сих  пор. В декабре 2012 года порода признана в Российской системе МФА.  Порода и сегодня остается достаточно редкой и встречается в основном в  России. Известны также питомники в Дрездене и Дортмунде (Германия).</p><h3>Внешний вид</h3><p>Уральский рекс представляет собой хорошо развитую кошку  средних размеров с волнистой шерстью короткой или средней длины,  отличной от шерсти корниш- и герман-рекса. Выражен половой деморфизм:  коты более крупные и тяжелые, чем кошки. </p><p><strong>Голова:</strong>  В форме широкого короткого клина с округлыми очертаниями  пропорциональна телу. Лоб слегка округлен, профиль с отчетливым  переходом вплоть до легкого стопа не выше уровня нижнего века.  Переносица плоская и широкая. Скулы подчёркнуты, отчётливый пинч. Морда  широкая, округлая. Сильный подбородок слегка округлен. Вибрисы часто  извитые.</p><p><strong>Глаза:</strong> Миндалевидной формы, яркие и  чистые, очень широко открыты, при этом очень косо поставлены со слегка  спрямленным верхним веком и округлым нижним. Поставлены широко:  расстояние между глазами не менее ширины одного глаза. Цвет глаз любой.</p><p><strong>Уши:</strong>  От среднего до небольшого размера, предпочтительны небольшие, в форме  равностороннего треугольника. Высоко и прямо поставленные, широкие у  основания, кончики закруглены.</p><p><strong>Тело:</strong> Среднего  размера, мускулистое, умеренно компактное, но при этом стройное. Торс  хорошо округлен и пропорционален. Грудная клетка округлая и хорошо  развита.</p><p><strong>Ноги:</strong> Крепкие и сильные, средней длины, стройные, пропорциональны телу.</p><p><strong>Лапы: </strong>Округлые.</p><p><strong>Хвост:</strong> Пропорционален телу, средней длины, неширокий у основания, сужающийся к слегка округлому кончику.</p><p><strong>Шерсть:</strong> Полудлинная. Характерна менее выраженная волна по корпусу. Выражена небольшая грива. Завиток в виде локонов или спирали, удлиненная извитая шерсть на хвосте. Самая длинная шерсть может быть менее ярко окрашена.</p><p><strong>Окрасы:</strong>  Признаны все окрасы, кроме: шоколадный, циннамон и соответствующие  ослабленные окрасы, которые не признаются в любых комбинациях (в том  числе солид, биколор, триколор, табби); бурмезские и тиккированые тэбби.  Любое количество белого допустимо.</p><p><strong>Недостатки:</strong>  Узкая длинная голова; слишком большие или слишком маленькие уши; слишком  прямой профиль; круглые глаза; приземистое или излишне облегченное  тело.</p><p><strong>Дисквалификация на выставках: </strong>Просвечивающая или не волнистая шерсть.</p><p><strong>Дисквалификация всех пород: </strong>Ампутированные когти, крипторхизм, глухота.</p><h3>Особенности и характер </h3><p>Уральский  рекс обладает чрезвычайно приятным характером. Эта кошка очень ласкова и  игрива, доверчива, доброжелательна к людям, хорошо ладит с другими  домашними животными. Терпелива,  не проявляет агрессии, спокойно ведет  себя на выставках. Неприхотлива, очень послушна, не выносит одиночества.  Отлично развиты охотничьи инстинкты. Довольно молчалива. В пометах  обычно 2–4 котенка. Кошки-рексы всегда заботливые матери.</p><h3>Содержание и уход</h3><p>Уход за уральским рексом несложный: достаточно регулярно и  очень аккуратно расчесывать шерсть кошки специальной расческой с  закругленными концами. Однако в период линьки может потребоваться  тримминг. Шерсть ослабленного или больного животного может истираться. В  связи с тем, что порода имеет естественное происхождение, уральские  рексы обладают хорошим здоровьем.</p><h3>Кормление</h3><p>Уральские рексы имеют очень хороший аппетит, однако к ожирению не склонны. Возможно кормление натуральными продуктами.</p><h3>Селекция</h3><p><strong>Допустимые скрещивания: </strong>нет</p><p><strong>Породы, созданные при участии Уральских рексов короткошерстных: нет</strong></p><h3>Неофициальное (сленговое) название породы на русском языке </h3><p>урал, уралы</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/11">Shuravy</a>, Екатеринбург
+                                                </li>
+<li>
+<a href="/catteries/173">from Uralland</a>, Коломна
+                                                </li>
+<li>
+<a href="/catteries/431">Découte</a>, Екатеринбург
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=30">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Классикэт порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, CLA, Классикэт,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Классикэт
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Классикэт порода кошек фото" src="https://s3.webestudio.ru/topcat/breed_article_images/6/f/a/6fa3eeec6cfe03ec6c857319248c3f51.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Классикэт
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>CLA</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Развивающаяся</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Новая Зеландия
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для семей с детьми</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История
+породы 
+</h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/32/02/6e/be/d6/c8/66/16/01/d1/17/1d/e4/a3/14/f5/27a50f67110f2b6389a128d22cabaf18.jpeg" style="width: 343px; float: right; margin: 0px 0px 10px 10px;"/>
+</p><h3></h3><p>Классикэт (джунгала) – довольно
+новая порода кошек, выведенная селекционным путем в Новой Зеландии с участием
+абиссинских, сиамских и американских короткошерстных кошек. Ее первое название,
+а также некоторые альтернативные, прямо отсылает нас к породе оцикэт, на
+основании которой, собственно, и были выведены классикэты. По сути, это оцикэт
+с окрасом классический (мраморный) табби. Другое название породы – джунгала –
+восходит к санскриту: так на этом древнеиндийском литературном языке именуются
+джунгли. Так же, как и название породы оцикэт, происходящее от оцелота, оно
+намекает на своего рода «дикость», во всяком случае, в отношении окраса. Первые
+котята этой породы были выведены в самом конце XX века в новозеландском питомнике,
+входящем в корпорацию CATZIncorporatet.
+Первой международной системой, признавшей классикэтов-джунгала, была NZCF. Это произошло в 2001
+году.
+</p><h3>Внешний
+вид
+</h3><p>Кошка от среднего до крупного размера, умеренного типа,
+мускулистая и крепкая, но при этом изящная и гибкая. Выражен половой диморфизм.
+Может иметь удивительно большой для своего вида вес.
+</p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/38/43/bc/91/a0/6e/3a/55/c5/23/f0/07/bd/12/3e/7e/dd994d0a158ceef046309cbc42484faf.jpeg" style="width: 415px; float: left; margin: 0px 10px 10px 0px;"/>
+</p><p><strong>Голова: </strong>В виде модифицированного клина, с видимым, но плавным переходом ото лба к
+переносице. Мордочка
+широкая, почти прямоугольной формы, с длинным профилем. Подушечки вибрисс
+заметные. Подбородок сильный, челюсти выраженные.
+</p><p><strong>Глаза: </strong>Большие, миндалевидной формы, несколько
+раскосые, расстояние между глазами больше длины одного глаза.
+Цвет допустим любой, за исключением синего. Глубокий тон предпочтительнее.
+</p><p><strong>Уши: </strong>Большие, поставлены очень высоко, отклонены от
+вертикальной оси приблизительно на 45 градусов.
+</p><p><strong>Шея: </strong>Изящная, гибкая.
+</p><p><strong>Тело: </strong>Длинное, крепкое, но не грубое, атлетичного
+вида, с хорошо развитыми костяком и мускулатурой.
+</p><p><strong>Ноги: </strong>Средней длины, мускулистые и мощные,
+пропорциональные по отношению к телу.
+</p><p><strong>Лапы: </strong>Компактные, овальной формы, с пятью пальцами
+на передних ногах и четырьмя на задних.
+</p><p><strong>Хвост: </strong>Средней длины и толщины, несколько
+суживающийся к темному кончику.
+</p><p><strong>Шерсть:</strong>
+	Короткая, плотная, гладкая, атласной текстуры, с выраженным блеском, ни в коем
+случае не пушистая. По длине должна быть достаточной, чтобы на теле животного
+мог образоваться характерный мраморный рисунок, который и является основным
+отличительным признаком, наряду с «диким» окрасом.
+</p><p><strong>Окрасы:</strong>
+	Окрас по виду – мраморный табби, по цвету может быть разнообразным, с очень
+темными отметинами на более светлом фоне по всему телу, за исключением кончика
+хвоста. Все цвета должны быть четко выраженными. Самый светлый оттенок шерсти –
+вокруг глаз; кончик хвоста всегда темный. Характерным признаком породы является
+также наличие четко выраженной темной отметины в виде буквы «М» на лбу
+животного.
+</p><p><strong>Недостатки:</strong> Грубый
+или громоздкий вид животного; голубой цвет глаз; изломанный или деформированный
+хвост; неправильное количество пальцев; наличие белых медальонов или белых
+пятен в любых местах, кроме шерсти вокруг глаз, ноздрей, подбородка и передней
+части шеи.
+</p><p><strong>Дисквалификация
+на выставках: 
+	</strong>Нечеткие или размытые (не контрастные по отношению к фону)
+отметины. Следует, однако, помнить, что чем бледнее общий цвет окраса, тем
+менее контрастными будут и темные отметины.
+</p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/e6/76/3b/65/5e/51/cf/5f/8e/d4/97/ec/6b/32/88/0f/0fbab96a13a41c551844cc747a2d8479.jpeg" style="width: 401px; float: right; margin: 0px 0px 10px 10px;"/>
+</p><p><strong>Дисквалификация
+всех пород: 
+	</strong>Ампутированные когти, крипторхизм, глухота.
+</p><h3>Особенности
+и характер 
+</h3><h3></h3><p>Классикэт - веселая, энергичная кошка, обладающая
+хорошим природным здоровьем. Считает себя полноправным членом семьи, обожает
+гостей, участвовать в семейных событиях, «разговаривать» с хозяевами. Очень
+активная и неугомонная, имеющая свое мнение на все, умна, легко обучаема. Иногда
+может предпринимать попытки манипулирования своим хозяином.
+</p><h3>Содержание
+и уход
+</h3><p>Уход за кошками этой породы несложен. Тонкую, шелковистую
+шерсть классикэта достаточно регулярно расчесывать обычной силиконовой щеткой. Классикэты
+практически не линяют, самостоятельно следят за чистотой своей шерсти и не
+требуют регулярных купаний. Однако, вылизывая шерсть, заглатывают ее, и со
+временем шерсть может сформироваться в комок, закупорив пищеварительный тракт
+кошки. В дикой природе животные справляются с этой проблемой самостоятельно, заглатывая
+стебли растений и травинки. Трава раздражает стенки желудка и стимулирует
+отрыжку, которая помогает избавиться от проглоченной шерсти. Кошке, содержащейся
+в домашних условиях, можно организовать газон, посеяв семена овса, или просто
+использовать пасту для растворения шерсти. Игры и общение с хозяином очень
+важны психологического здоровья классикэта, поэтому необходимо обеспечивать
+своего питомца достаточным количеством игрушек: для него это не просто забава,
+а возможность как можно дольше сохранить отличную физическую форму, ловкость и
+сообразительность.
+</p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/f4/b8/fc/48/30/ca/7f/91/8a/85/17/6a/3d/53/b6/cf/bfddc9a53a0b5250beef070b43b26e56.jpeg" style="width: 396px; float: right; margin: 0px 0px 10px 10px;"/>
+</p><h3>Кормление</h3><p>Необходим
+сбалансированный рацион.
+</p><h3>Селекция</h3><p><strong>Допустимые скрещивания</strong>
+</p><p><strong>Породы, созданные при участии Классикэтов </strong><strong><br/></strong>
+</p><h3>Другие
+и устаревшие названия породы
+</h3><p>Джунгала;
+</p><p>Оцикэт Мраморный;
+</p><p>Классический оцикэт;
+</p><p>Оцикет блотчед.
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

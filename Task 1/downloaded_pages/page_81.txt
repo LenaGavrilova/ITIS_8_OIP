@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Скоттиш страйт короткошерстный порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, SFS 71, Скоттиш страйт короткошерстный,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Скоттиш страйт короткошерстный
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Скоттиш страйт короткошерстный порода кошек фото" src="https://s3.webestudio.ru/topcat/cat_images/6/4/2/642f5e17f9aea695ad76f551effa332c.jpg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Скоттиш страйт короткошерстный
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>SFS 71</dd>
+<dt>Группа:</dt>
+<dd>Короткошерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                Великобритания
+
+                                                    ,
+                                                Шотландия
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для любых семей</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История породы</h3><p>Внешне Скоттиш страйт, или шотландская короткошерстная, отличается от своих вислоухих собратьев исключительно строением ушей: у страйта уши абсолютно нормальные, прямостоячие. Скоттиш страйт имеет такие же породные признаки, что и Скоттиш фолд. Прямоухие котята встречаются в помётах наряду с котятами, имеющими сложенные вперёд ушки. Первоначально они считались лишь «материалом» для разведения Скоттиш фолдов, поскольку при вязке «фолд на фолд» между собой нередко рождались животные с патологиями опорно-двигательного аппарата. После изучения проблемы генетиками – это были Питер Дайте и доктор Олифан Джексон – стало понятно, что для нормального разведения Скоттиш фолдов необходимо отдать предпочтение гетерозиготной форме - то есть, постоянным скрещиваниям с «нормальноухими» особями. Однако в недавнее время Скоттиш страйты были выделены в самостоятельную породу. Шотландская короткошерстная – это порода для тех, кто хочет иметь дома «нормальную» кошку, без мутаций, но с «фирменным» открытым, по-детски наивным выражением лица и дружелюбным характером шотландца. Ведь настоящий Скоттиш фолд лишен агрессии на генетическом уровне.
+</p><h3><strong></strong>Внешний вид <strong></strong></h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/f9/6a/87/5c/3b/b4/24/f8/5a/2f/e4/ab/4e/d9/20/93/63d5d4ff6290638ba53ee1f45a5f1d53.jpeg" style="float: right; margin: 0px 0px 10px 10px;"/>
+</p><h3><strong></strong></h3><p>Животное среднего размера с крепким, но не тяжеловесным туловищем прямоугольного формата. Средний вес взрослого животного 3-5,5 килограмм, выражен половой диморфизм. Окончательно определить, какие котята в помете будут прямоухими, при их рождении может только очень опытный заводчик, да и то не всегда. Все котята шотландской породы рождаются с практически одинаковыми ушками, и только спустя три недели у кого-то из них формируется фолдовая складка и ушки плотно прижимаются к голове, а у кого-то они остаются прямостоячими.
+</p><p><strong>Голова:</strong> Круглая, с круглым черепом и лбом, круглыми щеками. Скулы круглые, щеки полные. Мордочка широкая, округлая, подчеркнута круглыми и полными подушечками под вибриссами. Нос широкий, короткий, прямой, с хорошо выраженным переходом, без стопа и горбоносости. Подбородок хорошо оформленный, круглый, сильный, но не выступающий.
+</p><p><strong>Глаза: </strong>Большие, круглой формы, открытые с милым выражением, расставлены довольно широко, взгляд похож на совиный. Цвет должен гармонировать с окрасом шерсти.
+</p><p><strong>Уши: </strong>Небольшие или средней величины с закруглёнными кончиками, не широкие в основании, внешние края практически параллельны друг другу. Наклон уха почти отсутствует. Сама ушная раковина тонкая, на ощупь похожа на пергамент. Наружные поверхности ушей хорошо опушены. Внутри плотные и пышные щётки.
+</p><p><strong>Шея:</strong> Короткая, широкая, мускулистая. Поэтому при взгляде на кошку создаётся впечатление, что голова плавно перетекает в туловище.
+</p><p><strong>Тело: </strong>Средней величины, умеренной длины, прямоугольного формата, одной ширины от плеч до крупа, плотное, мускулистое, со средним костяком.
+</p><p><strong>Ноги:</strong> Средней длины и толщины, пропорциональны длине тела. Мускулатура хорошо развита.
+</p><p><strong>Лапы: </strong>Округлые, похожие на овальную «перчатку», компактные, среднего размера.
+</p><p><strong>Хвост: </strong>Длинный, в пропорции к телу, подвижный во всех сочленениях. Средней толщины, обязательно сужающийся к кончику.
+</p><p><strong>Шерсть:</strong> Очень мягкая, шелковистая, слегка отстоящая от тела, короткая.
+</p><p><strong>Окрасы:</strong> Признаны все окрасы: сплошные, черепаховые, мраморные, колорпойнт и другие.
+</p><p><strong>Недостатки:</strong> Широкие британского постава уши; плотная ушная раковина; тяжелый тип; плоский лоб; заметный стоп; прогнутая спина; коровий постав задних конечностей; сближенность коленных суставов; любые аномалии строения скелета и постава конечностей; жёсткий и неподвижный хвост; скрип и пощёлкивание в межпозвонковых суставах.
+</p><p><strong>Дисквалификация на выставках: </strong>Крючок на хвосте; слишком короткий и/ или жесткий и неподвижный хвост с  чрезвычайно толстыми позвонками; неправильное число пальцев; заметная  болезненность движений; плохое здоровье.
+</p><p><strong></strong>
+</p><p><strong>Дисквалификация всех пород: </strong>Ампутированные когти, крипторхизм, глухота.
+</p><h3>Особенности и характер                                                </h3><p>Шотландская прямоухая кошка отличается спокойным, уравновешенным характером. Она весьма дружелюбна, не проявляет агрессивности и всеми силами старается избегать конфликтов. Хорошо приспосабливается к любым условиям проживания.
+</p><h3>Содержание и уход</h3><p>Уход за кошками породы Скоттиш страйт несложен. Это сильные, крепкие кошки с хорошим здоровьем. Как любую короткошёрстную кошку, их достаточно мыть специальными средствами раз в четыре недели. В период линьки, во избежание появления дома нежелательной шерсти, это можно делать еженедельно.
+</p><h3>Кормление</h3><p>Питание должно быть сбалансированным.
+</p><h3>Другие и устаревшие названия породы</h3><p>Шотландская короткошерстная;
+</p><p>Шотландская прямоухая.
+</p>
+</div>
+</div>
+<div class="additional-info">
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший в породе
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/308845" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/6/4/2/642f5e17f9aea695ad76f551effa332c.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/308845" target="_blank">
+<span class="cat-title" data-toggle="tooltip" title="Большой Международный Премиор">WOC Gr.Int.Pr.</span> Joy Fx from Red Silk
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#SFS%2071">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<div class="item-title">
+                                            Лучший кастрат
+                                        </div>
+<div class="best-cat-container">
+<div class="best-cat-photo">
+<a href="/cats/308845" target="_blank">
+<img src="https://s3.webestudio.ru/topcat/cat_images/6/4/2/642f5e17f9aea695ad76f551effa332c.jpg"/>
+</a>
+</div>
+<div class="best-cat-text">
+<a href="/cats/308845" target="_blank">
+<span class="cat-title" data-toggle="tooltip" title="Большой Международный Премиор">WOC Gr.Int.Pr.</span> Joy Fx from Red Silk
+                                                </a>
+</div>
+<div class="best-cat-text">
+<a class="breed-raiting" href="/ranking#SFS%2071">
+                                                        Текущий рейтинг породы
+                                                    </a>
+</div>
+</div>
+</div>
+<div class="additional-info-item">
+<span class="item-title">Питомники породы</span>
+<div class="catteries-container">
+<ul>
+<li>
+<a href="/catteries/2276">FairyZews</a>, Саранск
+                                                </li>
+<li>
+<a href="/catteries/258">Volga Dawn's</a>, Самара
+                                                </li>
+<li>
+<a href="/catteries/33">Leven Dee</a>, Смоленск
+                                                </li>
+</ul>
+<div class="show-all">
+<a href="/catteries?breed_id=136">показать все питомники  »</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>

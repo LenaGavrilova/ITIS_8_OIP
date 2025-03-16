@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="http://top-cat.org/styles/public/images/icons/topcat_thumbnail.jpg" property="og:image">
+
+
+<title>
+    Йорк шоколадный порода кошек, фото. TopCat
+</title>
+<meta content="
+" name="description"/>
+<meta content="
+    Справочник пород, породы кошек, YOR, Йорк шоколадный,
+    Top Cat, TopCat, Топ кэт
+" name="keywords"/>
+<meta content="6ad5544a92a9234c" name="yandex-verification"/>
+<meta content="yV5347ThZaQNIX7BJlsN0AqWaMM8XQUU8ZS-pPptC4Q" name="google-site-verification"/>
+<meta content="4c8d36dd47dcabf9" name="mailru-verification"/>
+<meta content="app-id=1449572907" name="apple-itunes-app"/>
+<meta content="app-id=com.topcatmobile" name="google-play-app"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Applications -->
+
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</meta></head>
+<body>
+<header>
+<div class="header-kitty-background"></div>
+<div class="container">
+<div class="header-panel">
+<div class="user-menu">
+<a class="btn btn-link" href="/signin">Вход</a>
+<a class="btn btn-link" href="/help/registration">Регистрация</a>
+<div class="lang-picker-wrapper"></div>
+</div>
+<div class="topcat-brand">
+<a href="/">
+<img alt="International Cats Ranking System website" src="/styles/public/images/header_panel_logo.png"/>
+</a>
+</div>
+</div>
+<nav class="navbar main-menu" role="navigation">
+<ul class="nav">
+<li name="ranking"><a href="/ranking">Рейтинг</a></li>
+<li name="cat_shows"><a href="/cat-shows">Выставки</a></li>
+<li class="dropdown" name="catalogues">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Каталоги <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Владельцы</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/specialists">Специалисты</a></li>
+</ul>
+</li>
+<li class="dropdown" name="ads">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Породы <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/cats-colors-directory">Окрасы</a></li>
+<li><a href="/cats-colors-calculator">Калькулятор окрасов</a></li>
+</ul>
+</li>
+<!--li name="ads" class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Объявления <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="/callboard/pets">Кошки</a></li>
+          <li><a href="/callboard/products">Продукция</a></li>
+          <li><a href="/callboard/services">Услуги</a></li>
+        </ul>
+      </li-->
+<li class="dropdown" name="rules">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Правила <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/help/topcat-system-rules">Система TopCat</a></li>
+<li><a href="/judges">Эксперты</a></li>
+<li><a href="/help/raiting-calculation">Начисление баллов</a></li>
+<li><a href="/help/topcat-final">Финал TopCat</a></li>
+</ul>
+</li>
+<!--li name="photos"><a href="/cat-show-photo-albums">Фотографии</a></li-->
+<li class="dropdown" name="more">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Еще <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/news">Новости</a></li>
+<li><a href="/callboard/pets">Объявления</a></li>
+<li><a href="/cat-show-photo-albums">Фото с выставок</a></li>
+<li><a href="/blog-posts">Статьи</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/magazines">Журнал TopCat</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+
+<div class="breed-article-page">
+<div class="bg white">
+<div class="container">
+<ul class="breadcrumb">
+<li>
+<a href="/"><i class="fa fa-home fa-lg"></i></a>
+<span class="divider">/</span>
+</li>
+<li>
+<a href="/breeds-articles">Справочник пород кошек</a>
+<span class="divider">/</span>
+</li>
+<li class="active">
+                    Йорк шоколадный
+                </li>
+</ul>
+<div class="inner-container">
+<div class="breed-article">
+<div class="article-content">
+<div class="annotation">
+<div class="breed-article-photo">
+<img alt="Йорк шоколадный порода кошек фото" src="https://s3.webestudio.ru/topcat/breed_article_images/6/2/a/62a1247858d1bdc3cc89af724cd06e4f.jpeg">
+</img></div>
+<div class="breed-article-info">
+<div class="title">
+                                    Йорк шоколадный
+
+                                </div>
+<dl class="dl-horizontal details">
+<dt>Обозначение:</dt>
+<dd>YOR</dd>
+<dt>Группа:</dt>
+<dd>Полудлинношерстная</dd>
+<dt>Категория:</dt>
+<dd>Основная</dd>
+<dt>Происхождение:</dt>
+<dd>
+                                                США
+
+                                        </dd>
+<dt>Рекомендуется:</dt>
+<dd>для любых семей</dd>
+</dl>
+</div>
+</div>
+<div class="text">
+<h3>История породы </h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/c5/72/df/53/f9/3c/99/da/ec/30/06/43/36/ce/be/94/aa0189569264fd1310e3c174ee2aadaa.jpeg" style="width: 313px; float: right; margin: 0px 0px 10px 10px;"/></p><h3></h3><p>У этой породы «говорящее» название: «йорк»
+означает, что порода выведена в США, в штате Нью-Йорк. Именно там, в 1983 году на
+ферме Джанет Чифари, которая, кстати, не была селекционером, а просто любила
+кошек, длинношерстная домашняя любимица в очередной раз принесла котят. Одна
+кошечка в этом помете имела красивый насыщенный шоколадный окрас, за что и
+получила имя Брауни. Когда она подросла и стала кошачьей мамой, среди ее первых
+котят тоже оказался шоколадный мальчик, которого назвали Минки. Видимо,
+тогда-то Джанет Чифари и решила вывести новую породу, для чего скрестила Брауни
+и Минки. Родившиеся от них шоколадный котик Тэдди Бэр (Teddy Bear – Плюшевый Медвежонок) и биколорная
+кошечка Кокос (Cocoa) и
+стали первыми йорками. Проследить, куда уходят корни этой породы, практически
+невозможно: мать Брауни была обычной домашней кошкой неясного происхождения. Не
+исключено, что среди ее предков были сиамские кошки, от которых йорки и
+получили ген шоколадного окраса, а также персы. В 1989 году г-жа Чифари впервые
+показала своих питомцев широкой фелинологической общественности. На выставке CFF был представлен 6-месячный котенок
+из ее питомника – разумеется, он был шоколадного окраса и оказался так хорош,
+что тут же завоевал свои первые титулы. В 1990 году новая порода получила
+официальное признание со стороны CFFи AGFAкак экспериментальная. Позже йорков признала WCF, однако порода до сих пор пользуется
+популярностью лишь на американском континенте, в других же странах она
+по-прежнему считается достаточно редкой. </p><h3>Внешний вид</h3><p>Хорошо
+сбалансированная, стройная, энергичная кошка среднего размера, с вытянутым, но
+довольно крепким телом. Телосложением йорк напоминает сиамских кошек, но
+значительно больше и крупнее, с крепкой мускулатурой, вес взрослого животного
+составляет 7-8 кг.</p><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/34/f1/12/c3/b5/2b/28/83/71/92/24/a1/56/e5/46/b1/d3c9bdd00eb192d339cf4acce364230b.jpeg" style="float: left; width: 299px; margin: 0px 10px 10px 0px;"/></p><p><strong>Голова: </strong>Среднего размера, но выглядит маленькой в пропорции к телу. В форме модифицированного клина, который начинается от кончика носа и продолжается до кончиков ушей. Лоб немного округлый. Нос прямой и длинный, средней ширины; с легким углублением на уровне глаз. Мордочка хорошо очерчена, имеет мягкие контуры; но выглядит квадратной из-за очень развитых подушечек вибрис. Подбородок крепкий, имеет мягкие контуры; формирует прямую вертикальную линию с мочкой носа.</p><p><strong>Глаза: </strong>Среднего размера, овальные постав слегка раскосый; гармонирующий с линией клина головы. Расстояние между глазами - не менее ширины одного глаза. Цвет глаз от золотистого до ярко-орехового и до насыщенного зеленого цвета. Чем чище и чем более насыщен цвет, тем лучше.</p><p><strong>Уши: </strong>Большие, умеренно заостренные на кончиках, широкие в основании, слегка разведены и наклонены вперед. Постав ушей продолжает клиновидную линию формы головы. Внутренняя сторона уха украшена щеточками волос. Поставлены широко - на расстоянии минимум ширины основания одного уха.</p><p><strong>Шея: </strong>От
+средней до длинной.</p><p><strong>Тело:</strong>От среднего до крупного размера. Вытянутое и стройное, с крепким костяком и с развитой мускулатурой. Грудная клетка и плечи не должны быть шире бедер.</p><p><strong>Ноги: </strong>Длинные, стройные и достаточно мускулистые. Задние конечности заметно длиннее передних.</p><p><strong>Лапы: </strong>Маленькие, овальные, между
+пальцами – длинные пучки шерсти.</p><p><strong>Хвост: </strong>От среднего до длинного, прямой, широкий в основании, сужающийся к округлому кончику. Должен быть полностью опушен.</p><p><strong>Шерсть:</strong> Средней длины, тонкая и блестящая, ниспадающая с корпуса. Текстура мягкая и шелковистая, с хооршо развитым подшерстком, который не должен быть ватным. Шерсть короткая на мордочке и животе, полудлинная на остальных участках тела. Может быть выражен воротник.</p><p><strong>Окрасы:</strong> <br/>Являются отличительным признаком породы.Стандартом предусмотрено четыре цветовых варианта: <br/>- шоколадный,лиловый, <br/>- шоколадный с белым, лиловый с белым. <br/>Цвет расномерно распределен по всему телу, прокрашен до самых кончиков, без высветлений и каких-либо остаточных отметин табби у взрослых.<br/>У кошек окраса биколор белый цвет покрывает воротник, грудь, живот, лапы и иногда мордочку. Как правило, котята бывают более светлыми, чем взрослые животные, и даже могут иметь признаки полосатости и пятнистости. По мере взросления, примерно к 18 месяцам, окрас стабилизируется.</p><p><strong>Недостатки:</strong> Наличие белого медальона или
+белого пятна на животе у кошек с равномерным окрасом.</p><p><strong>Дисквалификация на выставках: </strong>Любые отклонения от стандарта.</p><p><strong>Дисквалификация всех пород: </strong>Ампутированные когти, крипторхизм, глухота. Любые костные деформации на голове, теле или конечностях.</p><h3>Особенности и характер  </h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/da/e1/61/bb/42/5c/53/ef/47/54/d5/51/69/7f/54/2c/941b584344cfaaaf6bdb0f6ed2702c8f.jpeg" style="width: 357px; float: right; margin: 0px 0px 10px 10px;"/></p><h3></h3><p>Йорк - довольно самостоятельная кошка, не требующая
+повышенного внимания со стороны хозяев. Она миролюбива, дружелюбна, ласкова со
+всеми членами семьи, а у хозяина очень любит спать на коленях. Кошек этой
+породы часто называют кошкой-спутником, так как эта йорк всегда и везде сопровождает
+своего хозяина. При этом йорк активная, общительная, веселая, игривая кошка,
+которая ни за что не останется в стороне, если в доме царит веселье. Быстро привыкает
+к новым людям, легко находит общий язык с детьми. С незнакомцами, как правило, несколько
+сдержана, но никогда не проявляет агрессии. Спокойно относится к воде. Отлично
+ловит мышей.</p><h3>Содержание и уход</h3><p>Порода йорк не
+требует особого ухода за собой, она достаточно неприхотлива. Достаточно обычного
+купания и расчесывания шерсти с помощью специальной расчески, а также
+правильного и сбалансированного питание. Предки йорков жили на ферме, поэтому в
+целом это здоровая порода, лишь иногда могут иметь место незначительные
+заболевания желудка, пищевые отравления и выпадение шерсти.</p><h3>Кормление</h3><p>Сбалансированный рацион</p><h3>Селекция</h3><p><strong>Допустимые
+скрещивания</strong></p><p><strong>Породы,
+созданные при участии Йорков</strong></p><h3>Другие и устаревшие названия породы </h3><p><img alt="" src="https://s3.webestudio.ru/topcat/editor_images/70/96/00/3f/20/6f/c6/41/5c/31/90/92/d3/78/b1/93/6f079b0fcd778511d70e23dc9005703c.jpeg" style="width: 383px; float: right; margin: 0px 0px 10px 10px;"/></p><h3></h3><p>Йорк
+шоколадный</p><p>Йоркская
+шоколадная.</p><h3>Неофициальное (сленговое) название породы на русском языке </h3><p>шоколадка</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-wrapper">
+<div class="row-fluid footer-menu">
+<div class="span3">
+<div class="footer-title">Разделы</div>
+<ul>
+<li><a href="/ranking">Рейтинг</a></li>
+<li><a href="/cat-shows">Выставки</a></li>
+<li><a href="/cats">Кошки</a></li>
+<li><a href="/users">Заводчики</a></li>
+<li><a href="/clubs">Клубы</a></li>
+<li><a href="/catteries">Питомники</a></li>
+<li><a href="/breeds-articles">Справочник пород</a></li>
+<li><a href="/help">Помощь</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Услуги</div>
+<ul>
+<li><a href="/articles/promotion">Реклама</a></li>
+<li><a href="/articles/cat-shows-management-support">Проведение выставок</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Информация</div>
+<ul>
+<li><a href="/help/site-help">О сайте</a></li>
+<li><a href="/help/site-help#membership">Как зарегистрироваться?</a></li>
+<li><a href="/help/raiting-calculation">Правила начисления баллов</a></li>
+<li><a href="/help/cat-holder-help">Заводчику</a></li>
+<li><a href="/help/cattery-help">Питомнику</a></li>
+<li><a href="/help/club-help">Клубу</a></li>
+<li><a href="/help/cat-show-manager-help">Организатору выставки</a></li>
+<li><a href="/help">Помощь</a></li>
+<li><a href="/banners">Баннеры</a></li>
+<li><a href="/articles/recvisits">Реквизиты</a></li>
+<li><a href="/articles/payments">Оплата на сайте</a></li>
+<li><a href="/legal-documents">Юридические документы</a></li>
+<li><a href="/articles/cookie-policy">Мои настройки</a></li>
+</ul>
+</div>
+<div class="span3">
+<div class="footer-title">Контакты</div>
+<p class="feedback-note">Если у Вас возникли вопросы или предложения, напишите нам, мы обязательно Вам ответим:</p>
+<p><a class="support-email" href="mailto:support@top-cat.org">support@top-cat.org</a></p>
+<ul class="social-icons">
+<li>
+<a href="http://vk.com/club74872552" target="_blank">
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+<span>
+<img alt="" src="/styles/public/images/soc_icon5.png"/>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="partners">
+<div class="footer-title">Наши партнеры</div>
+<a href="http://motmom.com" target="_blank">
+<img alt="Motmom" src="/styles/public/images/partners/motmom_logo.png"/>
+</a>
+<a href="http://top-dog.pro" target="_blank">
+<img alt="TopDog" src="/styles/public/images/partners/topdog_logo.png"/>
+</a>
+<a href="http://golden-cat.pro" target="_blank">
+<img alt="Golden Cat" src="/styles/public/images/partners/goldencat_logo.png"/>
+</a>
+<div class="copyright">ООО "ЭНИМАЛ СЕРВИС" по лицензии © 2011 - 2025</div>
+</div>
+</div>
+</footer>
+<div class="notifications-bar"></div>
+<div id="bubble_tooltip_wrapper"></div>
+<div id="back_to_top_btn"></div>
+<!-- Использование дополнительных cookie -->
+
+</body>
+</html>
