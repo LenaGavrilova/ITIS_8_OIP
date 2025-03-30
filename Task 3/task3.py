@@ -3,7 +3,7 @@ import re
 import json
 from collections import defaultdict
 
-TOKENS_DIR = "../Task2/tokens"
+TOKENS_DIR = "../Task 2/tokens"
 INDEX_FILE = "inverted_index.json"
 
 
