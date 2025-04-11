@@ -1,11 +1,14 @@
 import os
 import math
+import re
+from flask import Flask, request, render_template
 from collections import defaultdict
 
-TF_IDF_FOLDER = "../Task 4/results"
-TOKENS_FOLDER = "../Task 2/tokens"
-TOP_K = 10
+app = Flask(__name__)
 
+TF_IDF_FOLDER = "../Task 4/results"
+HTML_FOLDER = "../Task 1/downloaded_pages"
+TOP_K = 10
 
 def load_tf_idf_vectors():
     vectors = {}
@@ -17,15 +20,13 @@ def load_tf_idf_vectors():
                 for line in f:
                     parts = line.strip().split()
                     if len(parts) == 3:
-                        term, idf, tf_idf = parts
-                        vector[term] = float(tf_idf)
+                        term, _, tf_idf = parts
+                        vector[term.lower()] = float(tf_idf)
                 vectors[filename] = vector
     return vectors
 
-
 def tokenize_query(query):
-    return [word.lower() for word in query.strip().split() if word.isalpha()]
-
+    return [word.lower() for word in re.findall(r'\b\w+\b', query)]
 
 def build_query_vector(query_tokens, doc_vectors):
     df = defaultdict(int)
@@ -46,7 +47,6 @@ def build_query_vector(query_tokens, doc_vectors):
 
     return query_vector
 
-
 def cosine_similarity(vec1, vec2):
     dot = 0
     norm1 = 0
@@ -62,6 +62,18 @@ def cosine_similarity(vec1, vec2):
         return 0
     return dot / (math.sqrt(norm1) * math.sqrt(norm2))
 
+def extract_snippet(text, query_tokens):
+    for token in query_tokens:
+        match = re.search(re.escape(token), text, re.IGNORECASE)
+        if match:
+            idx = match.start()
+            start = max(idx - 50, 0)
+            end = min(idx + 100, len(text))
+            snippet = text[start:end]
+            for t in query_tokens:
+                snippet = re.sub(f"(?i)({re.escape(t)})", r"<mark>\1</mark>", snippet)
+            return snippet
+    return ""
 
 def search(query, doc_vectors):
     query_tokens = tokenize_query(query)
@@ -73,21 +85,34 @@ def search(query, doc_vectors):
         if score > 0:
             scores[doc] = score
 
-    return sorted(scores.items(), key=lambda x: x[1], reverse=True)
+    ranked = sorted(scores.items(), key=lambda x: x[1], reverse=True)[:TOP_K]
 
+    results = []
+    for filename, score in ranked:
+        page_number = filename.replace("tf_idf_tokens_tokens_page_", "").replace(".txt", "")
+        html_path = os.path.join(HTML_FOLDER, f"page_{page_number}.txt")
+
+        if os.path.exists(html_path):
+            with open(html_path, "r", encoding="utf-8") as f:
+                html = f.read()
+                clean_text = re.sub(r"<[^>]+>", "", html)
+                snippet = extract_snippet(clean_text, query_tokens)
+                results.append((f"Страница {page_number}", float(score), snippet))
+        else:
+            results.append((f"Страница {page_number}", float(score), "<em>HTML не найден</em>"))
+
+    return results
+
+@app.route("/", methods=["GET", "POST"])
+def index():
+    query = ""
+    results = []
+    if request.method == "POST":
+        query = request.form.get("query", "")
+        if query:
+            results = search(query, doc_vectors)
+    return render_template("index.html", query=query, results=results)
 
 if __name__ == "__main__":
     doc_vectors = load_tf_idf_vectors()
-
-    while True:
-        user_query = input("\nВведите поисковый запрос (или 'exit' для выхода): ").strip()
-        if user_query.lower() == "exit":
-            break
-
-        results = search(user_query, doc_vectors)
-        if results:
-            print("\n Найденные документы:")
-            for filename, score in results[:TOP_K]:
-                print(f"{filename} — релевантность: {score:.4f}")
-        else:
-            print("Ничего не найдено.")
+    app.run(debug=True)
